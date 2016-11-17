@@ -1,0 +1,733 @@
+/******** styles for header and tips ***********/
+#header {
+	margin: 0 auto;
+    background: none repeat scroll 0 0 black;
+    color: white;
+    text-align: left;
+    overflow: hidden;
+}
+
+#header div.header-nav {
+	background: url("/static/images/appcenter/bg_header.jpg") repeat-x scroll 0 0 transparent;
+	height: 60px;
+}
+
+#header div.header-account {
+	text-align: right;
+	width: 960px;
+	margin: 0 auto;
+	color: #FFF;
+    line-height: 30px;
+}
+
+#header div.header-account span {
+	margin-right: 10px;	
+}
+
+#header div.header-account a {
+	color: #FFF;
+	background: none;
+	margin-right: 10px;
+}
+
+#header div.header-account a:last-child {
+	margin-right: 20px;
+}
+
+#header div.header-account a:hover {
+	color: #EEE;
+}
+
+#header div.header-nav div.header-nav-box{
+	width: 960px;
+	margin: 0 auto;	
+	overflow: hidden;
+}
+
+#header div.header-nav div.title {
+	background: url("/static/images/firefox-48.png") no-repeat scroll 0 center transparent;
+    float: left;
+    font-size: 26px;
+    padding-left: 60px;
+    line-height: 60px;
+}
+
+#no_firefox_tips,
+#no_appcenter_tips {
+	background-color: #96AEC8;
+    display: none;
+    margin: 0 auto;
+    padding: 5px 30px;
+    color: #000;
+    line-height: 20px;
+}
+
+#no_firefox_tips a,
+#no_appcenter_tips a {
+	background-color: #DCE3EB;
+	background: -moz-linear-gradient(center top , #FFF, #DCE3EB) repeat scroll 0 0 #DCE3EB;
+	background-image: -webkit-linear-gradient(top, #FFF, #DCE3EB); 
+    border: 1px solid #607A93;
+    border-radius: 10px 10px 10px 10px;
+    color: #000;
+    margin-left: 22px;
+    padding: 2px 15px;
+}
+
+#no_firefox_tips > div,
+#no_appcenter_tips > div {
+	width: 910px;
+	margin: 0 auto;
+}
+
+a#install_appcenter {
+	text-decoration: none;
+}
+
+a#install_appcenter div {
+	background-color: #57A243;
+	background: -moz-linear-gradient(center top , #82C53B, #4C9917) repeat scroll 0 0 #57A243;
+	background-image: -webkit-linear-gradient(top, #8EE570, #15550B); 
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+    font-size: 15px;
+    padding: 5px 20px;
+    margin: 0 0 8px;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px #000;
+}
+/************* end of styles *************/
+
+div.bread-crumbs {
+	padding: 5px 15px;
+	line-height: 20px;
+	border-bottom: 1px solid #95ADCA;
+	background: -moz-linear-gradient(center top , #FFFFFF 0%, #DEE8F5 100%) repeat scroll 0 0 #DEE8F5;
+}
+
+div.bread-crumbs img {
+	padding: 0 5px;
+	vertical-align: middle;
+	margin-top: -2px;
+}
+
+div#content {
+	margin: 	20px;
+}
+
+div#content div.apps-categories,
+div#content div.ranks {
+	margin-bottom: 10px;
+}
+
+.apps-br {
+	border-width: 2px 0;
+	border-style: solid;
+	border-color: rgb(233, 237, 244);
+	height: 1px;
+	background-color: rgb(186, 199, 219);
+	clear: both;
+	margin-top: -3px;
+}
+
+.apps-category-box {
+	min-height: 514px;
+}
+
+div.content-block {
+	background-color: #F6F7FB;
+	border: 1px solid rgb(186, 198, 219);
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	margin-bottom: 20px;
+	box-shadow: 1px 1px 2px #ccc;
+	-moz-box-shadow: 1px 1px 2px #ccc;
+	font-size: 12px;
+	overflow: hidden;
+}
+
+.content-block h3 {
+	padding-left: 15px;	
+	line-height: 30px;
+	background: -moz-linear-gradient(center top , #FFFFFF 0%, #DEE8F5 100%) repeat scroll 0 0 #DEE8F5;
+	border-bottom: 1px solid #95ADCA;
+	overflow: hidden;
+}
+
+.content-block h3 a {
+	float: left;	
+}
+
+.content-block h3 a.more {
+	float: right;
+    font-size: 12px;
+    font-weight: normal;
+    margin-right: 26px;
+}
+
+.apps-box {
+	overflow: hidden;
+}
+
+.apps-box div.category-box {
+	overflow: hidden;
+    clear: both;
+}
+
+.apps-box div#game-box,
+.apps-box div#book-box {
+	clear: both;
+}
+
+.apps-box div.app-item {
+	float: left;
+	height: 100px;
+	width: 100px;
+	border: 1px solid;
+	margin: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	cursor: default;
+	background-color: rgba(122, 122, 122, 0.5);
+	text-align: center;
+}
+
+.apps-box div.app-item:hover {
+	background-color: rgba(24, 24, 24, 0.5);
+}
+
+.apps-box div.app-item div.ops A {
+	font-size: 11px;
+	margin-left: 3px;
+}
+
+form input,
+form select,
+form textarea {
+    -moz-appearance: none;
+    -moz-box-sizing: content-box;
+    border: 1px solid #BBBBBB;
+    font-size: 14px;
+    padding: 4px 5px;
+    vertical-align: bottom;
+}
+
+.apps-box div.app {
+	width: 160px;
+	float: left;
+	text-align: left;
+	padding: 10px;
+    position: relative;
+}
+
+.apps-box div.newapp {
+    background: url("/static/images/new.gif") no-repeat scroll 86px 0 transparent
+}
+
+.apps-box div.app div.app-info div.app-title {
+	line-height: 20px;
+	height: 20px;
+	overflow: hidden;
+	width: 86px;	
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.apps-box div.app div.app-info div.app-title:hover {
+	overflow: visible;
+}
+
+.apps-box div.app div.app-info > div.app-rating {
+	background: url("/static/images/score.png") no-repeat scroll 0 -9px transparent;
+	width: 50px;
+}
+
+.apps-box div.app div.app-info > div.app-rating > div {
+	background: url("/static/images/score.png") no-repeat scroll 0 0 transparent;
+	height: 8px;
+}
+
+.apps-box div.app div.app-link,
+.apps-box div.app div.app-info {
+	display: inline;
+	float: left;
+}
+
+.apps-box div.app div.app-link {
+	padding-top: 8px;
+}
+
+.apps-box div.app div.app-link a {
+}
+
+.apps-box div.app div.app-img-link {
+	float: left;
+	margin: 0 5px;
+	height: 64px;
+	width: 64px;
+}
+
+.apps-box div.app div.app-img-link img {
+	height: 64px;
+	width: 64px;
+	border-radius: 10px;
+	-moz-border-radius: 10px;
+	-webkit-border-radius: 10px;
+}
+
+.apps-box div.app div.app-img-link a:hover {
+	background-color: transparent;
+}
+
+.apps-box div.app div.app-img-link a:hover img {
+	box-shadow: 0 1px 5px #999;
+}
+
+.apps-box div.app div.app-img-link a:active img {
+	box-shadow: 0 1px 5px #333;
+}
+
+.apps-box div.app div.app-img-link a div.html5_back {
+    background:url("/static/images/html5.png");
+    left:14px;
+    position:absolute;
+    top:9px;
+    width:64px;
+    height:64px;
+}
+
+.apps-box > div.categories {
+	clear: both;
+	height: 30px;
+	background: -moz-linear-gradient(center top , #FFFFFF 0%, #DEE8F5 100%) repeat scroll 0 0 #DEE8F5;
+	border-bottom: 1px solid #95ADCA;
+	line-height: 20px;
+}
+
+.apps-box > div.categories > div.category {
+	float: left;
+    margin-bottom: 0;
+    padding: 5px 16px;
+}
+
+.apps-box > div.categories > div.current {
+	background-color: #FFFFFF;
+    border-color: #BAC7DB #BAC7DB #FFFFFF;
+    border-style: solid;
+    border-width: 0 1px;
+    font-weight: bold;
+    position: relative;
+    height: 21px;
+    background: -moz-linear-gradient(center top , #FFFFFF 50%, #F6F7FB 100%) repeat scroll 0 0 #F6F7FB;
+    background-color: #F6F7FB;
+}
+
+.apps-box > div.categories > div.current > a {
+	color: black;	
+}
+
+div.div-table {
+	display: table;
+}
+
+div.div-table > div {
+	display: table-row;
+}
+
+div.div-table > div > div {
+	display: table-column;
+}
+
+div.ranks h3 {
+	padding-left: 10px;	
+}
+
+div.ranks div.app-rank {
+	padding: 2px 10px;
+	height: 25px;
+	vertical-align: middle;
+	border-bottom: 1px solid rgb(205, 212, 222);
+	overflow: hidden;
+}
+
+div.ranks div.app-rank:last-child {
+	border-bottom: none;
+}
+
+div.ranks div.app-rank:nth-child(odd) {
+	background-color: rgb(222, 232, 245);
+}
+
+div.ranks div.app-rank IMG {
+	height: 16px;
+	width: 16px;	
+	vertical-align: middle;
+	margin-top: -1px;
+	border-radius: 2px;
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+}
+
+div.ranks div.app-rank A {
+	line-height: 25px;
+	margin-left: 2px;
+}
+
+/******* styles for comments **********/
+div#app-info,
+div.comments-box {
+	border: 1px solid #BAC6DB;	
+	margin-bottom: 20px;
+	background-color: #F6F7FB;
+}
+
+div#app-info {
+}
+
+div#app-info div.app-title {
+	font-size: 20px;
+	padding: 10px 15px;
+}
+
+div#app-info div.app-title > img {
+	vertical-align: middle;
+	width: 32px;
+	height: 32px;
+	margin-top: -4px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+
+div#app-info div.app-title > A.goback {
+	float: right;
+	font-size: 13px;
+	margin-right: 10px;
+}
+
+div#app-info div.app-description {
+	margin: 0 15px;
+	line-height: 1.6em;
+}
+
+div#app-info div.app-description p {
+	padding-bottom: 5px;	
+}
+
+div#app-info div.app-ops {
+	overflow: hidden;
+	margin: 10px 15px;
+}
+
+div#app-info div.app-ops a {
+	background-color: #57A243;
+	background: -moz-linear-gradient(center top , #B2D88B, #66B314) repeat scroll 0 0 #57A243;
+	color: #FFF;
+	margin: 0 5px 0 0;
+	padding: 5px 20px;
+	-moz-border-radius: 3px;	
+	border-radius: 3px;
+	line-height: 28px;
+	text-shadow: 0 1px 1px black !important;
+	border: 1px solid #669536;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+div#app-info div.app-ops a:hover {
+	text-shadow: 0 0 0 black !important;
+}
+
+div#app-info div.share-btns {
+	float: right;
+}
+
+div#app-info div.share-btns > IMG {
+	border: 1px solid transparent;
+	padding: 2px;
+	cursor: pointer;	
+}
+
+div#app-info div.share-btns > IMG:hover {
+	border: 1px solid #BAC7DB;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+div.comments-box > div.comments-info {
+	overflow: hidden;
+	font-size: 20px;
+	padding: 10px 20px;
+	background: -moz-linear-gradient(center top , #FFFFFF 0%, #DEE8F5 100%) repeat scroll 0 0 #DEE8F5;
+	border-bottom: 1px solid #95ADCA;
+}
+
+div.comments-box > div.comments-info SPAN,
+div.comments-box > div.comments-info div {
+	float: left;
+}
+
+div.comments-box > div.comments {
+	padding: 5px 20px	
+}
+
+div.comments-box > div.comments > div {
+	padding-bottom: 5px;	
+}
+
+div.comments-box > div.comments:first-child {
+	padding-top: 10px;
+}
+
+div.comments-box > div.comments  div.comment-content {
+	margin: 2px 0 2px 10px;
+	clear: both;
+}
+
+div.comments-box > div.comments div.comment-op-del {
+    bottom: 18px;
+    float: right;
+    position: relative;
+}
+
+div.comments-box > div.comments div.comment-header > A {
+	float: left;
+	line-height: 14px;
+	padding-right: 10px;
+}
+
+div.comments-box > div.comments div.comment-header > div {
+	float: left;	
+}
+
+div.comments-box > div.comments div.comment-header > span {
+	float: right;	
+}
+
+div.comments-box > div.comments div.comment-header > span.nickname {
+	float: left;	
+}
+
+div.comments-box > div.comment-form {
+	padding: 10px 20px;	
+}
+
+div.comments-box > div.comment-form div#comment-score,
+div.comments-box > div.comment-form textarea {
+	margin-top: 2px;	
+	float: left;
+}
+
+div.comments-box div#comment-tips {
+	display: none;
+	color: red;
+	line-height: 22px;
+}
+
+div.comments-box > div.comment-form TABLE TD {
+	vertical-align: top;
+}
+
+div.comments-box > div.comment-form INPUT[type=submit] {
+	margin-top: 10px;	
+	cursor: pointer;
+	font-size: 12px;
+	padding: 4px 15px;
+}
+
+div#pages {
+	float: right;
+	margin: 10px 0;	
+}
+
+div.comment-form tr.captcha td {
+	padding-top: 5px;
+}
+
+div.comment-form tr.captcha td,
+div.comment-form tr.captcha td img,
+div.comment-form tr.captcha td input {
+	vertical-align: middle;
+}
+
+div.comment-form tr.captcha td img {
+	height: 26px;
+}
+
+div.comment-form tr.captcha td input {
+	width: 50px;
+}
+
+/***************** end **************/
+
+/************** styles for scores *******************/
+div.comments-info > div.app-score {
+	height: 20px;
+	background: url("/static/images/appcenter/stars.gif") repeat-x scroll 0 7px transparent;
+}
+
+div.app_score {
+	float: left;
+	margin-left: 10px;
+	height: 20px;
+	width: 50px;
+}
+
+div.app_score_1 {
+	background: url("/static/images/appcenter/comment_stars.gif") no-repeat scroll 0 -60px transparent;
+}
+
+div.app_score_2 {
+	background: url("/static/images/appcenter/comment_stars.gif") no-repeat scroll 0 -44px transparent;
+}
+
+div.app_score_3 {
+	background: url("/static/images/appcenter/comment_stars.gif") no-repeat scroll 0 -28px transparent;
+}
+
+div.app_score_4 {
+	background: url("/static/images/appcenter/comment_stars.gif") no-repeat scroll 0 -12px transparent;
+}
+
+div.app_score_5 {
+	background: url("/static/images/appcenter/comment_stars.gif") no-repeat scroll 0 4px transparent;
+}
+/*************** end ******************/
+
+/***** styles for jqdialog ****/
+#jqDialog_box {
+	background: #f5f5f5;
+	position: absolute;
+	width: 320px;
+	height: 280px;
+	font-family: Arial;
+	border-width: 1px 3px 3px 1px;
+	border-style: solid;
+	border-color: #ccc;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	-khtml-border-radius: 6px;
+	border-radius: 6px;
+	-moz-box-shadow: 0 0 30px #e6e6e6;
+	box-shadow: 0 0 30px #e6e6e6;
+}
+
+#jqDialog_content {
+	margin: 10px;
+	font-weight: bold;
+	font-size: 12px;
+	height: 260px;
+	overflow: hidden;
+}
+
+#jqDialog_options {
+	margin: 10px;
+	text-align: center;
+}
+
+#jqDialog_options button {
+	font-family: Arial;
+	margin-right: 5px;
+	background: #000;
+	border: 0px;
+	font-size: 1.5em;
+	color: #fff;
+	width: auto;
+	cursor: pointer;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-khtml-border-radius: 3px;
+	border-radius: 3px;
+}
+
+#jqDialog_input {
+	padding: 4px;
+	width: 250px;
+}
+
+#jqDialog_close {
+	background: none;
+	border: none;
+	float: right;
+	font-weight: bold;
+	font-size: 10px;
+	color: #ff0000;
+	cursor: pointer;
+}
+
+#jqDialog_content iframe {
+	height: 260px;
+}
+/****  end   ***/
+
+/** styles for inner pages **/
+div#inner-container {
+	margin: 0;
+	padding: 0;
+	width: 960px;
+	text-align: left;
+}
+/** end **/
+
+/** styles for banner show */
+div#banner-show {
+	position: relative;
+	height: 267px;
+	overflow: hidden;
+	background-color: #FFF;
+}
+
+div#banner-show img {
+	vertical-align: middle;
+}
+
+div.tab-contents {
+	float: left;
+	position: relative;
+	height: 267px;
+	top: 0px;
+}
+
+div#banner-show > div.tab-contents > div.tab-content {
+	position: relative;
+	text-align: center;
+	display: none;
+	opacity: 0.25;
+}
+
+div#banner-show > div.tab-contents > div.current {
+	display: block;
+}
+
+div#banner-show > div.tabs {
+	position: absolute;
+	width: 222px;
+	left: 697px;
+}
+
+div#banner-show > div.tabs > div.tab {
+	height: 67px;
+	vertical-align: middle;
+}
+
+div#banner-show > div.tabs > div.tab > div { 
+	width: 194px;
+	float: right;
+	text-align: center;
+	background: -moz-linear-gradient(center top , #FFFFFF 50%, #EAF1F9 100%) repeat scroll 0 0 #DEE8F5;
+}
+
+div#banner-show > div.tabs > div.tab a {
+	line-height: 67px;
+}
+
+div#banner-show > div.tabs > div.current {
+	background: url("/static/images/banner/bg.png") no-repeat scroll center center transparent;
+}
+
+div#banner-show > div.tabs > div.current > div {
+	background: none;
+}
+/**  end  **/

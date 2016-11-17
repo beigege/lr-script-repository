@@ -1,0 +1,75 @@
+Debug Message:
+	Correlation engine instance created; using configuration Default
+
+Debug Message:
+	Rules could not be applied to http://www.g-fox.cn/live.gif?channelid=full.firefox.com.cn&fxversion=19.0.2&ceversion=2013.3&ver=4&actcode4=%7B2a100dca-5c93-4177-ae5b-8f62ec88e695%7D&uk=%7B5760b364-24e3-4deb-9069-1c9cd209c498%7D&dk=RSm3CvmslVzhlS0tFurXeFgRld4pIF6M9DMxr1QXve4UQvj4/lqFYw==&prevsessionlen=2&locale=zh-CN&moexts=cemigration,coba,cpmanager,livemargins,tabimprovelite,cehomepage,quicklaunch,share_all_cn
+
+Debug Message:
+	Rules could not be applied to http://adu.g-fox.cn/adu.gif?channelid=full.firefox.com.cn&fxversion=19.0.2&ceversion=2013.3&ver=1_0&pk=%7B2a100dca-5c93-4177-ae5b-8f62ec88e695%7D&uk=%7B5760b364-24e3-4deb-9069-1c9cd209c498%7D&locale=zh-CN&moexts=cemigration,coba,cpmanager,livemargins,tabimprovelite,cehomepage,quicklaunch,share_all_cn&now=1468198993234
+
+Debug Message:
+	Rules could not be applied to http://addons.g-fox.cn/appcenter.gif?t=0&a=002&d=0&r=0.829590062216429&cid=full.firefox.com.cn
+
+Debug Message:
+	Rules could not be applied to http://api.app.mozilla.com.cn/inner/
+
+Debug Message:
+	Rules could not be applied to http://addons.g-fox.cn/tk.gif?when=run
+
+Debug Message:
+	Rules could not be applied to http://192.168.182.88/forum.php
+
+Debug Message:
+	TaskID=41  URL=http://192.168.182.88/forum.php
+
+Debug Message:
+	Rules could not be applied to http://addons.g-fox.cn/appcenter.gif?t=0&a=001&d=tab-install&r=0.9540980739836966&cid=full.firefox.com.cn
+
+Debug Message:
+	Rules could not be applied to http://www.google-analytics.com/__utm.gif?utmwv=5.6.7&utms=2&utmn=734671847&utmhn=api.app.mozilla.com.cn&utmcs=UTF-8&utmsr=1366x768&utmvp=1123x551&utmsc=24-bit&utmul=zh-cn&utmje=0&utmfl=-&utmdt=%E7%81%AB%E7%8B%90%E5%BA%94%E7%94%A8%E4%B8%AD%E5%BF%83&utmhid=1940812525&utmr=-&utmp=%2Finner%2F&utmht=1468199006030&utmac=UA-2826582-7&utmcc=__utma%3D265356880.1632274347.1466129867.1467779062.1468198715.12%3B%2B__utmz%3D265356880.1466129867.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=&utmu=qBAAAAAAAAAAAAAAAAAAAAAE~
+
+Debug Message:
+	Rules could not be applied to http://api.app.mozilla.com.cn/inner/
+
+Debug Message:
+	TaskID=114  URL=http://192.168.182.88/member.php?mod=register
+
+Debug Message:
+	Rules could not be applied to http://192.168.182.88/forum.php?mod=ajax&inajax=yes&infloat=register&handlekey=register&ajaxmenu=1&action=checkusername&username=9108014
+
+Debug Message:
+	Rules could not be applied to http://192.168.182.88/member.php?mod=register
+
+Debug Message:
+	Rules could not be applied to /static/js/ajax.js?G0S
+
+Debug Message:
+	Rules could not be applied to http://192.168.182.88/member.php?mod=register
+
+Debug Message:
+	Rules could not be applied to http://192.168.182.88/member.php?mod=register&inajax=1
+
+Debug Message:
+	Rules could not be applied to http://192.168.182.88/member.php?mod=register
+
+Debug Message:
+	Rules could not be applied to http://192.168.182.88/forum.php?mod=ajax&inajax=yes&infloat=register&handlekey=register&ajaxmenu=1&action=checkemail&email=9108014@163.com
+
+Debug Message:
+	Rules could not be applied to http://192.168.182.88/member.php?mod=register
+
+Debug Message:
+	Rules could not be applied to http://192.168.182.88/forum.php
+
+Debug Message:
+	Rules could not be applied to http://192.168.182.88/member.php?mod=register
+
+Debug Message:
+	TaskID=146  URL=http://192.168.182.88/forum.php
+
+Debug Message:
+	Rules could not be applied to /static/js/common_extra.js?G0S
+
+Debug Message:
+	Rules could not be applied to http://192.168.182.88/forum.php
+

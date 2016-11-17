@@ -1,0 +1,8 @@
+#include "lrun.h"
+#include "vuser_init.c"
+#include "ActionStrlenSizeof.c"
+#include "ActionAverage.c"
+#include "ActionABC.c"
+#include "ActionGrade.c"
+#include "ActionSplitStr.c"
+#include "vuser_end.c"

@@ -1,0 +1,15 @@
+[t6]
+FileName1=t6.htm
+URL1=http://192.168.182.88/forum.php
+Total=2
+RequestHeaderFile=t6_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t6_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_6.xml
+FileName2=t6_get.html
+URL2=http://cp.discuz.qq.com/tips/get?rand=2114&s_id=&product_version=X3.2&product_release=&fix_bug=&is_founder=&s_url=http%3A%2F%2F192.168.182.88%2F&last_send_time=&ts=1466489529&sig=&admin_id=0&group_id=10&open_id=&uid=2&callback=discuzTipsCallback
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=0

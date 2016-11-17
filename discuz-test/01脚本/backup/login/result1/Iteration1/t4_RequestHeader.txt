@@ -1,0 +1,10 @@
+GET /misc.php?mod=patch&action=ipnotice&_r=0.49128864272567696&inajax=1&ajaxtarget=ip_notice HTTP/1.1
+Referer: http://192.168.182.88/forum.php
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept: */*
+Connection: Keep-Alive
+Host: 192.168.182.88
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=bpfg85; HE44_2132_lastact=1466489301%09home.php%09spacecp; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=2; HE44_2132_sendmail=1; HE44_2132_auth=f62bpoXZSuloLkMN2yLwLi5Q6jTgJDGT18bfSlL%2FDJ2rhICC%2FIt9NrpCxb9A1XOeB98%2BYaffO%2BY6GlJ1X4zC; HE44_2132_lastcheckfeed=2%7C1466489301; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466489088; HE44_2132_noticeTitle=1; HE44_2132_checkpm=1
+

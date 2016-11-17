@@ -1,0 +1,15 @@
+[t7]
+FileName1=t7.htm
+URL1=http://192.168.182.88/member.php?mod=register
+Total=2
+RequestHeaderFile=t7_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t7_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_7.xml
+FileName2=t7_register.html
+URL2=http://192.168.182.88/static/js/register.js?G0S
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=0

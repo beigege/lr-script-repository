@@ -1,0 +1,15 @@
+Virtual User Script started at : 2016-11-02 10:24:53
+Starting action vuser_init.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Action.
+Action.c(11): Error: C interpreter run time error: Action.c (11):  Error -- memory violation : Exception ACCESS_VIOLATION received.
+Action.c(11): Notify: CCI trace: Action.c(4): foo()
+.
+Action.c(11): Notify: CCI trace: Compiled_code(0): Action()
+.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

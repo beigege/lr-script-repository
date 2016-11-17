@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Fri, 24 Jun 2016 01:28:56 GMT
+Content-Type: text/xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: HE44_2132_lastact=1466731736%09forum.php%09misc; expires=Sat, 25-Jun-2016 01:28:56 GMT; path=/
+Expires: -1
+Cache-Control: no-store, private, post-check=0, pre-check=0, max-age=0
+Pragma: no-cache
+

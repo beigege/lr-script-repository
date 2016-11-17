@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\my\study\performance\LRtest-script\post
+-ID:\Program Files (x86)\HP\LoadRunner\include
+-ed:\my\study\performance\lrtest-script\post\\logfile.log
+d:\my\study\performance\lrtest-script\post\\combined_post.c
+d:\my\study\performance\lrtest-script\post\\pre_cci.c

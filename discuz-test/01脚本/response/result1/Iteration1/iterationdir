@@ -1,0 +1,8 @@
+[vuser_init]
+SnapshotIndex=I1_vuser_init
+[response]
+SnapshotIndex=I1_response
+[vuser_end]
+SnapshotIndex=I1_vuser_end
+[login]
+SnapshotIndex=I1_Action

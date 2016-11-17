@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\my\study\performance\LRtest-script\ctest\ctest-lr_save_datetime
+-ID:\Program Files (x86)\HP\LoadRunner\include
+-ed:\my\study\performance\lrtest-script\ctest\ctest-lr_save_datetime\\logfile.log
+d:\my\study\performance\lrtest-script\ctest\ctest-lr_save_datetime\\combined_ctest-lr_save_datetime.c
+d:\my\study\performance\lrtest-script\ctest\ctest-lr_save_datetime\\pre_cci.c

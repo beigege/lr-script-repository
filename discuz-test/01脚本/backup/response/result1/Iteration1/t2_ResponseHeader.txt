@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 10:11:38 GMT
+Content-Type: text/xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: HE44_2132_lastact=1466503898%09member.php%09logging; expires=Wed, 22-Jun-2016 10:11:38 GMT; path=/
+Set-Cookie: HE44_2132_sid=WbMQGC; expires=Wed, 22-Jun-2016 10:11:38 GMT; path=/
+Set-Cookie: HE44_2132_auth=cf7cSqs0Gm%2Fm79buKShqJRTaKcvf57k10FN%2FX3S%2Bp3ckCVGuZuKSerzkzv9CYBP8m6jzfDiQx8z%2FtKxzfWkl; path=/; httponly
+Set-Cookie: HE44_2132_loginuser=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: HE44_2132_activationauth=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: HE44_2132_pmnum=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: HE44_2132_lastcheckfeed=3%7C1466503898; expires=Wed, 21-Jun-2017 10:11:38 GMT; path=/
+Set-Cookie: HE44_2132_checkfollow=1; expires=Tue, 21-Jun-2016 10:12:08 GMT; path=/
+Set-Cookie: HE44_2132_lip=192.168.182.1%2C1466503857; path=/
+Expires: -1
+Cache-Control: no-store, private, post-check=0, pre-check=0, max-age=0
+Pragma: no-cache
+

@@ -1,0 +1,13 @@
+[t2]
+SnapshotXmlFile=snapshot_2.xml
+RequestHeaderFile=t2_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t2_ResponseHeader.txt
+FileName1=t2_appcenter.gif
+URL1=http://addons.g-fox.cn/appcenter.gif?t=0&a=002&d=0&r=0.25488466878728333&cid=full.firefox.com.cn
+Total=1
+ContentType=image/gif
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

@@ -1,0 +1,14 @@
+Virtual User Script started at : 2016-11-02 10:28:22
+Starting action vuser_init.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Action.
+Action.c(15): get_string_1:
+Action.c(17): get_string_2:hello world!
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

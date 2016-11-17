@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Mon, 11 Jul 2016 01:03:36 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: HE44_2132_lastact=1468199016%09member.php%09register; expires=Tue, 12-Jul-2016 01:03:36 GMT; path=/
+Set-Cookie: HE44_2132_sid=nFl0U8; expires=Tue, 12-Jul-2016 01:03:36 GMT; path=/
+

@@ -1,0 +1,19 @@
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: image/gif
+Content-Length: 800
+Connection: keep-alive
+Date: Mon, 11 Jul 2016 00:09:02 GMT
+Last-Modified: Wed, 06 Jul 2016 03:06:11 GMT
+ETag: "577c75a3-445"
+X-Host: p2
+Vary: Accept-Encoding
+Via: cache60.l2nu16-1[5,304-0,H], cache64.l2nu16-1[5,0], kunlun9.cn239[0,200-0,H], kunlun9.cn239[0,0]
+Content-Encoding: gzip
+Age: 2889
+X-Cache: HIT TCP_MEM_HIT dirn:9:583255820
+X-Swift-SaveTime: Mon, 11 Jul 2016 00:09:02 GMT
+X-Swift-CacheTime: 3600
+Timing-Allow-Origin: *
+EagleId: 7a8de38914681986319196899e
+

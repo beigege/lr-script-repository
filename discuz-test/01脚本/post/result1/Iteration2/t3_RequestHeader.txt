@@ -1,0 +1,10 @@
+GET /forum.php HTTP/1.1
+Referer: http://192.168.182.88/forum.php
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept: */*
+Connection: Keep-Alive
+Host: 192.168.182.88
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=vn3KxN; HE44_2132_lastact=1466489529%09forum.php%09; HE44_2132_ulastactivity=8aedCBSdCsN7aQJAbRaUyWvLYRlY7jU0zjgAJqnovt8XQQ8IW8Ce; HE44_2132_nofavfid=1; HE44_2132_lastcheckfeed=3%7C1466731729; HE44_2132_noticeTitle=1; HE44_2132_onlineusernum=1; HE44_2132_sendmail=1; HE44_2132_checkpatch=1; HE44_2132_auth=26545mWlEkiC1t%2F84VtQL2YgrOTz8rnc%2FFwtrC528NiaD97ULweimiDppeqJB%2FAAnNy28caYqa%2B4wbGvrCOW; HE44_2132_creditnotice=0D0D2D0D0D0D0D0D0D3; HE44_2132_creditbase=0D0D33D0D0D0D0D0D0; HE44_2132_creditrule=%E6%AF%8F%E5%A4%A9%E7%99%BB%E5%BD%95; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466731729; HE44_2132_checkpm=1
+

@@ -1,0 +1,17 @@
+[t8]
+FileName1=t8.xml
+URL1=http://192.168.182.88/forum.php?mod=misc&action=nav&infloat=yes&handlekey=nav&inajax=1&ajaxtarget=fwin_content_nav
+Total=3
+RequestHeaderFile=t8_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t8_ResponseHeader.txt
+ContentType=text/xml
+SnapshotXmlFile=snapshot_8.xml
+FileName2=t8_cls.gif
+URL2=http://192.168.182.88/static/image/common/cls.gif
+FileName3=t8_arrow.gif
+URL3=http://192.168.182.88/static/image/common/arrow.gif
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

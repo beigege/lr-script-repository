@@ -1,0 +1,13 @@
+[t7]
+FileName1=t7_misc.xml
+URL1=http://192.168.182.88/misc.php?mod=patch&action=ipnotice&_r=0.49128864272567696&inajax=1&ajaxtarget=ip_notice
+Total=1
+ContentType=text/xml
+SnapshotXmlFile=snapshot_7.xml
+RequestHeaderFile=t7_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t7_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

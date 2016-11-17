@@ -1,0 +1,4 @@
+ActionGrade.c (8): warning: declaration of `getGrade' does not match previous declaration at ActionGrade.c (3)
+ActionGrade.c (22): warning: declaration of `getScope' does not match previous declaration at ActionGrade.c (4)
+ActionGrade.c (29): warning: missing return value
+ActionSplitStr.c (14): warning: declaration of `splitStr' does not match previous declaration at ActionSplitStr.c (7)

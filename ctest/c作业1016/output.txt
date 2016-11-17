@@ -1,0 +1,25 @@
+Virtual User Script started at : 2016-10-19 17:21:35
+Starting action vuser_init.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Actionif.
+Actionif.c(11): max is :13
+Ending action Actionif.
+Starting action ActionIfElse.
+ActionIfElse.c(19): max is :9
+Ending action ActionIfElse.
+Starting action ActionIfElseIf.
+ActionIfElseIf.c(14): max is :13
+Ending action ActionIfElseIf.
+Starting action Action3mu.
+Action3mu.c(8): max is :16
+Ending action Action3mu.
+Starting action Actionswitch.
+Actionswitch.c(21): Êý¾Ý´íÎó
+Ending action Actionswitch.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

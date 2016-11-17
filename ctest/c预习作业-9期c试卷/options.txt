@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\my\study\performance\LRtest-script\ctest\c预习作业-9期c试卷
+-ID:\Program Files (x86)\HP\LoadRunner\include
+-ed:\my\study\performance\lrtest-script\ctest\c预习作业-9期c试卷\\logfile.log
+d:\my\study\performance\lrtest-script\ctest\c预习作业-9期c试卷\\combined_c预习作业-9期c试卷.c
+d:\my\study\performance\lrtest-script\ctest\c预习作业-9期c试卷\\pre_cci.c

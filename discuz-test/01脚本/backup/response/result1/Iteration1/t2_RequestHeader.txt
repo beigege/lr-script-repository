@@ -1,0 +1,12 @@
+POST /member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes&inajax=1 HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Referer: http://192.168.182.88/forum.php
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept: */*
+Connection: Keep-Alive
+Host: 192.168.182.88
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=WbMQGC; HE44_2132_lastact=1466503897%09home.php%09misc; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; HE44_2132_lastcheckfeed=2%7C1466491620; HE44_2132_editormode_e=1; HE44_2132_smile=1D1; HE44_2132_visitedfid=2; tjpctrl=1466493425619; HE44_2132_onlineusernum=2; HE44_2132_sendmail=1
+Content-Length: 86
+

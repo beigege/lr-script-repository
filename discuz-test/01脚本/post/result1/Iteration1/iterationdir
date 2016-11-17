@@ -1,0 +1,6 @@
+[post]
+SnapshotIndex=I1_post
+[vuser_init]
+SnapshotIndex=I1_vuser_init
+[login]
+SnapshotIndex=I1_login

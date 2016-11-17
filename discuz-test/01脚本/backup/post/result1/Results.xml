@@ -1,0 +1,818 @@
+﻿<?xml version="1.0"?>
+  <!DOCTYPE Report
+[
+<!ELEMENT Report (General ,(Doc|BPT)) >
+<!ATTLIST Report ver CDATA #REQUIRED tmZone CDATA #REQUIRED>
+
+<!ELEMENT General ( DocLocation ) >
+<!ATTLIST General productName CDATA #REQUIRED productVer CDATA #REQUIRED os CDATA #REQUIRED host CDATA #REQUIRED>
+
+<!ELEMENT BPT (DName,Res,DVer?,TSet?,TInst?,NodeArgs,Doc*) >
+<!ATTLIST BPT rID ID #REQUIRED >
+
+<!ELEMENT Doc (DName, Res, DVer?, TSet?, TInst?, RunType?, DT?, Step*, Action+, DIter*, Action*, Summary?, NodeArgs?)> 
+<!ATTLIST Doc rID ID #REQUIRED type (Test|BC) "Test" productName CDATA #REQUIRED BCIter CDATA #IMPLIED >
+
+<!ELEMENT RunType ( #PCDATA )>
+<!ATTLIST RunType fmStep (False|True) "False" batch (False|True) "False" upDesc (False|True) "False" upChk (False|True) "False" upAS (False|True) "False">
+
+<!ELEMENT DName ( #PCDATA ) >
+
+<!ELEMENT Res ( #PCDATA ) >
+
+<!ELEMENT DVer ( #PCDATA ) >
+
+<!ELEMENT TSet ( #PCDATA ) >
+
+<!ELEMENT TInst ( #PCDATA ) >
+
+<!ELEMENT DIter (Step?,Action+,Summary?,NodeArgs)>
+<!ATTLIST DIter rID ID #REQUIRED iterID CDATA #REQUIRED>
+
+<!ELEMENT DocLocation ( #PCDATA )>
+
+<!ELEMENT Action (AName,AIter*,(Step|HtmlStep|Action)*,Summary,NodeArgs) >
+<!ATTLIST Action rID ID #REQUIRED>
+
+<!ELEMENT AIter ((Step|HtmlStep|Action)*,Summary?,NodeArgs) >
+<!ATTLIST AIter rID ID #REQUIRED iterID CDATA #REQUIRED>
+
+<!ELEMENT AName ( #PCDATA ) >
+
+<!ELEMENT Step (Obj,Details,Time,(Step|HtmlStep|Doc)*,NodeArgs) >
+<!ATTLIST Step rID ID #REQUIRED retval CDATA #IMPLIED>
+
+<!ELEMENT HtmlStep (HTML,(Step|HtmlStep|Doc)*,NodeArgs) >
+<!ATTLIST HtmlStep rID ID #REQUIRED >
+
+<!ELEMENT Obj ( #PCDATA ) >
+<!ATTLIST Obj plainTxt (False|True) "True">
+
+<!ELEMENT Details ( #PCDATA ) >
+<!ATTLIST Details plainTxt (False|True) "True">
+
+<!ELEMENT Time ( #PCDATA ) >
+
+<!ELEMENT HTML ( #PCDATA ) >
+
+<!ELEMENT Disp ( #PCDATA ) >
+
+<!ELEMENT NodeArgs (Disp,TopPane?,BtmPane?)>
+<!ATTLIST NodeArgs eType CDATA #REQUIRED icon CDATA #REQUIRED nRep CDATA #REQUIRED filter (False|True) "True">
+<!ATTLIST NodeArgs status (Passed|Failed|Done|Warning|Information) "Done">
+<!ATTLIST NodeArgs iconSel CDATA #IMPLIED nType CDATA #IMPLIED >
+
+<!ELEMENT TopPane (Path)>
+
+<!ELEMENT BtmPane ( (Path|WR)?,ASHilite?)>
+<!ATTLIST BtmPane vType CDATA "HTML">
+
+<!ELEMENT Path ( #PCDATA ) >
+
+<!ELEMENT ASHilite ( #PCDATA ) >
+
+<!ELEMENT WR ( #PCDATA ) >
+
+<!ELEMENT DT (NodeArgs) >
+<!ATTLIST DT rID ID #REQUIRED>
+
+<!ELEMENT Summary (Param*)>
+<!ATTLIST Summary sTime CDATA #IMPLIED eTime CDATA #IMPLIED passed CDATA #IMPLIED failed CDATA #IMPLIED warnings CDATA #IMPLIED retval CDATA #IMPLIED stopped (False|True) "False" >
+
+<!ELEMENT Param (ParamName,ParamVal)+ >
+<!ATTLIST Param paramInOut (In|Out) "In">
+
+<!ELEMENT ParamName ( #PCDATA ) >
+
+<!ELEMENT ParamVal ( #PCDATA ) >
+
+]
+> <Report ver="2.0" tmZone="中国标准时间">
+<General productName="Vugen" productVer="11" os="" host="QD-YANFA-00050"><DocLocation><![CDATA[D:\my\study\performance\LRtest-script\post]]></DocLocation></General>
+<Doc rID="T1"   productName= "Vugen"  >
+<DName><![CDATA[post]]></DName>
+<Res><![CDATA[result1]]></Res>
+<Action rID="T2">
+<AName><![CDATA[vuser_init]]></AName>
+<Step rID="T3">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_saltkey=OIroZHI2; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:57]]></Time>
+<NodeArgs eType="General" icon="3" nRep="6" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T4">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_lastvisit=1466483900; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:57]]></Time>
+<NodeArgs eType="General" icon="3" nRep="7" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T5">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_sid=LfuwUu; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:57]]></Time>
+<NodeArgs eType="General" icon="3" nRep="8" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T6">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_lastact=1466488917%09misc.php%09patch; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:57]]></Time>
+<NodeArgs eType="General" icon="3" nRep="9" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T7">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:57]]></Time>
+<NodeArgs eType="General" icon="3" nRep="10" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T8">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_nofavfid=1; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:57]]></Time>
+<NodeArgs eType="General" icon="3" nRep="11" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T9">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_lastcheckfeed=2%7C1466488917; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:57]]></Time>
+<NodeArgs eType="General" icon="3" nRep="12" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T10">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_noticeTitle=1; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:57]]></Time>
+<NodeArgs eType="General" icon="3" nRep="13" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T11">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_lastact=1466489509%09forum.php%09; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:57]]></Time>
+<NodeArgs eType="General" icon="3" nRep="14" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T12">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:58]]></Time>
+<NodeArgs eType="General" icon="4" nRep="15" status="Passed" >
+<Disp><![CDATA[Url: forum.php]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration1\t1.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T13">
+<Obj plainTxt="False" ><![CDATA[Submit Data: member.php]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:58]]></Time>
+<NodeArgs eType="General" icon="5" nRep="16" status="Passed" >
+<Disp><![CDATA[Submit Data: member.php]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration1\t2.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T14">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_checkfollow=1; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:58]]></Time>
+<NodeArgs eType="General" icon="3" nRep="17" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T15">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_lastact=1466489529%09forum.php%09; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:58]]></Time>
+<NodeArgs eType="General" icon="3" nRep="18" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T16">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_checkpm=1; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:58]]></Time>
+<NodeArgs eType="General" icon="3" nRep="19" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T17">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php_2]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:59]]></Time>
+<NodeArgs eType="General" icon="4" nRep="20" status="Passed" >
+<Disp><![CDATA[Url: forum.php_2]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration1\t3.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Summary sTime="2016/6/21 - 15:29:57" eTime="2016/6/21 - 15:29:59" passed="3" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="5" status="Passed" >
+<Disp><![CDATA[vuser_init Summary]]></Disp>
+</NodeArgs>
+</Action>
+<DIter rID="T18" iterID="1" >
+<Action rID="T19">
+<AName><![CDATA[Action]]></AName>
+<Step rID="T20">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>tjpctrl=1466491331249; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:59]]></Time>
+<NodeArgs eType="General" icon="3" nRep="24" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T21">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php_3]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:59]]></Time>
+<NodeArgs eType="General" icon="4" nRep="25" status="Passed" >
+<Disp><![CDATA[Url: forum.php_3]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration1\t4.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T22">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php_4]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:59]]></Time>
+<NodeArgs eType="General" icon="4" nRep="26" status="Passed" >
+<Disp><![CDATA[Url: forum.php_4]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration1\t5.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T23">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_lastact=1466489568%09forum.php%09post; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:59]]></Time>
+<NodeArgs eType="General" icon="3" nRep="27" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T24">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php_5]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:59]]></Time>
+<NodeArgs eType="General" icon="4" nRep="28" status="Passed" >
+<Disp><![CDATA[Url: forum.php_5]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration1\t6.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T25">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_editormode_e=1; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:59]]></Time>
+<NodeArgs eType="General" icon="3" nRep="29" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T26">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_smile=1D1; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:29:59]]></Time>
+<NodeArgs eType="General" icon="3" nRep="30" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T27">
+<Obj plainTxt="False" ><![CDATA[Url: misc.php]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Resource of content type ""text/css"" loaded successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:00]]></Time>
+<NodeArgs eType="General" icon="4" nRep="31" status="Passed" >
+<Disp><![CDATA[Url: misc.php]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T28">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php_6]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:00]]></Time>
+<NodeArgs eType="General" icon="4" nRep="32" status="Passed" >
+<Disp><![CDATA[Url: forum.php_6]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration1\t8.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T29">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_lastact=1466489618%09forum.php%09viewthread; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:00]]></Time>
+<NodeArgs eType="General" icon="3" nRep="33" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T30">
+<Obj plainTxt="False" ><![CDATA[Submit Data: forum.php_7]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:00]]></Time>
+<NodeArgs eType="General" icon="5" nRep="34" status="Passed" >
+<Disp><![CDATA[Submit Data: forum.php_7]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration1\t9.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Summary sTime="2016/6/21 - 15:29:59" eTime="2016/6/21 - 15:30:00" passed="6" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="23" status="Passed" >
+<Disp><![CDATA[Action Summary]]></Disp>
+</NodeArgs>
+</Action>
+<NodeArgs eType="StartIteration" icon="6" nRep="22" status="Passed" >
+<Disp><![CDATA[post Iteration 1 (Row 1)]]></Disp>
+</NodeArgs>
+</DIter>
+<DIter rID="T31" iterID="2" >
+<Action rID="T32">
+<AName><![CDATA[Action]]></AName>
+<Step rID="T33">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>tjpctrl=1466491331249; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:00]]></Time>
+<NodeArgs eType="General" icon="3" nRep="39" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T34">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php_3]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:01]]></Time>
+<NodeArgs eType="General" icon="4" nRep="40" status="Passed" >
+<Disp><![CDATA[Url: forum.php_3]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration2\t4.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T35">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php_4]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:01]]></Time>
+<NodeArgs eType="General" icon="4" nRep="41" status="Passed" >
+<Disp><![CDATA[Url: forum.php_4]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration2\t5.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T36">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_lastact=1466489568%09forum.php%09post; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:01]]></Time>
+<NodeArgs eType="General" icon="3" nRep="42" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T37">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php_5]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:01]]></Time>
+<NodeArgs eType="General" icon="4" nRep="43" status="Passed" >
+<Disp><![CDATA[Url: forum.php_5]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration2\t6.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T38">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_editormode_e=1; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:01]]></Time>
+<NodeArgs eType="General" icon="3" nRep="44" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T39">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_smile=1D1; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:01]]></Time>
+<NodeArgs eType="General" icon="3" nRep="45" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T40">
+<Obj plainTxt="False" ><![CDATA[Url: misc.php]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Resource of content type ""text/css"" loaded successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:01]]></Time>
+<NodeArgs eType="General" icon="4" nRep="46" status="Passed" >
+<Disp><![CDATA[Url: misc.php]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T41">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php_6]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:01]]></Time>
+<NodeArgs eType="General" icon="4" nRep="47" status="Passed" >
+<Disp><![CDATA[Url: forum.php_6]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration2\t8.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T42">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_lastact=1466489618%09forum.php%09viewthread; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:02]]></Time>
+<NodeArgs eType="General" icon="3" nRep="48" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T43">
+<Obj plainTxt="False" ><![CDATA[Submit Data: forum.php_7]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:02]]></Time>
+<NodeArgs eType="General" icon="5" nRep="49" status="Passed" >
+<Disp><![CDATA[Submit Data: forum.php_7]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration2\t9.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Summary sTime="2016/6/21 - 15:30:00" eTime="2016/6/21 - 15:30:02" passed="6" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="38" status="Passed" >
+<Disp><![CDATA[Action Summary]]></Disp>
+</NodeArgs>
+</Action>
+<NodeArgs eType="StartIteration" icon="6" nRep="37" status="Passed" >
+<Disp><![CDATA[post Iteration 2 (Row 2)]]></Disp>
+</NodeArgs>
+</DIter>
+<DIter rID="T44" iterID="3" >
+<Action rID="T45">
+<AName><![CDATA[Action]]></AName>
+<Step rID="T46">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>tjpctrl=1466491331249; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:02]]></Time>
+<NodeArgs eType="General" icon="3" nRep="54" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T47">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php_3]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:02]]></Time>
+<NodeArgs eType="General" icon="4" nRep="55" status="Passed" >
+<Disp><![CDATA[Url: forum.php_3]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration3\t4.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T48">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php_4]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:02]]></Time>
+<NodeArgs eType="General" icon="4" nRep="56" status="Passed" >
+<Disp><![CDATA[Url: forum.php_4]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration3\t5.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T49">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_lastact=1466489568%09forum.php%09post; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:02]]></Time>
+<NodeArgs eType="General" icon="3" nRep="57" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T50">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php_5]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:03]]></Time>
+<NodeArgs eType="General" icon="4" nRep="58" status="Passed" >
+<Disp><![CDATA[Url: forum.php_5]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration3\t6.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T51">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_editormode_e=1; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:03]]></Time>
+<NodeArgs eType="General" icon="3" nRep="59" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T52">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_smile=1D1; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:03]]></Time>
+<NodeArgs eType="General" icon="3" nRep="60" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T53">
+<Obj plainTxt="False" ><![CDATA[Url: misc.php]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Resource of content type ""text/css"" loaded successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:03]]></Time>
+<NodeArgs eType="General" icon="4" nRep="61" status="Passed" >
+<Disp><![CDATA[Url: misc.php]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T54">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php_6]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:03]]></Time>
+<NodeArgs eType="General" icon="4" nRep="62" status="Passed" >
+<Disp><![CDATA[Url: forum.php_6]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration3\t8.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T55">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_lastact=1466489618%09forum.php%09viewthread; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:03]]></Time>
+<NodeArgs eType="General" icon="3" nRep="63" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T56">
+<Obj plainTxt="False" ><![CDATA[Submit Data: forum.php_7]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:04]]></Time>
+<NodeArgs eType="General" icon="5" nRep="64" status="Passed" >
+<Disp><![CDATA[Submit Data: forum.php_7]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration3\t9.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Summary sTime="2016/6/21 - 15:30:02" eTime="2016/6/21 - 15:30:04" passed="6" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="53" status="Passed" >
+<Disp><![CDATA[Action Summary]]></Disp>
+</NodeArgs>
+</Action>
+<NodeArgs eType="StartIteration" icon="6" nRep="52" status="Passed" >
+<Disp><![CDATA[post Iteration 3 (Row 3)]]></Disp>
+</NodeArgs>
+</DIter>
+<DIter rID="T57" iterID="4" >
+<Action rID="T58">
+<AName><![CDATA[Action]]></AName>
+<Step rID="T59">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>tjpctrl=1466491331249; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:04]]></Time>
+<NodeArgs eType="General" icon="3" nRep="69" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T60">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php_3]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:04]]></Time>
+<NodeArgs eType="General" icon="4" nRep="70" status="Passed" >
+<Disp><![CDATA[Url: forum.php_3]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration4\t4.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T61">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php_4]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:04]]></Time>
+<NodeArgs eType="General" icon="4" nRep="71" status="Passed" >
+<Disp><![CDATA[Url: forum.php_4]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration4\t5.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T62">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_lastact=1466489568%09forum.php%09post; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:04]]></Time>
+<NodeArgs eType="General" icon="3" nRep="72" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T63">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php_5]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:05]]></Time>
+<NodeArgs eType="General" icon="4" nRep="73" status="Passed" >
+<Disp><![CDATA[Url: forum.php_5]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration4\t6.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T64">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_editormode_e=1; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:05]]></Time>
+<NodeArgs eType="General" icon="3" nRep="74" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T65">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_smile=1D1; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:05]]></Time>
+<NodeArgs eType="General" icon="3" nRep="75" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T66">
+<Obj plainTxt="False" ><![CDATA[Url: misc.php]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Resource of content type ""text/css"" loaded successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:05]]></Time>
+<NodeArgs eType="General" icon="4" nRep="76" status="Passed" >
+<Disp><![CDATA[Url: misc.php]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T67">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php_6]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:05]]></Time>
+<NodeArgs eType="General" icon="4" nRep="77" status="Passed" >
+<Disp><![CDATA[Url: forum.php_6]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration4\t8.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T68">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_lastact=1466489618%09forum.php%09viewthread; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:05]]></Time>
+<NodeArgs eType="General" icon="3" nRep="78" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T69">
+<Obj plainTxt="False" ><![CDATA[Submit Data: forum.php_7]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:05]]></Time>
+<NodeArgs eType="General" icon="5" nRep="79" status="Passed" >
+<Disp><![CDATA[Submit Data: forum.php_7]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration4\t9.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Summary sTime="2016/6/21 - 15:30:04" eTime="2016/6/21 - 15:30:05" passed="6" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="68" status="Passed" >
+<Disp><![CDATA[Action Summary]]></Disp>
+</NodeArgs>
+</Action>
+<NodeArgs eType="StartIteration" icon="6" nRep="67" status="Passed" >
+<Disp><![CDATA[post Iteration 4 (Row 4)]]></Disp>
+</NodeArgs>
+</DIter>
+<DIter rID="T70" iterID="5" >
+<Action rID="T71">
+<AName><![CDATA[Action]]></AName>
+<Step rID="T72">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>tjpctrl=1466491331249; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:05]]></Time>
+<NodeArgs eType="General" icon="3" nRep="84" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T73">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php_3]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:06]]></Time>
+<NodeArgs eType="General" icon="4" nRep="85" status="Passed" >
+<Disp><![CDATA[Url: forum.php_3]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration5\t4.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T74">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php_4]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:06]]></Time>
+<NodeArgs eType="General" icon="4" nRep="86" status="Passed" >
+<Disp><![CDATA[Url: forum.php_4]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration5\t5.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T75">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_lastact=1466489568%09forum.php%09post; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:06]]></Time>
+<NodeArgs eType="General" icon="3" nRep="87" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T76">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php_5]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:06]]></Time>
+<NodeArgs eType="General" icon="4" nRep="88" status="Passed" >
+<Disp><![CDATA[Url: forum.php_5]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration5\t6.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T77">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_editormode_e=1; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:06]]></Time>
+<NodeArgs eType="General" icon="3" nRep="89" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T78">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_smile=1D1; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:06]]></Time>
+<NodeArgs eType="General" icon="3" nRep="90" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T79">
+<Obj plainTxt="False" ><![CDATA[Url: misc.php]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Resource of content type ""text/css"" loaded successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:07]]></Time>
+<NodeArgs eType="General" icon="4" nRep="91" status="Passed" >
+<Disp><![CDATA[Url: misc.php]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T80">
+<Obj plainTxt="False" ><![CDATA[Url: forum.php_6]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:07]]></Time>
+<NodeArgs eType="General" icon="4" nRep="92" status="Passed" >
+<Disp><![CDATA[Url: forum.php_6]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration5\t8.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Step rID="T81">
+<Obj plainTxt="False" ><![CDATA[Service: Add Cookie]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER>Add the following cookie: <STRONG><FONT COLOR=#00AF00>HE44_2132_lastact=1466489618%09forum.php%09viewthread; DOMAIN=192.168.182.88</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:07]]></Time>
+<NodeArgs eType="General" icon="3" nRep="93" >
+<Disp><![CDATA[Service: Add Cookie]]></Disp>
+</NodeArgs>
+</Step>
+<Step rID="T82">
+<Obj plainTxt="False" ><![CDATA[Submit Data: forum.php_7]]></Obj>
+<Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
+<Time><![CDATA[2016/6/21 - 15:30:07]]></Time>
+<NodeArgs eType="General" icon="5" nRep="94" status="Passed" >
+<Disp><![CDATA[Submit Data: forum.php_7]]></Disp>
+<BtmPane vType="HTMLSNSH">
+<Path><![CDATA[\Iteration5\t9.inf]]></Path>
+</BtmPane>
+</NodeArgs>
+</Step>
+<Summary sTime="2016/6/21 - 15:30:05" eTime="2016/6/21 - 15:30:07" passed="6" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="83" status="Passed" >
+<Disp><![CDATA[Action Summary]]></Disp>
+</NodeArgs>
+</Action>
+<NodeArgs eType="StartIteration" icon="6" nRep="82" status="Passed" >
+<Disp><![CDATA[post Iteration 5 (Row 5)]]></Disp>
+</NodeArgs>
+</DIter>
+<Action rID="T83">
+<AName><![CDATA[vuser_end]]></AName>
+<Summary sTime="2016/6/21 - 15:30:07" eTime="2016/6/21 - 15:30:07" passed="0" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartAction" icon="2" nRep="97" >
+<Disp><![CDATA[vuser_end Summary]]></Disp>
+</NodeArgs>
+</Action>
+<Summary sTime="2016/6/21 - 15:29:57" eTime="2016/6/21 - 15:30:07" passed="33" failed="0" warnings="0" ></Summary>
+<NodeArgs eType="StartTest" icon="1" nRep="4" status="Passed" >
+<Disp><![CDATA[Test post Summary]]></Disp>
+</NodeArgs>
+</Doc>
+</Report>

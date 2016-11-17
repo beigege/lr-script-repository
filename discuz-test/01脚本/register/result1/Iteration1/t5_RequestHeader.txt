@@ -1,0 +1,10 @@
+GET / HTTP/1.1
+Referer: http://192.168.182.88/member.php?mod=register
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept: */*
+Connection: Keep-Alive
+Host: 192.168.182.88
+Cookie: HE44_2132_lastact=1466487550%09forum.php%09; HE44_2132_saltkey=DF6kBXX6; HE44_2132_lastvisit=1466484888; HE44_2132_sid=kXlV21; HE44_2132_sendmail=1; HE44_2132_ulastactivity=775bmtY6puCi0rVlHfEEx3Epf1C%2FNvzQ2xMrXQtmxZeRC3cb3xCV; HE44_2132_auth=9c1acUe16WMFqFuqhSCzACZ7KVfq8AkdIXt6aZrLDmvJ3h1BbmEBPxyX8Kx6MkdRCA5gMhqQJCDz5b%2BTax2a; HE44_2132_creditnotice=0D0D2D0D0D0D0D0D0D3; HE44_2132_creditbase=0D0D0D0D0D0D0D0D0; HE44_2132_creditrule=%E6%AF%8F%E5%A4%A9%E7%99%BB%E5%BD%95; HE44_2132_noticeTitle=1; tjpctrl=1466489351504
+

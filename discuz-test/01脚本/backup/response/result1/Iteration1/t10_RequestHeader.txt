@@ -1,0 +1,10 @@
+GET /forum.php?mod=viewthread&tid=4&viewpid=4&inajax=1&ajaxtarget=post_new HTTP/1.1
+Referer: http://192.168.182.88/forum.php?mod=viewthread&tid=4&extra=page%3D1
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept: */*
+Connection: Keep-Alive
+Host: 192.168.182.88
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=WbMQGC; HE44_2132_lastact=1466503899%09forum.php%09post; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; HE44_2132_lastcheckfeed=3%7C1466503898; HE44_2132_editormode_e=1; HE44_2132_smile=1D1; HE44_2132_visitedfid=2; tjpctrl=1466493425619; HE44_2132_onlineusernum=2; HE44_2132_sendmail=1; HE44_2132_auth=cf7cSqs0Gm%2Fm79buKShqJRTaKcvf57k10FN%2FX3S%2Bp3ckCVGuZuKSerzkzv9CYBP8m6jzfDiQx8z%2FtKxzfWkl; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466503857; HE44_2132_checkpm=1; HE44_2132_noticeTitle=1; HE44_2132_st_t=3%7C1466503898%7C8e883b28712fdda6e1185e84f74c827a; HE44_2132_forum_lastvisit=D_2_1466503898; HE44_2132_st_p=3%7C1466503899%7C04d4c18b3c6cccb7c0139010c4d6c01b; HE44_2132_viewid=tid_4; HE44_2132_clearUserdata=forum; HE44_2132_creditnotice=0D0D1D0D0D0D0D0D0D3; HE44_2132_creditbase=0D0D20D0D0D0D0D0D0; HE44_2132_creditrule=%E5%8F%91%E8%A1%A8%E5%9B%9E%E5%A4%8D
+

@@ -1,0 +1,15 @@
+[t6]
+FileName1=t6.xml
+URL1=http://192.168.182.88/member.php?mod=register&inajax=1
+Total=2
+RequestHeaderFile=t6_RequestHeader.txt
+RequestBodyFile=t6_RequestBody.txt
+ResponseHeaderFile=t6_ResponseHeader.txt
+ContentType=text/xml
+SnapshotXmlFile=snapshot_6.xml
+FileName2=t6_right.gif
+URL2=http://192.168.182.88/static/image/common/right.gif
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

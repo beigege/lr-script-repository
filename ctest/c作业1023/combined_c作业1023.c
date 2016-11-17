@@ -1,0 +1,8 @@
+#include "lrun.h"
+#include "globals.h"
+#include "vuser_init.c"
+#include "ActionGetMid.c"
+#include "ActionGetFactorial.c"
+#include "ActionFindData.c"
+#include "ActionGetPrimeSum.c"
+#include "vuser_end.c"

@@ -1,0 +1,2 @@
+Action.c (17): illegal return type; found `int' expected `pointer to char'
+d:\\my\\study\\performance\\lrtest-script\\ctest\\ctest-lr_save_datetime\\\\combined_ctest-lr_save_datetime.c (4): 1 errors, not writing pre_cci.ci

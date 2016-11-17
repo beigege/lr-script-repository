@@ -1,0 +1,41 @@
+Virtual User Script started at : 2016-11-11 19:37:12
+Starting action vuser_init.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action ActionStrlenSizeof.
+ActionStrlenSizeof.c(4): strlen:8
+ActionStrlenSizeof.c(5): sizeof:9
+ActionStrlenSizeof.c(6): getstrlen:8
+ActionStrlenSizeof.c(7): getsizeof:9
+Ending action ActionStrlenSizeof.
+Starting action ActionAverage.
+ActionAverage.c(4): avg:7
+ActionAverage.c(5): avg:4
+Ending action ActionAverage.
+Starting action ActionABC.
+ActionABC.c(20): c:2
+ActionABC.c(21): b:5
+ActionABC.c(23): a:10
+Ending action ActionABC.
+Starting action ActionGrade.
+ActionGrade.c(3): 等级是：C
+ActionGrade.c(4): 分数范围是：60-84
+Ending action ActionGrade.
+Starting action ActionSplitStr.
+ActionSplitStr.c(19): j:13
+ActionSplitStr.c(20): i:0
+ActionSplitStr.c(19): j:26
+ActionSplitStr.c(20): i:1
+ActionSplitStr.c(26): j:39
+ActionSplitStr.c(27): i:2
+ActionSplitStr.c(30): url1:www.baidu.com
+ActionSplitStr.c(33): url2:www.sina.com
+ActionSplitStr.c(36): url3:www.cctv.com
+ActionSplitStr.c(8): www.baidu.com
+Ending action ActionSplitStr.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

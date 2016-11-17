@@ -1,0 +1,356 @@
+[Network Analyzer (1df0:134c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1df0:134c)] Load Network Traffic Analyzers:
+[Network Analyzer (1df0:134c)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1df0:134c)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (1df0:134c)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1df0:134c)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (1df0:134c)]     Analyzer Module: QTWeb (value=)
+[Network Analyzer (1df0:134c)]     Analyzer Module: local_server (value=)
+[Network Analyzer (1df0:134c)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1df0:1a6c)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0:134c)] Establish Listener @ 127.0.0.1:9452
+[Network Analyzer (1df0:134c)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0:134c)] Request Connection: Remote Server @ 127.0.0.1:9452   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (1df0:134c)] Accept Connection : Service @ 127.0.0.1:9452  ,  Remote Client @ 127.0.0.1:9453
+[Network Analyzer (1df0:1a6c)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer (1df0:1a6c)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 0)
+[Network Analyzer (1df0: 224)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: 224)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Error    (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 0)
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Net An. Warning  (1df0: 224)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: 224)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Error    (1df0: 224)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Error    (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 0)
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Error    (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 0)
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Error    (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 0)
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Error    (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 0)
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 58.68.234.196:80   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Web Request      (1df0:1a6c)] "GET /live.gif?channelid=full.firefox.com.cn&fxversion=19.0.2&ceversion=2013.3&ver=4&actcode4=%7B2a100dca-5c93-4177-ae5b-8f62ec88e695%7D&uk=%7B5760b364-24e3-4deb-9069-1c9cd209c498%7D&dk=RSm3CvmslVzhlS0tFurXeFgRld4pIF6M9DMxr1QXve4UQvj4/lqFYw==&prevsessionlen=1&locale=zh-CN&moexts=cemigration,coba,cpmanager,livemargins,tabimprovelite,cehomepage,quicklaunch,share_all_cn"   
+[Network Analyzer (1df0:1a6c)]   (Sid:  4) Client -> Server : 670 bytes (Service=HTTP)
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 223.202.6.26:80   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (1df0:1a6c)]   (Sid:  4) Server -> Client : 1053 bytes  (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /adu.gif?channelid=full.firefox.com.cn&fxversion=19.0.2&ceversion=2013.3&ver=1_0&pk=%7B2a100dca-5c93-4177-ae5b-8f62ec88e695%7D&uk=%7B5760b364-24e3-4deb-9069-1c9cd209c498%7D&locale=zh-CN&moexts=cemigration,coba,cpmanager,livemargins,tabimprovelite,cehomepage,quicklaunch,share_all_cn&now=1466488884015"   
+[Network Analyzer (1df0:1a6c)]   (Sid:  5) Client -> Server : 606 bytes (Service=HTTP)
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0:1a6c)]   (Sid:  5) Server -> Client : 1303 bytes  (Service=HTTP)
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 122.141.227.150:80   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Web Request      (1df0:1a6c)] "GET /tk.gif?when=run"   
+[Network Analyzer (1df0:1a6c)]   (Sid:  6) Client -> Server : 375 bytes (Service=HTTP)
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 122.141.227.150:80   (Service=)  (Sid=  7)  PROXIED!
+[Web Request      (1df0:1a6c)] "GET /appcenter.gif?t=0&a=002&d=0&r=0.4948470929263147&cid=full.firefox.com.cn"   
+[Network Analyzer (1df0:1a6c)]   (Sid:  7) Client -> Server : 352 bytes (Service=HTTP)
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0:1a6c)]   (Sid:  6) Server -> Client : 430 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid:  7) Server -> Client : 1606 bytes  (Service=HTTP)
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 58.220.2.10:80   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Web Request      (1df0:1a6c)] "GET /inner/"   
+[Network Analyzer (1df0:1a6c)]   (Sid:  8) Client -> Server : 593 bytes (Service=HTTP)
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 223.202.6.29:80   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0:1a6c)]   (Sid:  8) Server -> Client : 454 bytes  (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /bookmarks/updates.json"   
+[Network Analyzer (1df0:1a6c)]   (Sid:  9) Client -> Server : 413 bytes (Service=HTTP)
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 223.202.6.29:80   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (1df0:1a6c)]   (Sid:  8) Connection Terminated (by Server)
+[Network Analyzer (1df0:1a6c)]   (Sid:  9) Server -> Client : 372 bytes  (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /master-ii/quickdialdata.json"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 10) Client -> Server : 414 bytes (Service=HTTP)
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0:1a6c)]   (Sid: 10) Server -> Client : 384 bytes  (Service=HTTP)
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 192.168.182.88:80   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Web Request      (1df0:1a6c)] "GET /forum.php"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Client -> Server : 590 bytes (Service=HTTP)
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 101.23.128.36:80   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Server -> Client : 3472 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Server -> Client : 9038 bytes  (Service=HTTP)
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 122.141.227.150:80   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Web Request      (1df0:1a6c)] "GET /appcenter.gif?t=0&a=001&d=tab-install&r=0.1879624448269147&cid=full.firefox.com.cn"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 13) Client -> Server : 362 bytes (Service=HTTP)
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 223.202.6.26:80   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0:1a6c)]   (Sid: 13) Server -> Client : 1606 bytes  (Service=HTTP)
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 192.168.182.88:80   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 122.141.227.150:80   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 122.141.227.150:80   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 122.141.227.150:80   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 58.68.234.196:80   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 58.220.2.10:80   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 223.202.6.29:80   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 223.202.6.29:80   (Service=)  (Sid= 22)  PROXIED!
+[Web Request      (1df0:1a6c)] "GET /data/cache/style_1_common.css?G0S"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Client -> Server : 715 bytes (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Server -> Client : 181 bytes  (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /data/cache/style_1_forum_index.css?G0S"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 15) Client -> Server : 718 bytes (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 15) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Error    (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 0)
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 221.193.246.61:80   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Web Request      (1df0:1a6c)] "GET /newtab/master-ii/quickdialdata-0.json"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 23) Client -> Server : 533 bytes (Service=HTTP)
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 221.193.246.61:80   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0:1a6c)]   (Sid: 23) Server -> Client : 314 bytes  (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /bookmarks/updates-22.json"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 24) Client -> Server : 520 bytes (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 24) Server -> Client : 313 bytes  (Service=HTTP)
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 221.193.246.61:80   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 221.193.246.61:80   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 123.125.110.18:80   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 192.168.182.88:80   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Web Request      (1df0:1a6c)] "GET /static/js/common.js?G0S"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 28) Client -> Server : 689 bytes (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 28) Server -> Client : 180 bytes  (Service=HTTP)
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 192.168.182.88:80   (Service=)  (Sid= 29)  PROXIED!
+[Web Request      (1df0:1a6c)] "GET /data/cache/style_1_widthauto.css?G0S"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 29) Client -> Server : 716 bytes (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 29) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 192.168.182.88:80   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Web Request      (1df0:1a6c)] "GET /static/js/forum.js?G0S"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 30) Client -> Server : 688 bytes (Service=HTTP)
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 192.168.182.88:80   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer (1df0:1a6c)]   (Sid: 30) Server -> Client : 180 bytes  (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/logo.png"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 31) Client -> Server : 724 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /home.php?mod=misc&ac=sendmail&rand=1466488895"   
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Client -> Server : 629 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/js/logging.js?G0S"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 15) Client -> Server : 689 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/collapsed_no.gif"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 28) Client -> Server : 731 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/forum.gif"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 29) Client -> Server : 724 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/online_admin.gif"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 30) Client -> Server : 731 bytes (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Server -> Client : 353 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 15) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 28) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 29) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 31) Server -> Client : 180 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 30) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 203.208.39.192:80   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Web Request      (1df0:1a6c)] "GET /r/__utm.gif?utmwv=5.6.7&utms=2&utmn=1907285040&utmhn=api.app.mozilla.com.cn&utmcs=UTF-8&utmsr=1366x768&utmvp=1123x525&utmsc=24-bit&utmul=zh-cn&utmje=0&utmfl=-&utmdt=%E7%81%AB%E7%8B%90%E5%BA%94%E7%94%A8%E4%B8%AD%E5%BF%83&utmhid=300949477&utmr=-&utmp=%2Finner%2F&utmht=1466488897026&utmac=UA-2826582-7&utmcc=__utma%3D265356880.1632274347.1466129867.1466138475.1466487506.4%3B%2B__utmz%3D265356880.1466129867.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=1274875700&utmredir=1&utmu=qBAAAAAAAAAAAAAAAAAAAAAE~"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 32) Client -> Server : 864 bytes (Service=HTTP)
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 111.202.60.48:80   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0:1a6c)]   (Sid: 32) Server -> Client : 373 bytes  (Service=HTTP)
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 120.52.22.170:80   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 120.52.22.159:80   (Service=)  (Sid= 35)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 120.52.22.170:80   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 120.52.22.170:80   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 203.208.39.192:80   (Service=)  (Sid= 38)  PROXIED!
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 203.208.39.192:80   (Service=)  (Sid= 39)  PROXIED!
+[Web Request      (1df0:1a6c)] "GET /static/image/common/online_supermod.gif"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 31) Client -> Server : 734 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/online_member.gif"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Client -> Server : 732 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/online_moderator.gif"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 15) Client -> Server : 735 bytes (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 31) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 15) Server -> Client : 179 bytes  (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/background.png"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 28) Client -> Server : 753 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/titlebg.png"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Client -> Server : 775 bytes (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 12) Connection Terminated (by Client)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/chart.png"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 15) Client -> Server : 778 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/switch_width.png"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 29) Client -> Server : 755 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/search.png"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 30) Client -> Server : 774 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/pt_item.png"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 31) Client -> Server : 775 bytes (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0:1a6c)]   (Sid: 15) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 28) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 29) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 30) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 31) Server -> Client : 179 bytes  (Service=HTTP)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Error    (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 0)
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Error    (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 0)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/nv.png"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Client -> Server : 770 bytes (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Server -> Client : 179 bytes  (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/pn.png"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 15) Client -> Server : 770 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/qmenu.png"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 28) Client -> Server : 772 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/nv_a.png"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 29) Client -> Server : 772 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/newarow.gif"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 30) Client -> Server : 775 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/px.png"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 31) Client -> Server : 769 bytes (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 39) Connection Terminated (by Client)
+[Network Analyzer (1df0:1a6c)]   (Sid: 15) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 28) Server -> Client : 178 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 29) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 30) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 31) Server -> Client : 178 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 38) Connection Terminated (by Client)
+[Network Analyzer (1df0:1a6c)]   (Sid: 37) Connection Terminated (by Client)
+[Network Analyzer (1df0:1a6c)]   (Sid: 33) Connection Terminated (by Client)
+[Network Analyzer (1df0:1a6c)]   (Sid: 35) Connection Terminated (by Client)
+[Network Analyzer (1df0:1a6c)]   (Sid: 27) Connection Terminated (by Client)
+[Network Analyzer (1df0:1a6c)]   (Sid: 34) Connection Terminated (by Client)
+[Network Analyzer (1df0:1a6c)]   (Sid: 26) Connection Terminated (by Client)
+[Network Analyzer (1df0:1a6c)]   (Sid: 25) Connection Terminated (by Client)
+[Network Analyzer (1df0:1a6c)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer (1df0:1a6c)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (1df0:1a6c)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (1df0:1a6c)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (1df0:1a6c)]   (Sid: 36) Connection Terminated (by Client)
+[Network Analyzer (1df0:1a6c)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (1df0:1a6c)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (1df0:1a6c)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer (1df0:1a6c)]   (Sid: 20) Connection Terminated (by Client)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/scrolltop.png"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 31) Client -> Server : 777 bytes (Service=HTTP)
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0:1a6c)]   (Sid: 31) Server -> Client : 179 bytes  (Service=HTTP)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Error    (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 0)
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Error    (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 0)
+[Web Request      (1df0:1a6c)] "GET /static/js/ajax.js?G0S"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Client -> Server : 712 bytes (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Server -> Client : 180 bytes  (Service=HTTP)
+[Web Request      (1df0:1a6c)] "POST /member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes&inajax=1"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Client -> Server : 910 bytes (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Server -> Client : 1301 bytes  (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /forum.php"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Client -> Server : 905 bytes (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Server -> Client : 6944 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Server -> Client : 8107 bytes  (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /data/cache/style_1_common.css?G0S"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Client -> Server : 959 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /data/cache/style_1_forum_index.css?G0S"   
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0:1a6c)]   (Sid: 15) Client -> Server : 962 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/js/common.js?G0S"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 28) Client -> Server : 933 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /data/cache/style_1_widthauto.css?G0S"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 29) Client -> Server : 960 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/js/forum.js?G0S"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 30) Client -> Server : 932 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /uc_server/avatar.php?uid=2&size=small"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 31) Client -> Server : 947 bytes (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Server -> Client : 181 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 15) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 28) Server -> Client : 180 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 29) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 30) Server -> Client : 180 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 31) Server -> Client : 333 bytes  (Service=HTTP)
+[Network Analyzer (1df0: b50)] Request Connection: Remote Server @ 123.125.110.18:80   (Service=)  (Sid= 40)  PROXIED!
+[Web Request      (1df0:1a6c)] "GET /home.php?mod=spacecp&ac=pm&op=checknewpm&rand=1466488917"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 31) Client -> Server : 884 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/js/html5notification.js?G0S"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 30) Client -> Server : 943 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /uc_server/images/noavatar_small.gif"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Client -> Server : 1004 bytes (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 30) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 31) Server -> Client : 355 bytes  (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/switch_style.png"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Client -> Server : 999 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/user_online.gif"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 15) Client -> Server : 998 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/arrwd.gif"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 28) Client -> Server : 991 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/notice.gif"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 29) Client -> Server : 993 bytes (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 15) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 28) Server -> Client : 178 bytes  (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/js/ajax.js?G0S"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 30) Client -> Server : 958 bytes (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 29) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 30) Server -> Client : 180 bytes  (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /favicon.ico"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Client -> Server : 991 bytes (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Server -> Client : 180 bytes  (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /misc.php?mod=patch&action=ipnotice&_r=0.49128864272567696&inajax=1&ajaxtarget=ip_notice"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 31) Client -> Server : 1061 bytes (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 31) Server -> Client : 455 bytes  (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/ico_notice.png"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Client -> Server : 1047 bytes (Service=HTTP)
+[Web Request      (1df0:1a6c)] "GET /static/image/common/close.gif"   
+[Network Analyzer (1df0:1a6c)]   (Sid: 31) Client -> Server : 1041 bytes (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 11) Server -> Client : 179 bytes  (Service=HTTP)
+[Network Analyzer (1df0:1a6c)]   (Sid: 31) Server -> Client : 178 bytes  (Service=HTTP)
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Warning  (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 0)
+[Net An. Error    (1df0: b50)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 0)
+[Network Analyzer (1df0: b50)] Address lookup for QD-YANFA-00050 = 172.16.21.37
+[Network Analyzer (1df0:1a6c)]   (Sid:  5) Connection Terminated (by Server)
+[Network Analyzer (1df0:1a6c)]   (Sid: 23) Connection Terminated (by Server)
+[Network Analyzer (1df0:1a6c)]   (Sid: 24) Connection Terminated (by Server)

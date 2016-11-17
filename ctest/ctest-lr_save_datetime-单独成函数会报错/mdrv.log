@@ -1,0 +1,7 @@
+Error: CCI compilation error -Action.c (17): illegal return type; found `int' expected `pointer to char'
+.	[MsgId: MERR-19799]
+Error: CCI compilation error -d:\\my\\study\\performance\\lrtest-script\\ctest\\ctest-lr_save_datetime\\\\combined_ctest-lr_save_datetime.c (4): 1 errors, not writing pre_cci.ci
+.	[MsgId: MERR-19799]
+Error: Vuser compilation failed.	[MsgId: MERR-19800]
+Warning: Extension cciext.dll reports error -19800 on call to function ExtPerProcessInitialize	[MsgId: MWAR-10485]
+Error: Thread Context: Call to service of the driver failed, reason - thread context wasn't initialized on this thread.	[MsgId: MERR-10176]

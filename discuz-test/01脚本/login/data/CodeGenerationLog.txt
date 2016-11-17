@@ -1,0 +1,3567 @@
+****** Start Log Message ******
+Web Recorder version : 11.0.0.8859 
+Recording Mode: HTML-based script
+Correlation is enabled system wide
+Not recording headers
+Not excluding content types
+Do not record this content types as a resource:
+	text/html
+	text/xml
+Reset context between actions
+Record non-HTML elements in current HTML function
+Protocol Type: Multi-QTWeb
+
+$$$$$$ End Log Message $$$$$$
+
+Code generation version: 11.0.0.8859
+
+****** Request Header For Transaction With Id 18 ******
+GET /live.gif?channelid=full.firefox.com.cn&fxversion=19.0.2&ceversion=2013.3&ver=4&actcode4=%7B2a100dca-5c93-4177-ae5b-8f62ec88e695%7D&uk=%7B5760b364-24e3-4deb-9069-1c9cd209c498%7D&dk=RSm3CvmslVzhlS0tFurXeFgRld4pIF6M9DMxr1QXve4UQvj4/lqFYw==&prevsessionlen=1&locale=zh-CN&moexts=cemigration,coba,cpmanager,livemargins,tabimprovelite,cehomepage,quicklaunch,share_all_cn HTTP/1.1
+Host: www.g-fox.cn
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 18 Ended $$$$$$
+
+****** Response Header For Transaction With Id 18 ******
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 21 Jun 2016 06:00:49 GMT
+Content-Type: image/gif
+Last-Modified: Tue, 09 Aug 2011 07:40:22 GMT
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+
+$$$$$$ Response Header For Transaction With Id 18 Ended $$$$$$
+
+****** Response Body For Transaction With Id 18 ******
+GIF89a\x01\x00\x01\x00\x80\x00\x00\xFF\xFF\xFF\x00\x00\x00!\xFF\x0BXMP DataXMP<?xpacket begin="锘\xBF" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.0-c060 61.134777, 2010/02/12-17:32:00        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CS5 Windows" xmpMM:InstanceID="xmp.iid:FA26E8EBC25A11E08CF6DD71C84FF6D7" xmpMM:DocumentID="xmp.did:FA26E8ECC25A11E08CF6DD71C84FF6D7"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:FA26E8E9C25A11E08CF6DD71C84FF6D7" stRef:documentID="xmp.did:FA26E8EAC25A11E08CF6DD71C84FF6D7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>\x01\xFF鲺趔蝰痫铐祀觊桤驽溷忉噙掭苒谫刈终杂已邢瓮趟噬惹婆拿铝揽窘蓟汗阜兜闯脖隘ěΕぃⅰ牊灊湜殭槜枙敁拺悘帊寢妷垏唴剝倎\x80\x7F~}|{zyxwvutsrqponmlkjihgfedcba`_^]\\[ZYXWVUTSRQPONMLKJIHGFEDCBA@?>=<;:9876543210/.-,+*)('&%$#"! \x1F\x1E\x1D\x1C\x1B\x1A\x19\x18\x17\x16\x15\x14\x13\x12\x11\x10\x0F\x0E\x0C\x0B
+	\x08\x07\x06\x05\x04\x03\x02\x01\x00\x00!\xF9\x04\x01\x00\x00\x00\x00,\x00\x00\x00\x00\x01\x00\x01\x00\x00\x02\x02D\x01\x00;
+$$$$$$ Response Body For Transaction With Id 18 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+The Node has no URL
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 18 ****** (Location Flag : tFlagInsertEnd, Location ID : 18)
+	web_url("live.gif",
+		"URL=http://www.g-fox.cn/live.gif?channelid=full.firefox.com.cn&fxversion=19.0.2&ceversion=2013.3&ver=4&actcode4=%7B2a100dca-5c93-4177-ae5b-8f62ec88e695%7D&uk=%7B5760b364-24e3-4deb-9069-1c9cd209c498%7D&dk=RSm3CvmslVzhlS0tFurXeFgRld4pIF6M9DMxr1QXve4UQvj4/lqFYw==&prevsessionlen=1&locale=zh-CN&moexts=cemigration,coba,cpmanager,livemargins,tabimprovelite,cehomepage,quicklaunch,share_all_cn",
+		"Resource=1",
+		"RecContentType=image/gif",
+		"Referer=",
+		"Snapshot=t1.inf",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 18 Ended $$$$$$
+
+****** Request Header For Transaction With Id 19 ******
+GET /adu.gif?channelid=full.firefox.com.cn&fxversion=19.0.2&ceversion=2013.3&ver=1_0&pk=%7B2a100dca-5c93-4177-ae5b-8f62ec88e695%7D&uk=%7B5760b364-24e3-4deb-9069-1c9cd209c498%7D&locale=zh-CN&moexts=cemigration,coba,cpmanager,livemargins,tabimprovelite,cehomepage,quicklaunch,share_all_cn&now=1466488884015 HTTP/1.1
+Host: adu.g-fox.cn
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 19 Ended $$$$$$
+
+****** Response Header For Transaction With Id 19 ******
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 21 Jun 2016 06:00:49 GMT
+Content-Type: image/gif
+Content-Length: 1093
+Last-Modified: Tue, 09 Aug 2011 07:40:22 GMT
+Connection: keep-alive
+Accept-Ranges: bytes
+
+
+$$$$$$ Response Header For Transaction With Id 19 Ended $$$$$$
+
+****** Response Body For Transaction With Id 19 ******
+GIF89a\x01\x00\x01\x00\x80\x00\x00\xFF\xFF\xFF\x00\x00\x00!\xFF\x0BXMP DataXMP<?xpacket begin="锘\xBF" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.0-c060 61.134777, 2010/02/12-17:32:00        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CS5 Windows" xmpMM:InstanceID="xmp.iid:FA26E8EBC25A11E08CF6DD71C84FF6D7" xmpMM:DocumentID="xmp.did:FA26E8ECC25A11E08CF6DD71C84FF6D7"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:FA26E8E9C25A11E08CF6DD71C84FF6D7" stRef:documentID="xmp.did:FA26E8EAC25A11E08CF6DD71C84FF6D7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>\x01\xFF鲺趔蝰痫铐祀觊桤驽溷忉噙掭苒谫刈终杂已邢瓮趟噬惹婆拿铝揽窘蓟汗阜兜闯脖隘ěΕぃⅰ牊灊湜殭槜枙敁拺悘帊寢妷垏唴剝倎\x80\x7F~}|{zyxwvutsrqponmlkjihgfedcba`_^]\\[ZYXWVUTSRQPONMLKJIHGFEDCBA@?>=<;:9876543210/.-,+*)('&%$#"! \x1F\x1E\x1D\x1C\x1B\x1A\x19\x18\x17\x16\x15\x14\x13\x12\x11\x10\x0F\x0E\x0C\x0B
+	\x08\x07\x06\x05\x04\x03\x02\x01\x00\x00!\xF9\x04\x01\x00\x00\x00\x00,\x00\x00\x00\x00\x01\x00\x01\x00\x00\x02\x02D\x01\x00;
+$$$$$$ Response Body For Transaction With Id 19 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+The Node has no URL
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 19 ****** (Location Flag : tFlagInsertEnd, Location ID : 19)
+	web_url("adu.gif",
+		"URL=http://adu.g-fox.cn/adu.gif?channelid=full.firefox.com.cn&fxversion=19.0.2&ceversion=2013.3&ver=1_0&pk=%7B2a100dca-5c93-4177-ae5b-8f62ec88e695%7D&uk=%7B5760b364-24e3-4deb-9069-1c9cd209c498%7D&locale=zh-CN&moexts=cemigration,coba,cpmanager,livemargins,tabimprovelite,cehomepage,quicklaunch,share_all_cn&now=1466488884015",
+		"Resource=1",
+		"RecContentType=image/gif",
+		"Referer=",
+		"Snapshot=t2.inf",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 19 Ended $$$$$$
+
+****** Request Header For Transaction With Id 25 ******
+GET /tk.gif?when=run HTTP/1.1
+Host: addons.g-fox.cn
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+If-Modified-Since: Tue, 09 Aug 2011 07:40:22 GMT
+
+
+$$$$$$ Request Header For Transaction With Id 25 Ended $$$$$$
+
+****** Response Header For Transaction With Id 25 ******
+HTTP/1.1 304 Not Modified
+Server: Tengine
+Content-Type: image/gif
+Connection: keep-alive
+Date: Tue, 21 Jun 2016 05:26:59 GMT
+Last-Modified: Tue, 09 Aug 2011 07:40:22 GMT
+X-Host: p2
+Accept-Ranges: bytes
+Via: cache60.l2nu16-1[0,304-0,H], cache39.l2nu16-1[13,0], kunlun9.cn239[0,304-0,H], kunlun8.cn239[1,0]
+Age: 2030
+X-Cache: HIT TCP_IMS_HIT dirn:2:55598972
+Timing-Allow-Origin: *
+EagleId: 7a8de38814664888497783762e
+
+
+$$$$$$ Response Header For Transaction With Id 25 Ended $$$$$$
+
+****** Response Body For Transaction With Id 25 ******
+
+$$$$$$ Response Body For Transaction With Id 25 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+The Node has no URL
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 25 ****** (Location Flag : tFlagInsertEnd, Location ID : 25)
+	web_url("tk.gif",
+		"URL=http://addons.g-fox.cn/tk.gif?when=run",
+		"Resource=1",
+		"RecContentType=image/gif",
+		"Referer=",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 25 Ended $$$$$$
+
+****** Request Header For Transaction With Id 26 ******
+GET /appcenter.gif?t=0&a=002&d=0&r=0.4948470929263147&cid=full.firefox.com.cn HTTP/1.1
+Host: addons.g-fox.cn
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 26 Ended $$$$$$
+
+****** Response Header For Transaction With Id 26 ******
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: image/gif
+Content-Length: 1093
+Connection: keep-alive
+Date: Tue, 21 Jun 2016 05:47:06 GMT
+Last-Modified: Tue, 09 Aug 2011 07:40:22 GMT
+X-Host: p2
+Accept-Ranges: bytes
+Via: cache5.l2nu16-1[7,304-0,H], cache40.l2nu16-1[8,0], kunlun9.cn239[0,200-0,H], kunlun9.cn239[0,0]
+Age: 823
+X-Cache: HIT TCP_MEM_HIT dirn:4:37890427
+X-Swift-SaveTime: Tue, 21 Jun 2016 05:47:06 GMT
+X-Swift-CacheTime: 3600
+Timing-Allow-Origin: *
+EagleId: 7a8de38914664888497907458e
+
+
+$$$$$$ Response Header For Transaction With Id 26 Ended $$$$$$
+
+****** Response Body For Transaction With Id 26 ******
+GIF89a\x01\x00\x01\x00\x80\x00\x00\xFF\xFF\xFF\x00\x00\x00!\xFF\x0BXMP DataXMP<?xpacket begin="锘\xBF" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.0-c060 61.134777, 2010/02/12-17:32:00        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CS5 Windows" xmpMM:InstanceID="xmp.iid:FA26E8EBC25A11E08CF6DD71C84FF6D7" xmpMM:DocumentID="xmp.did:FA26E8ECC25A11E08CF6DD71C84FF6D7"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:FA26E8E9C25A11E08CF6DD71C84FF6D7" stRef:documentID="xmp.did:FA26E8EAC25A11E08CF6DD71C84FF6D7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>\x01\xFF鲺趔蝰痫铐祀觊桤驽溷忉噙掭苒谫刈终杂已邢瓮趟噬惹婆拿铝揽窘蓟汗阜兜闯脖隘ěΕぃⅰ牊灊湜殭槜枙敁拺悘帊寢妷垏唴剝倎\x80\x7F~}|{zyxwvutsrqponmlkjihgfedcba`_^]\\[ZYXWVUTSRQPONMLKJIHGFEDCBA@?>=<;:9876543210/.-,+*)('&%$#"! \x1F\x1E\x1D\x1C\x1B\x1A\x19\x18\x17\x16\x15\x14\x13\x12\x11\x10\x0F\x0E\x0C\x0B
+	\x08\x07\x06\x05\x04\x03\x02\x01\x00\x00!\xF9\x04\x01\x00\x00\x00\x00,\x00\x00\x00\x00\x01\x00\x01\x00\x00\x02\x02D\x01\x00;
+$$$$$$ Response Body For Transaction With Id 26 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+The Node has no URL
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 26 ****** (Location Flag : tFlagInsertEnd, Location ID : 26)
+	web_url("appcenter.gif",
+		"URL=http://addons.g-fox.cn/appcenter.gif?t=0&a=002&d=0&r=0.4948470929263147&cid=full.firefox.com.cn",
+		"Resource=1",
+		"RecContentType=image/gif",
+		"Referer=",
+		"Snapshot=t3.inf",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 26 Ended $$$$$$
+
+****** Request Header For Transaction With Id 32 ******
+GET /inner/ HTTP/1.1
+Host: api.app.mozilla.com.cn
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: __utma=265356880.1632274347.1466129867.1466138475.1466487506.4; __utmz=265356880.1466129867.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmb=265356880.1.10.1466487506
+Connection: keep-alive
+If-Modified-Since: Tue, 24 Jun 2014 05:43:02 GMT
+If-None-Match: W/"53a90fe6-1399e"
+
+
+$$$$$$ Request Header For Transaction With Id 32 Ended $$$$$$
+
+****** Response Header For Transaction With Id 32 ******
+HTTP/1.1 304 Not Modified
+Date: Tue, 21 Jun 2016 06:00:49 GMT
+Expires: Tue, 21 Jun 2016 06:05:25 GMT
+Content-Length: 0
+Content-Type: text/html
+Last-Modified: Tue, 24 Jun 2014 05:43:02 GMT
+Cache-Control: max-age=3600
+Connection: Keep-Alive
+ETag: W/"53a90fe6-1399e"
+Server: nginx
+Content-Encoding: gzip
+Fw-Cache-Status: hit
+Fw-Via: DISK HIT from 122.192.111.152, Configured MISS from 122.192.111.150, DISK HIT NOT MODIFIED from 58.220.2.110
+
+
+$$$$$$ Response Header For Transaction With Id 32 Ended $$$$$$
+
+****** Response Body For Transaction With Id 32 ******
+
+$$$$$$ Response Body For Transaction With Id 32 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+The Node has no URL
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 32 ****** (Location Flag : tFlagInsertEnd, Location ID : 32)
+	web_url("inner",
+		"URL=http://api.app.mozilla.com.cn/inner/",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 32 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 32)
+	web_add_cookie("__utma=265356880.1632274347.1466129867.1466138475.1466487506.4; DOMAIN=api.app.mozilla.com.cn");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 32)
+	web_add_cookie("__utmz=265356880.1466129867.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); DOMAIN=api.app.mozilla.com.cn");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 32)
+	web_add_cookie("__utmb=265356880.1.10.1466487506; DOMAIN=api.app.mozilla.com.cn");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Request Header For Transaction With Id 34 ******
+GET /bookmarks/updates.json HTTP/1.1
+Host: bookmarks.firefoxchina.cn
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: Hm_lvt_dd4738b5fb302cb062ef19107df5d2e4=1466136155,1466138477
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 34 Ended $$$$$$
+
+****** Response Header For Transaction With Id 34 ******
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Tue, 21 Jun 2016 06:00:49 GMT
+Content-Type: text/html
+Content-Length: 154
+Connection: keep-alive
+Location: http://i.firefoxchina.cn/bookmarks/updates-22.json
+
+
+$$$$$$ Response Header For Transaction With Id 34 Ended $$$$$$
+
+****** Response Body For Transaction With Id 34 ******
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+$$$$$$ Response Body For Transaction With Id 34 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/inner/
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 35 ******
+GET /master-ii/quickdialdata.json HTTP/1.1
+Host: ntab.firefoxchina.cn
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: Hm_lvt_dd4738b5fb302cb062ef19107df5d2e4=1466136155,1466138477
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 35 Ended $$$$$$
+
+****** Response Header For Transaction With Id 35 ******
+HTTP/1.1 302 Moved Temporarily
+Server: nginx
+Date: Tue, 21 Jun 2016 06:00:49 GMT
+Content-Type: text/html
+Content-Length: 154
+Connection: keep-alive
+Location: http://i.firefoxchina.cn/newtab/master-ii/quickdialdata-0.json
+
+
+$$$$$$ Response Header For Transaction With Id 35 Ended $$$$$$
+
+****** Response Body For Transaction With Id 35 ******
+<html>
+<head><title>302 Found</title></head>
+<body bgcolor="white">
+<center><h1>302 Found</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+$$$$$$ Response Body For Transaction With Id 35 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/inner/
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 41 ******
+GET /forum.php HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=PWnaGf; HE44_2132_lastact=1466487550%09home.php%09spacecp; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 41 Ended $$$$$$
+
+****** Response Header For Transaction With Id 41 ******
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:35 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: HE44_2132_sid=LfuwUu; expires=Wed, 22-Jun-2016 06:01:35 GMT; path=/
+Set-Cookie: HE44_2132_lastact=1466488895%09forum.php%09; expires=Wed, 22-Jun-2016 06:01:35 GMT; path=/
+Set-Cookie: HE44_2132_onlineusernum=3; expires=Tue, 21-Jun-2016 06:06:35 GMT; path=/
+Set-Cookie: HE44_2132_sid=LfuwUu; expires=Wed, 22-Jun-2016 06:01:35 GMT; path=/
+
+
+$$$$$$ Response Header For Transaction With Id 41 Ended $$$$$$
+
+****** Response Body For Transaction With Id 41 ******
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>论坛 -  Powered by Discuz!</title>
+
+<meta name="keywords" content="论坛" />
+<meta name="description" content="论坛 " />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://192.168.182.88/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?G0S" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_forum_index.css?G0S" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'G0S', charset = 'utf-8', discuz_uid = '0', cookiepre = 'HE44_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|威望|,2|金钱|,3|贡献|', defaultstyle = '', REPORTURL = 'aHR0cDovLzE5Mi4xNjguMTgyLjg4L2ZvcnVtLnBocA==', SITEURL = 'http://192.168.182.88/', JSPATH = 'static/js/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="static/js/common.js?G0S" type="text/javascript"></script>
+<meta name="application-name" content="Discuz! Board" />
+<meta name="msapplication-tooltip" content="Discuz! Board" />
+<meta name="msapplication-task" content="name=论坛;action-uri=http://192.168.182.88/forum.php;icon-uri=http://192.168.182.88/static/image/common/bbs.ico" />
+<link rel="archives" title="Discuz! Board" href="http://192.168.182.88/archiver/" />
+<link rel="stylesheet" id="css_widthauto" type="text/css" href='data/cache/style_1_widthauto.css?G0S' />
+<script type="text/javascript">HTMLNODE.className += ' widthauto'</script>
+<script src="static/js/forum.js?G0S" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_index" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://192.168.182.88/');">设为首页</a><a href="http://192.168.182.88/"  onclick="addFavorite(this.href, 'Discuz! Board');return false;">收藏本站</a></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到窄版" class="switchwidth">切换到窄版</a>
+</div>
+</div>
+</div>
+
+<div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register" class="xi2 xw1">立即注册</a>
+</div>
+<div id="fjump_menu" class="btda"></div></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="Discuz! Board"><img src="static/image/common/logo.png" alt="Discuz! Board" border="0" /></a></h2><script src="static/js/logging.js?G0S" type="text/javascript"></script>
+<form method="post" autocomplete="off" id="lsform" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;infloat=yes&amp;lssubmit=yes" onsubmit="return lsSubmit();">
+<div class="fastlg cl">
+<span id="return_ls" style="display:none"></span>
+<div class="y pns">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<span class="ftid">
+<select name="fastloginfield" id="ls_fastloginfield" width="40" tabindex="900">
+<option value="username">用户名</option>
+<option value="email">Email</option>
+</select>
+</span>
+<script type="text/javascript">simulateSelect('ls_fastloginfield')</script>
+</td>
+<td><input type="text" name="username" id="ls_username" autocomplete="off" class="px vm" tabindex="901" /></td>
+<td class="fastlg_l"><label for="ls_cookietime"><input type="checkbox" name="cookietime" id="ls_cookietime" class="pc" value="2592000" tabindex="903" />自动登录</label></td>
+<td>&nbsp;<a href="javascript:;" onclick="showWindow('login', 'member.php?mod=logging&action=login&viewlostpw=1')">找回密码</a></td>
+</tr>
+<tr>
+<td><label for="ls_password" class="z psw_w">密码</label></td>
+<td><input type="password" name="password" id="ls_password" class="px vm" autocomplete="off" tabindex="902" /></td>
+<td class="fastlg_l"><button type="submit" class="pn vm" tabindex="904" style="width: 75px;"><em>登录</em></button></td>
+<td>&nbsp;<a href="member.php?mod=register" class="xi2 xw1">立即注册</a></td>
+</tr>
+</table>
+<input type="hidden" name="quickforward" value="yes" />
+<input type="hidden" name="handlekey" value="ls" />
+</div>
+</div>
+</form>
+
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu();})">快捷导航</a>
+<ul><li class="a" id="mn_forum" ><a href="forum.php" hidefocus="true" title="BBS"  >论坛<span>BBS</span></a></li></ul>
+</div>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+</div><div id="scbar" class="cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="9dc4a0c6" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="" />
+<input type="hidden" name="srhlocality" value="forum::index" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+
+<a href="search.php?mod=forum&amp;srchtxt=%E6%B4%BB%E5%8A%A8&amp;formhash=9dc4a0c6&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">活动</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E4%BA%A4%E5%8F%8B&amp;formhash=9dc4a0c6&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">交友</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=discuz&amp;formhash=9dc4a0c6&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">discuz</a>
+
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp">
+<div id="pt" class="bm cl">
+<div class="z">
+<a href="./" class="nvhm" title="首页">Discuz! Board</a><em>&raquo;</em><a href="forum.php">论坛</a></div>
+<div class="z"></div>
+</div>
+
+
+
+<style id="diy_style" type="text/css"></style>
+
+<div class="wp">
+<!--[diy=diy1]--><div id="diy1" class="area"></div><!--[/diy]-->
+</div>
+
+<div id="ct" class="wp cl">
+<div id="chart" class="bm bw0 cl">
+<p class="chart z">今日: <em>0</em><span class="pipe">|</span>昨日: <em>0</em><span class="pipe">|</span>帖子: <em>0</em><span class="pipe">|</span>会员: <em>3</em><span class="pipe">|</span>欢迎新会员: <em><a href="home.php?mod=space&amp;username=9108002" target="_blank" class="xi2">9108002</a></em></p>
+<div class="y">
+<a href="forum.php?mod=guide&amp;view=new" title="最新回复" class="xi2">最新回复</a></div>
+</div>
+<!--[diy=diy_chart]--><div id="diy_chart" class="area"></div><!--[/diy]-->
+<div class="mn">
+
+
+<div class="fl bm">
+<div class="bm bmw  cl">
+<div class="bm_h cl">
+<span class="o">
+<img id="category_1_img" src="static/image/common/collapsed_no.gif" title="收起/展开" alt="收起/展开" onclick="toggle_collapse('category_1');" />
+</span>
+<h2><a href="forum.php?gid=1" style="">Discuz!</a></h2>
+</div>
+<div id="category_1" class="bm_c" style="">
+<table cellspacing="0" cellpadding="0" class="fl_tb">
+<tr><td class="fl_icn" >
+<a href="forum.php?mod=forumdisplay&fid=2"><img src="static/image/common/forum.gif" alt="默认版块" /></a>
+</td>
+<td>
+<h2><a href="forum.php?mod=forumdisplay&fid=2">默认版块</a></h2>
+</td>
+<td class="fl_i">
+<span class="xi2">0</span><span class="xg1"> / 0</span></td>
+<td class="fl_by">
+<div>
+从未
+</div>
+</td>
+</tr>
+<tr class="fl_row">
+</tr>
+</table>
+</div>
+</div>
+</div>
+
+<div class="wp mtn">
+<!--[diy=diy3]--><div id="diy3" class="area"></div><!--[/diy]-->
+</div>
+
+<div id="online" class="bm oll">
+<div class="bm_h">
+<span class="o"><a href="forum.php?showoldetails=no#online" title="收起/展开"><img src="static/image/common/collapsed_no.gif" alt="收起/展开" /></a></span>
+<h3>
+<strong><a href="home.php?mod=space&amp;do=friend&amp;view=online&amp;type=member">在线会员</a></strong>
+<span class="xs1">- <strong>3</strong> 人在线
+- <strong>0</strong> 会员(<strong>0</strong> 隐身),
+<strong>3</strong> 位游客
+- 最高记录是 <strong>4</strong> 于 <strong>2016-6-21</strong>.</span>
+</h3>
+</div>
+<dl id="onlinelist" class="bm_c">
+<dt class="ptm pbm bbda"><img src="static/image/common/online_admin.gif" /> 管理员 &nbsp; &nbsp; &nbsp; <img src="static/image/common/online_supermod.gif" /> 超级版主 &nbsp; &nbsp; &nbsp; <img src="static/image/common/online_moderator.gif" /> 版主 &nbsp; &nbsp; &nbsp; <img src="static/image/common/online_member.gif" /> 会员 &nbsp; &nbsp; &nbsp; </dt>
+<dd class="ptm pbm">
+<ul class="cl">
+<li style="width: auto">当前只有游客或隐身会员在线</li>
+</ul>
+</dd>
+</dl>
+</div>
+
+</div>
+
+</div>
+<script>fixed_top_nv();</script>	</div>
+<div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p>
+<a href="archiver/" >Archiver</a><span class="pipe">|</span><a href="forum.php?mobile=yes" >手机版</a><span class="pipe">|</span><a href="forum.php?mod=misc&action=showdarkroom" >小黑屋</a><span class="pipe">|</span><strong><a href="http://www.comsenz.com/" target="_blank">Comsenz Inc.</a></strong>
+</p>
+<p class="xs0">
+GMT+8, 2016-6-21 14:01<span id="debuginfo">
+, Processed in 0.022038 second(s), 9 queries
+.
+</span>
+</p>
+</div>
+<div id="frt">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.2</em></p>
+<p class="xs0">&copy; 2001-2013 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></p>
+</div></div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1466488895" type="text/javascript"></script>
+<div id="scrolltop">
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '|X3.2|0.6||0||0|7|1466488895||2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script></body>
+</html>
+
+$$$$$$ Response Body For Transaction With Id 41 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/inner/
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 41 ****** (Location Flag : tFlagInsertEnd, Location ID : 41)
+	web_url("forum.php",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t4.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 41 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 41)
+	web_add_cookie("HE44_2132_saltkey=OIroZHI2; DOMAIN=192.168.182.88");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 41)
+	web_add_cookie("HE44_2132_lastvisit=1466483900; DOMAIN=192.168.182.88");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 41)
+	web_add_cookie("HE44_2132_sid=PWnaGf; DOMAIN=192.168.182.88");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 41)
+	web_add_cookie("HE44_2132_lastact=1466487550%09home.php%09spacecp; DOMAIN=192.168.182.88");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 41)
+	web_add_cookie("HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; DOMAIN=192.168.182.88");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 41)
+	web_add_cookie("HE44_2132_nofavfid=1; DOMAIN=192.168.182.88");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 41)
+	web_add_cookie("tjpctrl=1466489351504; DOMAIN=192.168.182.88");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Request Header For Transaction With Id 45 ******
+GET /appcenter.gif?t=0&a=001&d=tab-install&r=0.1879624448269147&cid=full.firefox.com.cn HTTP/1.1
+Host: addons.g-fox.cn
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 45 Ended $$$$$$
+
+****** Response Header For Transaction With Id 45 ******
+HTTP/1.1 200 OK
+Server: Tengine
+Content-Type: image/gif
+Content-Length: 1093
+Connection: keep-alive
+Date: Tue, 21 Jun 2016 05:47:06 GMT
+Last-Modified: Tue, 09 Aug 2011 07:40:22 GMT
+X-Host: p2
+Accept-Ranges: bytes
+Via: cache5.l2nu16-1[7,304-0,H], cache40.l2nu16-1[8,0], kunlun9.cn239[0,200-0,H], kunlun8.cn239[0,0]
+Age: 824
+X-Cache: HIT TCP_MEM_HIT dirn:4:37890427
+X-Swift-SaveTime: Tue, 21 Jun 2016 05:47:06 GMT
+X-Swift-CacheTime: 3600
+Timing-Allow-Origin: *
+EagleId: 7a8de38814664888502095867e
+
+
+$$$$$$ Response Header For Transaction With Id 45 Ended $$$$$$
+
+****** Response Body For Transaction With Id 45 ******
+GIF89a\x01\x00\x01\x00\x80\x00\x00\xFF\xFF\xFF\x00\x00\x00!\xFF\x0BXMP DataXMP<?xpacket begin="锘\xBF" id="W5M0MpCehiHzreSzNTczkc9d"?> <x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.0-c060 61.134777, 2010/02/12-17:32:00        "> <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmp:CreatorTool="Adobe Photoshop CS5 Windows" xmpMM:InstanceID="xmp.iid:FA26E8EBC25A11E08CF6DD71C84FF6D7" xmpMM:DocumentID="xmp.did:FA26E8ECC25A11E08CF6DD71C84FF6D7"> <xmpMM:DerivedFrom stRef:instanceID="xmp.iid:FA26E8E9C25A11E08CF6DD71C84FF6D7" stRef:documentID="xmp.did:FA26E8EAC25A11E08CF6DD71C84FF6D7"/> </rdf:Description> </rdf:RDF> </x:xmpmeta> <?xpacket end="r"?>\x01\xFF鲺趔蝰痫铐祀觊桤驽溷忉噙掭苒谫刈终杂已邢瓮趟噬惹婆拿铝揽窘蓟汗阜兜闯脖隘ěΕぃⅰ牊灊湜殭槜枙敁拺悘帊寢妷垏唴剝倎\x80\x7F~}|{zyxwvutsrqponmlkjihgfedcba`_^]\\[ZYXWVUTSRQPONMLKJIHGFEDCBA@?>=<;:9876543210/.-,+*)('&%$#"! \x1F\x1E\x1D\x1C\x1B\x1A\x19\x18\x17\x16\x15\x14\x13\x12\x11\x10\x0F\x0E\x0C\x0B
+	\x08\x07\x06\x05\x04\x03\x02\x01\x00\x00!\xF9\x04\x01\x00\x00\x00\x00,\x00\x00\x00\x00\x01\x00\x01\x00\x00\x02\x02D\x01\x00;
+$$$$$$ Response Body For Transaction With Id 45 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 41 ******
+	web_url("forum.php",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t4.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=http://addons.g-fox.cn/appcenter.gif?t=0&a=001&d=tab-install&r=0.1879624448269147&cid=full.firefox.com.cn", "Referer=", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 41 Ended $$$$$$
+
+****** Request Header For Transaction With Id 62 ******
+GET /data/cache/style_1_common.css?G0S HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488895%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:37:20 GMT
+If-None-Match: "5768d290-1115b"
+
+
+$$$$$$ Request Header For Transaction With Id 62 Ended $$$$$$
+
+****** Response Header For Transaction With Id 62 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:36 GMT
+Last-Modified: Tue, 21 Jun 2016 05:37:20 GMT
+Connection: keep-alive
+ETag: "5768d290-1115b"
+
+
+$$$$$$ Response Header For Transaction With Id 62 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 63 ******
+GET /data/cache/style_1_forum_index.css?G0S HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488895%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:37:41 GMT
+If-None-Match: "5768d2a5-e63"
+
+
+$$$$$$ Request Header For Transaction With Id 63 Ended $$$$$$
+
+****** Response Header For Transaction With Id 63 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:36 GMT
+Last-Modified: Tue, 21 Jun 2016 05:37:41 GMT
+Connection: keep-alive
+ETag: "5768d2a5-e63"
+
+
+$$$$$$ Response Header For Transaction With Id 63 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 70 ******
+GET /newtab/master-ii/quickdialdata-0.json HTTP/1.1
+Host: i.firefoxchina.cn
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: uid=38oGFVdjXZYvzlh6GsMOAg==; Hm_lvt_dd4738b5fb302cb062ef19107df5d2e4=1466136155,1466138477
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 01:50:29 GMT
+If-None-Match: "57689d65-13c6c"
+
+
+$$$$$$ Request Header For Transaction With Id 70 Ended $$$$$$
+
+****** Response Header For Transaction With Id 70 ******
+HTTP/1.1 304 Not Modified
+Date: Tue, 21 Jun 2016 05:41:41 GMT
+Content-Type: application/json
+Expires: Tue, 21 Jun 2016 02:22:55 GMT
+Last-Modified: Tue, 21 Jun 2016 01:50:29 GMT
+ETag: "57689d65-13c6c"
+Cache-Control: max-age=1800
+Age: 1
+X-Via: 1.1 dwt104:7 (Cdn Cache Server V2.0)
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 70 Ended $$$$$$
+
+****** Response Body For Transaction With Id 70 ******
+
+$$$$$$ Response Body For Transaction With Id 70 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 41 ******
+	web_url("forum.php",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t4.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=http://addons.g-fox.cn/appcenter.gif?t=0&a=001&d=tab-install&r=0.1879624448269147&cid=full.firefox.com.cn", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/newtab/master-ii/quickdialdata-0.json", "Referer=", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 41 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 41)
+	web_add_cookie("uid=38oGFVdjXZYvzlh6GsMOAg==; DOMAIN=i.firefoxchina.cn");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 41)
+	web_add_cookie("Hm_lvt_dd4738b5fb302cb062ef19107df5d2e4=1466136155,1466138477; DOMAIN=i.firefoxchina.cn");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Request Header For Transaction With Id 72 ******
+GET /bookmarks/updates-22.json HTTP/1.1
+Host: i.firefoxchina.cn
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: uid=38oGFVdjXZYvzlh6GsMOAg==; Hm_lvt_dd4738b5fb302cb062ef19107df5d2e4=1466136155,1466138477
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 04:15:32 GMT
+If-None-Match: "5768bf64-c6ce"
+
+
+$$$$$$ Request Header For Transaction With Id 72 Ended $$$$$$
+
+****** Response Header For Transaction With Id 72 ******
+HTTP/1.1 304 Not Modified
+Date: Tue, 21 Jun 2016 05:53:44 GMT
+Content-Type: application/json
+Expires: Tue, 21 Jun 2016 06:21:32 GMT
+Last-Modified: Tue, 21 Jun 2016 04:15:32 GMT
+ETag: "5768bf64-c6ce"
+Cache-Control: max-age=1800
+Age: 1
+X-Via: 1.1 dwt104:7 (Cdn Cache Server V2.0)
+Connection: keep-alive
+
+
+$$$$$$ Response Header For Transaction With Id 72 Ended $$$$$$
+
+****** Response Body For Transaction With Id 72 ******
+
+$$$$$$ Response Body For Transaction With Id 72 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 41 ******
+	web_url("forum.php",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t4.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=http://addons.g-fox.cn/appcenter.gif?t=0&a=001&d=tab-install&r=0.1879624448269147&cid=full.firefox.com.cn", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/newtab/master-ii/quickdialdata-0.json", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/bookmarks/updates-22.json", "Referer=", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 41 Ended $$$$$$
+
+****** Request Header For Transaction With Id 81 ******
+GET /static/js/common.js?G0S HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488895%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-f7b4"
+
+
+$$$$$$ Request Header For Transaction With Id 81 Ended $$$$$$
+
+****** Response Header For Transaction With Id 81 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:39 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-f7b4"
+
+
+$$$$$$ Response Header For Transaction With Id 81 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 82 ******
+GET /data/cache/style_1_widthauto.css?G0S HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488895%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:37:20 GMT
+If-None-Match: "5768d290-5ce"
+
+
+$$$$$$ Request Header For Transaction With Id 82 Ended $$$$$$
+
+****** Response Header For Transaction With Id 82 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:39 GMT
+Last-Modified: Tue, 21 Jun 2016 05:37:20 GMT
+Connection: keep-alive
+ETag: "5768d290-5ce"
+
+
+$$$$$$ Response Header For Transaction With Id 82 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 87 ******
+GET /static/js/forum.js?G0S HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488895%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-593c"
+
+
+$$$$$$ Request Header For Transaction With Id 87 Ended $$$$$$
+
+****** Response Header For Transaction With Id 87 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:40 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-593c"
+
+
+$$$$$$ Response Header For Transaction With Id 87 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 89 ******
+GET /home.php?mod=misc&ac=sendmail&rand=1466488895 HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488895%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 89 Ended $$$$$$
+
+****** Response Header For Transaction With Id 89 ******
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:40 GMT
+Content-Type: text/javascript
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: HE44_2132_lastact=1466488900%09home.php%09misc; expires=Wed, 22-Jun-2016 06:01:40 GMT; path=/
+Set-Cookie: HE44_2132_sendmail=1; expires=Tue, 21-Jun-2016 06:06:40 GMT; path=/
+
+
+$$$$$$ Response Header For Transaction With Id 89 Ended $$$$$$
+
+****** Response Body For Transaction With Id 89 ******
+
+$$$$$$ Response Body For Transaction With Id 89 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 90 ******
+GET /static/js/logging.js?G0S HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488895%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-25b"
+
+
+$$$$$$ Request Header For Transaction With Id 90 Ended $$$$$$
+
+****** Response Header For Transaction With Id 90 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:40 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-25b"
+
+
+$$$$$$ Response Header For Transaction With Id 90 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 91 ******
+GET /static/image/common/collapsed_no.gif HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488895%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-113"
+
+
+$$$$$$ Request Header For Transaction With Id 91 Ended $$$$$$
+
+****** Response Header For Transaction With Id 91 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:40 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-113"
+
+
+$$$$$$ Response Header For Transaction With Id 91 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 92 ******
+GET /static/image/common/forum.gif HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488895%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-257"
+
+
+$$$$$$ Request Header For Transaction With Id 92 Ended $$$$$$
+
+****** Response Header For Transaction With Id 92 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:40 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-257"
+
+
+$$$$$$ Response Header For Transaction With Id 92 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 93 ******
+GET /static/image/common/logo.png HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488895%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-1149"
+
+
+$$$$$$ Request Header For Transaction With Id 93 Ended $$$$$$
+
+****** Response Header For Transaction With Id 93 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:40 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-1149"
+
+
+$$$$$$ Response Header For Transaction With Id 93 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 95 ******
+GET /static/image/common/online_admin.gif HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488895%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-16b"
+
+
+$$$$$$ Request Header For Transaction With Id 95 Ended $$$$$$
+
+****** Response Header For Transaction With Id 95 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:40 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-16b"
+
+
+$$$$$$ Response Header For Transaction With Id 95 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 99 ******
+GET /r/__utm.gif?utmwv=5.6.7&utms=2&utmn=1907285040&utmhn=api.app.mozilla.com.cn&utmcs=UTF-8&utmsr=1366x768&utmvp=1123x525&utmsc=24-bit&utmul=zh-cn&utmje=0&utmfl=-&utmdt=%E7%81%AB%E7%8B%90%E5%BA%94%E7%94%A8%E4%B8%AD%E5%BF%83&utmhid=300949477&utmr=-&utmp=%2Finner%2F&utmht=1466488897026&utmac=UA-2826582-7&utmcc=__utma%3D265356880.1632274347.1466129867.1466138475.1466487506.4%3B%2B__utmz%3D265356880.1466129867.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=1274875700&utmredir=1&utmu=qBAAAAAAAAAAAAAAAAAAAAAE~ HTTP/1.1
+Host: www.google-analytics.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://api.app.mozilla.com.cn/inner/
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 99 Ended $$$$$$
+
+****** Response Header For Transaction With Id 99 ******
+HTTP/1.1 200 OK
+Access-Control-Allow-Origin: *
+Date: Tue, 21 Jun 2016 06:00:54 GMT
+Pragma: no-cache
+Expires: Fri, 01 Jan 1990 00:00:00 GMT
+Cache-Control: no-cache, no-store, must-revalidate
+Last-Modified: Sun, 17 May 1998 03:00:00 GMT
+X-Content-Type-Options: nosniff
+Content-Type: image/gif
+Server: Golfe2
+Content-Length: 35
+
+
+$$$$$$ Response Header For Transaction With Id 99 Ended $$$$$$
+
+****** Response Body For Transaction With Id 99 ******
+GIF89a\x01\x00\x01\x00\x80\xFF\x00\xFF\xFF\xFF\x00\x00\x00,\x00\x00\x00\x00\x01\x00\x01\x00\x00\x02\x02D\x01\x00;
+$$$$$$ Response Body For Transaction With Id 99 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 32 ******
+	web_url("inner",
+		"URL=http://api.app.mozilla.com.cn/inner/",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=http://www.google-analytics.com/r/__utm.gif?utmwv=5.6.7&utms=2&utmn=1907285040&utmhn=api.app.mozilla.com.cn&utmcs=UTF-8&utmsr=1366x768&utmvp=1123x525&utmsc=24-bit&utmul=zh-cn&utmje=0&utmfl=-&utmdt=%E7%81%AB%E7%8B%90%E5%BA%94%E7%94%A8%E4%B8%AD%E5%BF%83&utmhid=300949477&utmr=-&utmp=%2Finner%2F&utmht=1466488897026&utmac=UA-2826582-7&utmcc=__utma%3D265356880.1632274347.1466129867.1466138475.1466487506.4%3B%2B__utmz%3D265356880.1466129867.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=1274875700&utmredir=1&utmu=qBAAAAAAAAAAAAAAAAAAAAAE~", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 32 Ended $$$$$$
+
+****** Request Header For Transaction With Id 111 ******
+GET /static/image/common/online_member.gif HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488895%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-16d"
+
+
+$$$$$$ Request Header For Transaction With Id 111 Ended $$$$$$
+
+****** Response Header For Transaction With Id 111 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:40 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-16d"
+
+
+$$$$$$ Response Header For Transaction With Id 111 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 112 ******
+GET /static/image/common/online_supermod.gif HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488895%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-17c"
+
+
+$$$$$$ Request Header For Transaction With Id 112 Ended $$$$$$
+
+****** Response Header For Transaction With Id 112 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:40 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-17c"
+
+
+$$$$$$ Response Header For Transaction With Id 112 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 113 ******
+GET /static/image/common/online_moderator.gif HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488895%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-177"
+
+
+$$$$$$ Request Header For Transaction With Id 113 Ended $$$$$$
+
+****** Response Header For Transaction With Id 113 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:40 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-177"
+
+
+$$$$$$ Response Header For Transaction With Id 113 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 115 ******
+GET /static/image/common/titlebg.png HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/data/cache/style_1_common.css?G0S
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488900%09home.php%09misc; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-13b"
+
+
+$$$$$$ Request Header For Transaction With Id 115 Ended $$$$$$
+
+****** Response Header For Transaction With Id 115 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:40 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-13b"
+
+
+$$$$$$ Response Header For Transaction With Id 115 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 41 ******
+	web_url("forum.php",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t4.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=http://addons.g-fox.cn/appcenter.gif?t=0&a=001&d=tab-install&r=0.1879624448269147&cid=full.firefox.com.cn", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/newtab/master-ii/quickdialdata-0.json", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/bookmarks/updates-22.json", "Referer=", ENDITEM,
+		"Url=/static/image/common/titlebg.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 41 Ended $$$$$$
+
+****** Request Header For Transaction With Id 116 ******
+GET /static/image/common/chart.png HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/data/cache/style_1_forum_index.css?G0S
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488900%09home.php%09misc; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-3de"
+
+
+$$$$$$ Request Header For Transaction With Id 116 Ended $$$$$$
+
+****** Response Header For Transaction With Id 116 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:40 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-3de"
+
+
+$$$$$$ Response Header For Transaction With Id 116 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 41 ******
+	web_url("forum.php",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t4.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=http://addons.g-fox.cn/appcenter.gif?t=0&a=001&d=tab-install&r=0.1879624448269147&cid=full.firefox.com.cn", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/newtab/master-ii/quickdialdata-0.json", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/bookmarks/updates-22.json", "Referer=", ENDITEM,
+		"Url=/static/image/common/titlebg.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/chart.png", "Referer=http://192.168.182.88/data/cache/style_1_forum_index.css?G0S", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 41 Ended $$$$$$
+
+****** Request Header For Transaction With Id 118 ******
+GET /static/image/common/background.png HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/data/cache/style_1_common.css?G0S
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488895%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-48e"
+
+
+$$$$$$ Request Header For Transaction With Id 118 Ended $$$$$$
+
+****** Response Header For Transaction With Id 118 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:40 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-48e"
+
+
+$$$$$$ Response Header For Transaction With Id 118 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 41 ******
+	web_url("forum.php",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t4.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=http://addons.g-fox.cn/appcenter.gif?t=0&a=001&d=tab-install&r=0.1879624448269147&cid=full.firefox.com.cn", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/newtab/master-ii/quickdialdata-0.json", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/bookmarks/updates-22.json", "Referer=", ENDITEM,
+		"Url=/static/image/common/titlebg.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/chart.png", "Referer=http://192.168.182.88/data/cache/style_1_forum_index.css?G0S", ENDITEM,
+		"Url=/static/image/common/background.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 41 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 41)
+	web_add_cookie("HE44_2132_lastact=1466488895%09forum.php%09; DOMAIN=192.168.182.88");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Request Header For Transaction With Id 119 ******
+GET /static/image/common/switch_width.png HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/data/cache/style_1_common.css?G0S
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488895%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-453"
+
+
+$$$$$$ Request Header For Transaction With Id 119 Ended $$$$$$
+
+****** Response Header For Transaction With Id 119 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:40 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-453"
+
+
+$$$$$$ Response Header For Transaction With Id 119 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 41 ******
+	web_url("forum.php",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t4.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=http://addons.g-fox.cn/appcenter.gif?t=0&a=001&d=tab-install&r=0.1879624448269147&cid=full.firefox.com.cn", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/newtab/master-ii/quickdialdata-0.json", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/bookmarks/updates-22.json", "Referer=", ENDITEM,
+		"Url=/static/image/common/titlebg.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/chart.png", "Referer=http://192.168.182.88/data/cache/style_1_forum_index.css?G0S", ENDITEM,
+		"Url=/static/image/common/background.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/switch_width.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 41 Ended $$$$$$
+
+****** Request Header For Transaction With Id 120 ******
+GET /static/image/common/search.png HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/data/cache/style_1_common.css?G0S
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488900%09home.php%09misc; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-515"
+
+
+$$$$$$ Request Header For Transaction With Id 120 Ended $$$$$$
+
+****** Response Header For Transaction With Id 120 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:40 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-515"
+
+
+$$$$$$ Response Header For Transaction With Id 120 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 41 ******
+	web_url("forum.php",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t4.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=http://addons.g-fox.cn/appcenter.gif?t=0&a=001&d=tab-install&r=0.1879624448269147&cid=full.firefox.com.cn", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/newtab/master-ii/quickdialdata-0.json", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/bookmarks/updates-22.json", "Referer=", ENDITEM,
+		"Url=/static/image/common/titlebg.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/chart.png", "Referer=http://192.168.182.88/data/cache/style_1_forum_index.css?G0S", ENDITEM,
+		"Url=/static/image/common/background.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/switch_width.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/search.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 41 Ended $$$$$$
+
+****** Request Header For Transaction With Id 121 ******
+GET /static/image/common/pt_item.png HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/data/cache/style_1_common.css?G0S
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488900%09home.php%09misc; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-e0e"
+
+
+$$$$$$ Request Header For Transaction With Id 121 Ended $$$$$$
+
+****** Response Header For Transaction With Id 121 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:40 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-e0e"
+
+
+$$$$$$ Response Header For Transaction With Id 121 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 41 ******
+	web_url("forum.php",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t4.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=http://addons.g-fox.cn/appcenter.gif?t=0&a=001&d=tab-install&r=0.1879624448269147&cid=full.firefox.com.cn", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/newtab/master-ii/quickdialdata-0.json", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/bookmarks/updates-22.json", "Referer=", ENDITEM,
+		"Url=/static/image/common/titlebg.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/chart.png", "Referer=http://192.168.182.88/data/cache/style_1_forum_index.css?G0S", ENDITEM,
+		"Url=/static/image/common/background.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/switch_width.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/search.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/pt_item.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 41 Ended $$$$$$
+
+****** Request Header For Transaction With Id 123 ******
+GET /static/image/common/nv.png HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/data/cache/style_1_common.css?G0S
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488900%09home.php%09misc; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-793"
+
+
+$$$$$$ Request Header For Transaction With Id 123 Ended $$$$$$
+
+****** Response Header For Transaction With Id 123 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:47 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-793"
+
+
+$$$$$$ Response Header For Transaction With Id 123 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 41 ******
+	web_url("forum.php",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t4.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=http://addons.g-fox.cn/appcenter.gif?t=0&a=001&d=tab-install&r=0.1879624448269147&cid=full.firefox.com.cn", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/newtab/master-ii/quickdialdata-0.json", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/bookmarks/updates-22.json", "Referer=", ENDITEM,
+		"Url=/static/image/common/titlebg.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/chart.png", "Referer=http://192.168.182.88/data/cache/style_1_forum_index.css?G0S", ENDITEM,
+		"Url=/static/image/common/background.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/switch_width.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/search.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/pt_item.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/nv.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 41 Ended $$$$$$
+
+****** Request Header For Transaction With Id 125 ******
+GET /static/image/common/pn.png HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/data/cache/style_1_common.css?G0S
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488900%09home.php%09misc; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-250"
+
+
+$$$$$$ Request Header For Transaction With Id 125 Ended $$$$$$
+
+****** Response Header For Transaction With Id 125 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:47 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-250"
+
+
+$$$$$$ Response Header For Transaction With Id 125 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 41 ******
+	web_url("forum.php",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t4.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=http://addons.g-fox.cn/appcenter.gif?t=0&a=001&d=tab-install&r=0.1879624448269147&cid=full.firefox.com.cn", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/newtab/master-ii/quickdialdata-0.json", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/bookmarks/updates-22.json", "Referer=", ENDITEM,
+		"Url=/static/image/common/titlebg.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/chart.png", "Referer=http://192.168.182.88/data/cache/style_1_forum_index.css?G0S", ENDITEM,
+		"Url=/static/image/common/background.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/switch_width.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/search.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/pt_item.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/nv.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/pn.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 41 Ended $$$$$$
+
+****** Request Header For Transaction With Id 126 ******
+GET /static/image/common/qmenu.png HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/data/cache/style_1_common.css?G0S
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488900%09home.php%09misc; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-e1"
+
+
+$$$$$$ Request Header For Transaction With Id 126 Ended $$$$$$
+
+****** Response Header For Transaction With Id 126 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:47 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-e1"
+
+
+$$$$$$ Response Header For Transaction With Id 126 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 41 ******
+	web_url("forum.php",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t4.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=http://addons.g-fox.cn/appcenter.gif?t=0&a=001&d=tab-install&r=0.1879624448269147&cid=full.firefox.com.cn", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/newtab/master-ii/quickdialdata-0.json", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/bookmarks/updates-22.json", "Referer=", ENDITEM,
+		"Url=/static/image/common/titlebg.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/chart.png", "Referer=http://192.168.182.88/data/cache/style_1_forum_index.css?G0S", ENDITEM,
+		"Url=/static/image/common/background.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/switch_width.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/search.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/pt_item.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/nv.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/pn.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/qmenu.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 41 Ended $$$$$$
+
+****** Request Header For Transaction With Id 127 ******
+GET /static/image/common/nv_a.png HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/data/cache/style_1_common.css?G0S
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488900%09home.php%09misc; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-81c"
+
+
+$$$$$$ Request Header For Transaction With Id 127 Ended $$$$$$
+
+****** Response Header For Transaction With Id 127 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:47 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-81c"
+
+
+$$$$$$ Response Header For Transaction With Id 127 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 41 ******
+	web_url("forum.php",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t4.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=http://addons.g-fox.cn/appcenter.gif?t=0&a=001&d=tab-install&r=0.1879624448269147&cid=full.firefox.com.cn", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/newtab/master-ii/quickdialdata-0.json", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/bookmarks/updates-22.json", "Referer=", ENDITEM,
+		"Url=/static/image/common/titlebg.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/chart.png", "Referer=http://192.168.182.88/data/cache/style_1_forum_index.css?G0S", ENDITEM,
+		"Url=/static/image/common/background.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/switch_width.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/search.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/pt_item.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/nv.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/pn.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/qmenu.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/nv_a.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 41 Ended $$$$$$
+
+****** Request Header For Transaction With Id 128 ******
+GET /static/image/common/newarow.gif HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/data/cache/style_1_common.css?G0S
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488900%09home.php%09misc; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-147"
+
+
+$$$$$$ Request Header For Transaction With Id 128 Ended $$$$$$
+
+****** Response Header For Transaction With Id 128 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:47 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-147"
+
+
+$$$$$$ Response Header For Transaction With Id 128 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 41 ******
+	web_url("forum.php",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t4.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=http://addons.g-fox.cn/appcenter.gif?t=0&a=001&d=tab-install&r=0.1879624448269147&cid=full.firefox.com.cn", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/newtab/master-ii/quickdialdata-0.json", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/bookmarks/updates-22.json", "Referer=", ENDITEM,
+		"Url=/static/image/common/titlebg.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/chart.png", "Referer=http://192.168.182.88/data/cache/style_1_forum_index.css?G0S", ENDITEM,
+		"Url=/static/image/common/background.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/switch_width.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/search.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/pt_item.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/nv.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/pn.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/qmenu.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/nv_a.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/newarow.gif", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 41 Ended $$$$$$
+
+****** Request Header For Transaction With Id 129 ******
+GET /static/image/common/px.png HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/data/cache/style_1_common.css?G0S
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488900%09home.php%09misc; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-d2"
+
+
+$$$$$$ Request Header For Transaction With Id 129 Ended $$$$$$
+
+****** Response Header For Transaction With Id 129 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:47 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-d2"
+
+
+$$$$$$ Response Header For Transaction With Id 129 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 41 ******
+	web_url("forum.php",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t4.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=http://addons.g-fox.cn/appcenter.gif?t=0&a=001&d=tab-install&r=0.1879624448269147&cid=full.firefox.com.cn", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/newtab/master-ii/quickdialdata-0.json", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/bookmarks/updates-22.json", "Referer=", ENDITEM,
+		"Url=/static/image/common/titlebg.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/chart.png", "Referer=http://192.168.182.88/data/cache/style_1_forum_index.css?G0S", ENDITEM,
+		"Url=/static/image/common/background.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/switch_width.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/search.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/pt_item.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/nv.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/pn.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/qmenu.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/nv_a.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/newarow.gif", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/px.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 41 Ended $$$$$$
+
+****** Request Header For Transaction With Id 147 ******
+GET /static/image/common/scrolltop.png HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/data/cache/style_1_common.css?G0S
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488900%09home.php%09misc; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-567"
+
+
+$$$$$$ Request Header For Transaction With Id 147 Ended $$$$$$
+
+****** Response Header For Transaction With Id 147 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:47 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-567"
+
+
+$$$$$$ Response Header For Transaction With Id 147 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 41 ******
+	web_url("forum.php",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t4.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=http://addons.g-fox.cn/appcenter.gif?t=0&a=001&d=tab-install&r=0.1879624448269147&cid=full.firefox.com.cn", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/newtab/master-ii/quickdialdata-0.json", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/bookmarks/updates-22.json", "Referer=", ENDITEM,
+		"Url=/static/image/common/titlebg.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/chart.png", "Referer=http://192.168.182.88/data/cache/style_1_forum_index.css?G0S", ENDITEM,
+		"Url=/static/image/common/background.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/switch_width.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/search.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/pt_item.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/nv.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/pn.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/qmenu.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/nv_a.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/newarow.gif", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/px.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/scrolltop.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 41 Ended $$$$$$
+
+****** Request Header For Transaction With Id 150 ******
+GET /static/js/ajax.js?G0S HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488900%09home.php%09misc; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-1ea7"
+
+
+$$$$$$ Request Header For Transaction With Id 150 Ended $$$$$$
+
+****** Response Header For Transaction With Id 150 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:57 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-1ea7"
+
+
+$$$$$$ Response Header For Transaction With Id 150 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 41 ******
+	web_url("forum.php",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=",
+		"Snapshot=t4.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=http://addons.g-fox.cn/appcenter.gif?t=0&a=001&d=tab-install&r=0.1879624448269147&cid=full.firefox.com.cn", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/newtab/master-ii/quickdialdata-0.json", "Referer=", ENDITEM,
+		"Url=http://i.firefoxchina.cn/bookmarks/updates-22.json", "Referer=", ENDITEM,
+		"Url=/static/image/common/titlebg.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/chart.png", "Referer=http://192.168.182.88/data/cache/style_1_forum_index.css?G0S", ENDITEM,
+		"Url=/static/image/common/background.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/switch_width.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/search.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/pt_item.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/nv.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/pn.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/qmenu.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/nv_a.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/newarow.gif", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/px.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/scrolltop.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/js/ajax.js?G0S", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 41 Ended $$$$$$
+
+****** Request Header For Transaction With Id 151 ******
+POST /member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes&inajax=1 HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488900%09home.php%09misc; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1
+Connection: keep-alive
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 86
+
+
+$$$$$$ Request Header For Transaction With Id 151 Ended $$$$$$
+
+****** Request Body For Transaction With Id 151 ******
+fastloginfield=username&username=9108001&password=123456&quickforward=yes&handlekey=ls
+$$$$$$ Request Body For Transaction With Id 151 Ended $$$$$$
+
+****** Response Header For Transaction With Id 151 ******
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:57 GMT
+Content-Type: text/xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: HE44_2132_lastact=1466488917%09member.php%09logging; expires=Wed, 22-Jun-2016 06:01:57 GMT; path=/
+Set-Cookie: HE44_2132_sid=LfuwUu; expires=Wed, 22-Jun-2016 06:01:57 GMT; path=/
+Set-Cookie: HE44_2132_auth=5b7f2lPfdYo%2BQiDPCuN%2BG%2FxwfAyguk%2FvH5RO7PXOjQEpJKqlAdYxnteodR0tee4vLBxQm9%2Bmj%2BqI%2FCFMeB9H; path=/; httponly
+Set-Cookie: HE44_2132_loginuser=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: HE44_2132_activationauth=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: HE44_2132_pmnum=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: HE44_2132_lastcheckfeed=2%7C1466488917; expires=Wed, 21-Jun-2017 06:01:57 GMT; path=/
+Set-Cookie: HE44_2132_checkfollow=1; expires=Tue, 21-Jun-2016 06:02:27 GMT; path=/
+Set-Cookie: HE44_2132_lip=192.168.182.1%2C1466487543; path=/
+Expires: -1
+Cache-Control: no-store, private, post-check=0, pre-check=0, max-age=0
+Pragma: no-cache
+
+
+$$$$$$ Response Header For Transaction With Id 151 Ended $$$$$$
+
+****** Response Body For Transaction With Id 151 ******
+<?xml version="1.0" encoding="utf-8"?>
+<root><![CDATA[<script type="text/javascript" reload="1">window.location.href='http://192.168.182.88/forum.php';</script>]]></root>
+$$$$$$ Response Body For Transaction With Id 151 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 151 ****** (Location Flag : tFlagInsertEnd, Location ID : 151)
+	web_submit_data("member.php",
+		"Action=http://192.168.182.88/member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes&inajax=1",
+		"Method=POST",
+		"RecContentType=text/xml",
+		"Referer=http://192.168.182.88/forum.php",
+		"Snapshot=t5.inf",
+		"Mode=HTML",
+		ITEMDATA,
+		"Name=fastloginfield", "Value=username", ENDITEM,
+		"Name=username", "Value=9108001", ENDITEM,
+		"Name=password", "Value=123456", ENDITEM,
+		"Name=quickforward", "Value=yes", ENDITEM,
+		"Name=handlekey", "Value=ls", ENDITEM,
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 151 Ended $$$$$$
+
+****** Request Header For Transaction With Id 152 ******
+GET /forum.php HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488917%09member.php%09logging; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1; HE44_2132_auth=5b7f2lPfdYo%2BQiDPCuN%2BG%2FxwfAyguk%2FvH5RO7PXOjQEpJKqlAdYxnteodR0tee4vLBxQm9%2Bmj%2BqI%2FCFMeB9H; HE44_2132_lastcheckfeed=2%7C1466488917; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466487543
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 152 Ended $$$$$$
+
+****** Response Header For Transaction With Id 152 ******
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:57 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: HE44_2132_lastact=1466488917%09forum.php%09; expires=Wed, 22-Jun-2016 06:01:57 GMT; path=/
+Set-Cookie: HE44_2132_sid=LfuwUu; expires=Wed, 22-Jun-2016 06:01:57 GMT; path=/
+
+
+$$$$$$ Response Header For Transaction With Id 152 Ended $$$$$$
+
+****** Response Body For Transaction With Id 152 ******
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>论坛 -  Powered by Discuz!</title>
+
+<meta name="keywords" content="论坛" />
+<meta name="description" content="论坛 " />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://192.168.182.88/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?G0S" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_forum_index.css?G0S" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'G0S', charset = 'utf-8', discuz_uid = '2', cookiepre = 'HE44_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|威望|,2|金钱|,3|贡献|', defaultstyle = '', REPORTURL = 'aHR0cDovLzE5Mi4xNjguMTgyLjg4L2ZvcnVtLnBocA==', SITEURL = 'http://192.168.182.88/', JSPATH = 'static/js/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="static/js/common.js?G0S" type="text/javascript"></script>
+<meta name="application-name" content="Discuz! Board" />
+<meta name="msapplication-tooltip" content="Discuz! Board" />
+<meta name="msapplication-task" content="name=论坛;action-uri=http://192.168.182.88/forum.php;icon-uri=http://192.168.182.88/static/image/common/bbs.ico" />
+<link rel="archives" title="Discuz! Board" href="http://192.168.182.88/archiver/" />
+<link rel="stylesheet" id="css_widthauto" type="text/css" href='data/cache/style_1_widthauto.css?G0S' />
+<script type="text/javascript">HTMLNODE.className += ' widthauto'</script>
+<script src="static/js/forum.js?G0S" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_index" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://192.168.182.88/');">设为首页</a><a href="http://192.168.182.88/"  onclick="addFavorite(this.href, 'Discuz! Board');return false;">收藏本站</a></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到窄版" class="switchwidth">切换到窄版</a>
+<a id="sslct" href="javascript:;" onmouseover="delayShow(this, function() {showMenu({'ctrlid':'sslct','pos':'34!'})});">切换风格</a></div>
+</div>
+</div>
+
+<ul id="myprompt_menu" class="p_pop" style="display: none;">
+<li><a href="home.php?mod=space&amp;do=pm" id="pm_ntc" style="background-repeat: no-repeat; background-position: 0 50%;"><em class="prompt_news_0"></em>消息</a></li>
+<li><a href="home.php?mod=follow&amp;do=follower"><em class="prompt_follower_0"></em>新听众</a></li>
+<li><a href="home.php?mod=space&amp;do=notice&amp;view=system"><em class="notice_system"></em>系统提醒(<span class="rq">1</span>)</a></li>
+<li class="ignore_noticeli"><a href="javascript:;" onclick="setcookie('ignore_notice', 1);hideMenu('myprompt_menu')" title="暂不提醒"><em class="ignore_notice"></em></a></li>
+</ul>
+<div id="sslct_menu" class="cl p_pop" style="display: none;">
+<span class="sslct_btn" onclick="extstyle('')" title="默认"><i></i></span><span class="sslct_btn" onclick="extstyle('./template/default/style/t1')" title="红"><i style='background:#BA350F'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t2')" title="青"><i style='background:#429296'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t3')" title="橙"><i style='background:#FE9500'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t4')" title="紫"><i style='background:#9934B7'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t5')" title="蓝"><i style='background:#0053B9'></i></span>
+</div>
+<ul id="myitem_menu" class="p_pop" style="display: none;">
+<li><a href="forum.php?mod=guide&amp;view=my">帖子</a></li>
+<li><a href="home.php?mod=space&amp;do=favorite&amp;view=me">收藏</a></li>
+<li><a href="home.php?mod=space&amp;do=friend">好友</a></li>
+</ul>
+<div id="qmenu_menu" class="p_pop " style="display: none;">
+<ul class="cl nav"><li><a href="home.php?mod=magic" style="background-image:url(http://192.168.182.88/static/image/feed/magic_b.png) !important">道具</a></li>
+<li><a href="home.php?mod=medal" style="background-image:url(http://192.168.182.88/static/image/feed/medal_b.png) !important">勋章</a></li>
+<li><a href="home.php?mod=task" style="background-image:url(http://192.168.182.88/static/image/feed/task_b.png) !important">任务</a></li>
+</ul>
+<div id="fjump_menu" class="btda"></div></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="Discuz! Board"><img src="static/image/common/logo.png" alt="Discuz! Board" border="0" /></a></h2><div id="um">
+<div class="avt y"><a href="home.php?mod=space&amp;uid=2"><img src="http://192.168.182.88/uc_server/avatar.php?uid=2&size=small" /></a></div>
+<p>
+<strong class="vwmy"><a href="home.php?mod=space&amp;uid=2" target="_blank" title="访问我的空间">9108001</a></strong>
+<span class="pipe">|</span><a href="javascript:;" id="myitem" class="showmenu" onmouseover="showMenu({'ctrlid':'myitem'});">我的</a>
+<span class="pipe">|</span><a href="home.php?mod=spacecp">设置</a>
+<span class="pipe">|</span><a href="home.php?mod=space&amp;do=pm" id="pm_ntc">消息</a>
+<span class="pipe">|</span><a href="home.php?mod=space&amp;do=notice" id="myprompt" class="a showmenu new" onmouseover="showMenu({'ctrlid':'myprompt'});">提醒(1)</a><span id="myprompt_check"></span>
+<script language="javascript">delayShow($('myprompt'), function() {showMenu({'ctrlid':'myprompt','duration':3})});</script><span class="pipe">|</span><a href="member.php?mod=logging&amp;action=logout&amp;formhash=2c378799">退出</a>
+</p>
+<p>
+<a href="home.php?mod=spacecp&amp;ac=credit&amp;showcredit=1" id="extcreditmenu" onmouseover="delayShow(this, showCreditmenu);" class="showmenu">积分: 2</a>
+<span class="pipe">|</span><a href="home.php?mod=spacecp&amp;ac=usergroup" id="g_upmine" class="showmenu" onmouseover="delayShow(this, showUpgradeinfo)">用户组: 新手上路</a>
+</p>
+</div>
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu();})">快捷导航</a>
+<ul><li class="a" id="mn_forum" ><a href="forum.php" hidefocus="true" title="BBS"  >论坛<span>BBS</span></a></li></ul>
+</div>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+</div><div id="scbar" class="cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="2c378799" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="" />
+<input type="hidden" name="srhlocality" value="forum::index" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+
+<a href="search.php?mod=forum&amp;srchtxt=%E6%B4%BB%E5%8A%A8&amp;formhash=2c378799&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">活动</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E4%BA%A4%E5%8F%8B&amp;formhash=2c378799&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">交友</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=discuz&amp;formhash=2c378799&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">discuz</a>
+
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp">
+<div id="pt" class="bm cl">
+<div class="z">
+<a href="./" class="nvhm" title="首页">Discuz! Board</a><em>&raquo;</em><a href="forum.php">论坛</a></div>
+<div class="z"></div>
+</div>
+
+
+
+<style id="diy_style" type="text/css"></style>
+
+<div class="wp">
+<!--[diy=diy1]--><div id="diy1" class="area"></div><!--[/diy]-->
+</div>
+
+<div id="ct" class="wp cl">
+<div id="chart" class="bm bw0 cl">
+<p class="chart z">今日: <em>0</em><span class="pipe">|</span>昨日: <em>0</em><span class="pipe">|</span>帖子: <em>0</em><span class="pipe">|</span>会员: <em>3</em><span class="pipe">|</span>欢迎新会员: <em><a href="home.php?mod=space&amp;username=9108002" target="_blank" class="xi2">9108002</a></em></p>
+<div class="y">
+<a href="forum.php?mod=guide&amp;view=my" title="我的帖子" class="xi2">我的帖子</a><span class="pipe">|</span><a href="forum.php?mod=guide&amp;view=new" title="最新回复" class="xi2">最新回复</a></div>
+</div>
+<!--[diy=diy_chart]--><div id="diy_chart" class="area"></div><!--[/diy]-->
+<div class="mn">
+
+
+<div class="fl bm">
+<div class="bm bmw  cl">
+<div class="bm_h cl">
+<span class="o">
+<img id="category_1_img" src="static/image/common/collapsed_no.gif" title="收起/展开" alt="收起/展开" onclick="toggle_collapse('category_1');" />
+</span>
+<h2><a href="forum.php?gid=1" style="">Discuz!</a></h2>
+</div>
+<div id="category_1" class="bm_c" style="">
+<table cellspacing="0" cellpadding="0" class="fl_tb">
+<tr><td class="fl_icn" >
+<a href="forum.php?mod=forumdisplay&fid=2"><img src="static/image/common/forum.gif" alt="默认版块" /></a>
+</td>
+<td>
+<h2><a href="forum.php?mod=forumdisplay&fid=2">默认版块</a></h2>
+</td>
+<td class="fl_i">
+<span class="xi2">0</span><span class="xg1"> / 0</span></td>
+<td class="fl_by">
+<div>
+从未
+</div>
+</td>
+</tr>
+<tr class="fl_row">
+</tr>
+</table>
+</div>
+</div>
+</div>
+
+<div class="wp mtn">
+<!--[diy=diy3]--><div id="diy3" class="area"></div><!--[/diy]-->
+</div>
+
+<div id="online" class="bm oll">
+<div class="bm_h">
+<span class="o"><a href="forum.php?showoldetails=no#online" title="收起/展开"><img src="static/image/common/collapsed_no.gif" alt="收起/展开" /></a></span>
+<h3>
+<strong><a href="home.php?mod=space&amp;do=friend&amp;view=online&amp;type=member">在线会员</a></strong>
+<span class="xs1">- <strong>3</strong> 人在线
+- <strong>1</strong> 会员(<strong>0</strong> 隐身),
+<strong>2</strong> 位游客
+- 最高记录是 <strong>4</strong> 于 <strong>2016-6-21</strong>.</span>
+</h3>
+</div>
+<dl id="onlinelist" class="bm_c">
+<dt class="ptm pbm bbda"><img src="static/image/common/online_admin.gif" /> 管理员 &nbsp; &nbsp; &nbsp; <img src="static/image/common/online_supermod.gif" /> 超级版主 &nbsp; &nbsp; &nbsp; <img src="static/image/common/online_moderator.gif" /> 版主 &nbsp; &nbsp; &nbsp; <img src="static/image/common/online_member.gif" /> 会员 &nbsp; &nbsp; &nbsp; </dt>
+<dd class="ptm pbm">
+<ul class="cl">
+<li title="时间: 14:01">
+<img src="static/image/common/online_member.gif" alt="icon" />
+<a href="home.php?mod=space&amp;uid=2">9108001</a>
+</li>
+</ul>
+</dd>
+</dl>
+</div>
+
+</div>
+
+</div>
+<script>fixed_top_nv();</script>	</div>
+<div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p>
+<a href="javascript:;"  onclick="showWindow('miscreport', 'misc.php?mod=report&url='+REPORTURL);return false;">举报</a><span class="pipe">|</span><a href="archiver/" >Archiver</a><span class="pipe">|</span><a href="forum.php?mobile=yes" >手机版</a><span class="pipe">|</span><a href="forum.php?mod=misc&action=showdarkroom" >小黑屋</a><span class="pipe">|</span><strong><a href="http://www.comsenz.com/" target="_blank">Comsenz Inc.</a></strong>
+</p>
+<p class="xs0">
+GMT+8, 2016-6-21 14:01<span id="debuginfo">
+, Processed in 0.027049 second(s), 10 queries
+.
+</span>
+</p>
+</div>
+<div id="frt">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.2</em></p>
+<p class="xs0">&copy; 2001-2013 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></p>
+</div></div>
+<script src="home.php?mod=spacecp&ac=pm&op=checknewpm&rand=1466488917" type="text/javascript"></script>
+<div class="focus plugin" id="ip_notice"></div>
+<script type="text/javascript">ipNotice();</script>
+<script type="text/javascript">noticeTitle();</script>
+<script src="static/js/html5notification.js?G0S" type="text/javascript"></script>
+<script type="text/javascript">
+var h5n = new Html5notification();
+if(h5n.issupport()) {
+h5n.shownotification('notice_system', 'http://192.168.182.88/home.php?mod=space&do=notice&view=system', 'http://192.168.182.88/uc_server/avatar.php?uid=2&size=small', '系统提醒 (1)', '有新的提醒，快去看看吧');
+}
+</script>
+<div id="scrolltop">
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '|X3.2|0.6||0||2|10|1466488917||2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script></body>
+</html>
+
+$$$$$$ Response Body For Transaction With Id 152 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/member.php?mod=logging&action=login&loginsubmit=yes&infloat=yes&lssubmit=yes&inajax=1
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 152 ****** (Location Flag : tFlagInsertEnd, Location ID : 152)
+	web_url("forum.php_2",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=http://192.168.182.88/forum.php",
+		"Snapshot=t6.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 152 Ended $$$$$$
+
+****** Request Header For Transaction With Id 154 ******
+GET /data/cache/style_1_common.css?G0S HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488917%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1; HE44_2132_auth=5b7f2lPfdYo%2BQiDPCuN%2BG%2FxwfAyguk%2FvH5RO7PXOjQEpJKqlAdYxnteodR0tee4vLBxQm9%2Bmj%2BqI%2FCFMeB9H; HE44_2132_lastcheckfeed=2%7C1466488917; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466487543
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:37:20 GMT
+If-None-Match: "5768d290-1115b"
+
+
+$$$$$$ Request Header For Transaction With Id 154 Ended $$$$$$
+
+****** Response Header For Transaction With Id 154 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:57 GMT
+Last-Modified: Tue, 21 Jun 2016 05:37:20 GMT
+Connection: keep-alive
+ETag: "5768d290-1115b"
+
+
+$$$$$$ Response Header For Transaction With Id 154 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 155 ******
+GET /data/cache/style_1_forum_index.css?G0S HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488917%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1; HE44_2132_auth=5b7f2lPfdYo%2BQiDPCuN%2BG%2FxwfAyguk%2FvH5RO7PXOjQEpJKqlAdYxnteodR0tee4vLBxQm9%2Bmj%2BqI%2FCFMeB9H; HE44_2132_lastcheckfeed=2%7C1466488917; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466487543
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:37:41 GMT
+If-None-Match: "5768d2a5-e63"
+
+
+$$$$$$ Request Header For Transaction With Id 155 Ended $$$$$$
+
+****** Response Header For Transaction With Id 155 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:57 GMT
+Last-Modified: Tue, 21 Jun 2016 05:37:41 GMT
+Connection: keep-alive
+ETag: "5768d2a5-e63"
+
+
+$$$$$$ Response Header For Transaction With Id 155 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 156 ******
+GET /static/js/common.js?G0S HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488917%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1; HE44_2132_auth=5b7f2lPfdYo%2BQiDPCuN%2BG%2FxwfAyguk%2FvH5RO7PXOjQEpJKqlAdYxnteodR0tee4vLBxQm9%2Bmj%2BqI%2FCFMeB9H; HE44_2132_lastcheckfeed=2%7C1466488917; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466487543
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-f7b4"
+
+
+$$$$$$ Request Header For Transaction With Id 156 Ended $$$$$$
+
+****** Response Header For Transaction With Id 156 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:57 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-f7b4"
+
+
+$$$$$$ Response Header For Transaction With Id 156 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 157 ******
+GET /data/cache/style_1_widthauto.css?G0S HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/css,*/*;q=0.1
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488917%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1; HE44_2132_auth=5b7f2lPfdYo%2BQiDPCuN%2BG%2FxwfAyguk%2FvH5RO7PXOjQEpJKqlAdYxnteodR0tee4vLBxQm9%2Bmj%2BqI%2FCFMeB9H; HE44_2132_lastcheckfeed=2%7C1466488917; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466487543
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:37:20 GMT
+If-None-Match: "5768d290-5ce"
+
+
+$$$$$$ Request Header For Transaction With Id 157 Ended $$$$$$
+
+****** Response Header For Transaction With Id 157 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:57 GMT
+Last-Modified: Tue, 21 Jun 2016 05:37:20 GMT
+Connection: keep-alive
+ETag: "5768d290-5ce"
+
+
+$$$$$$ Response Header For Transaction With Id 157 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 158 ******
+GET /static/js/forum.js?G0S HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488917%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1; HE44_2132_auth=5b7f2lPfdYo%2BQiDPCuN%2BG%2FxwfAyguk%2FvH5RO7PXOjQEpJKqlAdYxnteodR0tee4vLBxQm9%2Bmj%2BqI%2FCFMeB9H; HE44_2132_lastcheckfeed=2%7C1466488917; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466487543
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-593c"
+
+
+$$$$$$ Request Header For Transaction With Id 158 Ended $$$$$$
+
+****** Response Header For Transaction With Id 158 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:57 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-593c"
+
+
+$$$$$$ Response Header For Transaction With Id 158 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 160 ******
+GET /uc_server/avatar.php?uid=2&size=small HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488917%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1; HE44_2132_auth=5b7f2lPfdYo%2BQiDPCuN%2BG%2FxwfAyguk%2FvH5RO7PXOjQEpJKqlAdYxnteodR0tee4vLBxQm9%2Bmj%2BqI%2FCFMeB9H; HE44_2132_lastcheckfeed=2%7C1466488917; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466487543
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 13:39:10 +0800
+
+
+$$$$$$ Request Header For Transaction With Id 160 Ended $$$$$$
+
+****** Response Header For Transaction With Id 160 ******
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:57 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Last-Modified: Tue, 21 Jun 2016 14:01:57 +0800
+Expires: Wed, 22 Jun 2016 14:01:57 +0800
+Location: http://192.168.182.88/uc_server/images/noavatar_small.gif
+
+
+$$$$$$ Response Header For Transaction With Id 160 Ended $$$$$$
+
+****** Response Body For Transaction With Id 160 ******
+
+$$$$$$ Response Body For Transaction With Id 160 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 161 ******
+GET /static/js/html5notification.js?G0S HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488917%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1; HE44_2132_auth=5b7f2lPfdYo%2BQiDPCuN%2BG%2FxwfAyguk%2FvH5RO7PXOjQEpJKqlAdYxnteodR0tee4vLBxQm9%2Bmj%2BqI%2FCFMeB9H; HE44_2132_lastcheckfeed=2%7C1466488917; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466487543
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-3e1"
+
+
+$$$$$$ Request Header For Transaction With Id 161 Ended $$$$$$
+
+****** Response Header For Transaction With Id 161 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:57 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-3e1"
+
+
+$$$$$$ Response Header For Transaction With Id 161 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 162 ******
+GET /uc_server/images/noavatar_small.gif HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488917%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1; HE44_2132_auth=5b7f2lPfdYo%2BQiDPCuN%2BG%2FxwfAyguk%2FvH5RO7PXOjQEpJKqlAdYxnteodR0tee4vLBxQm9%2Bmj%2BqI%2FCFMeB9H; HE44_2132_lastcheckfeed=2%7C1466488917; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466487543
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-626"
+
+
+$$$$$$ Request Header For Transaction With Id 162 Ended $$$$$$
+
+****** Response Header For Transaction With Id 162 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:57 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-626"
+
+
+$$$$$$ Response Header For Transaction With Id 162 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 163 ******
+GET /home.php?mod=spacecp&ac=pm&op=checknewpm&rand=1466488917 HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488917%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1; HE44_2132_auth=5b7f2lPfdYo%2BQiDPCuN%2BG%2FxwfAyguk%2FvH5RO7PXOjQEpJKqlAdYxnteodR0tee4vLBxQm9%2Bmj%2BqI%2FCFMeB9H; HE44_2132_lastcheckfeed=2%7C1466488917; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466487543
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 163 Ended $$$$$$
+
+****** Response Header For Transaction With Id 163 ******
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:57 GMT
+Content-Type: text/javascript
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: HE44_2132_lastact=1466488917%09home.php%09spacecp; expires=Wed, 22-Jun-2016 06:01:57 GMT; path=/
+Set-Cookie: HE44_2132_checkpm=1; expires=Tue, 21-Jun-2016 06:02:27 GMT; path=/
+
+
+$$$$$$ Response Header For Transaction With Id 163 Ended $$$$$$
+
+****** Response Body For Transaction With Id 163 ******
+
+$$$$$$ Response Body For Transaction With Id 163 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Request Header For Transaction With Id 164 ******
+GET /static/image/common/switch_style.png HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/data/cache/style_1_common.css?G0S
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488917%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1; HE44_2132_auth=5b7f2lPfdYo%2BQiDPCuN%2BG%2FxwfAyguk%2FvH5RO7PXOjQEpJKqlAdYxnteodR0tee4vLBxQm9%2Bmj%2BqI%2FCFMeB9H; HE44_2132_lastcheckfeed=2%7C1466488917; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466487543
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-255"
+
+
+$$$$$$ Request Header For Transaction With Id 164 Ended $$$$$$
+
+****** Response Header For Transaction With Id 164 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:57 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-255"
+
+
+$$$$$$ Response Header For Transaction With Id 164 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 152 ******
+	web_url("forum.php_2",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=http://192.168.182.88/forum.php",
+		"Snapshot=t6.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=/static/image/common/switch_style.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 152 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 152)
+	web_add_cookie("HE44_2132_lastact=1466488917%09forum.php%09; DOMAIN=192.168.182.88");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Request Header For Transaction With Id 165 ******
+GET /static/image/common/user_online.gif HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/data/cache/style_1_common.css?G0S
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488917%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1; HE44_2132_auth=5b7f2lPfdYo%2BQiDPCuN%2BG%2FxwfAyguk%2FvH5RO7PXOjQEpJKqlAdYxnteodR0tee4vLBxQm9%2Bmj%2BqI%2FCFMeB9H; HE44_2132_lastcheckfeed=2%7C1466488917; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466487543
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-364"
+
+
+$$$$$$ Request Header For Transaction With Id 165 Ended $$$$$$
+
+****** Response Header For Transaction With Id 165 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:57 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-364"
+
+
+$$$$$$ Response Header For Transaction With Id 165 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 152 ******
+	web_url("forum.php_2",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=http://192.168.182.88/forum.php",
+		"Snapshot=t6.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=/static/image/common/switch_style.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/user_online.gif", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 152 Ended $$$$$$
+
+****** Request Header For Transaction With Id 166 ******
+GET /static/image/common/arrwd.gif HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/data/cache/style_1_common.css?G0S
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488917%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1; HE44_2132_auth=5b7f2lPfdYo%2BQiDPCuN%2BG%2FxwfAyguk%2FvH5RO7PXOjQEpJKqlAdYxnteodR0tee4vLBxQm9%2Bmj%2BqI%2FCFMeB9H; HE44_2132_lastcheckfeed=2%7C1466488917; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466487543
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-33"
+
+
+$$$$$$ Request Header For Transaction With Id 166 Ended $$$$$$
+
+****** Response Header For Transaction With Id 166 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:57 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-33"
+
+
+$$$$$$ Response Header For Transaction With Id 166 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 152 ******
+	web_url("forum.php_2",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=http://192.168.182.88/forum.php",
+		"Snapshot=t6.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=/static/image/common/switch_style.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/user_online.gif", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/arrwd.gif", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 152 Ended $$$$$$
+
+****** Request Header For Transaction With Id 167 ******
+GET /static/image/common/notice.gif HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/data/cache/style_1_common.css?G0S
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488917%09forum.php%09; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1; HE44_2132_auth=5b7f2lPfdYo%2BQiDPCuN%2BG%2FxwfAyguk%2FvH5RO7PXOjQEpJKqlAdYxnteodR0tee4vLBxQm9%2Bmj%2BqI%2FCFMeB9H; HE44_2132_lastcheckfeed=2%7C1466488917; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466487543
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-21b"
+
+
+$$$$$$ Request Header For Transaction With Id 167 Ended $$$$$$
+
+****** Response Header For Transaction With Id 167 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:57 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-21b"
+
+
+$$$$$$ Response Header For Transaction With Id 167 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 152 ******
+	web_url("forum.php_2",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=http://192.168.182.88/forum.php",
+		"Snapshot=t6.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=/static/image/common/switch_style.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/user_online.gif", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/arrwd.gif", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/notice.gif", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 152 Ended $$$$$$
+
+****** Request Header For Transaction With Id 168 ******
+GET /static/js/ajax.js?G0S HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: */*
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488917%09home.php%09spacecp; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1; HE44_2132_auth=5b7f2lPfdYo%2BQiDPCuN%2BG%2FxwfAyguk%2FvH5RO7PXOjQEpJKqlAdYxnteodR0tee4vLBxQm9%2Bmj%2BqI%2FCFMeB9H; HE44_2132_lastcheckfeed=2%7C1466488917; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466487543; HE44_2132_checkpm=1
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-1ea7"
+
+
+$$$$$$ Request Header For Transaction With Id 168 Ended $$$$$$
+
+****** Response Header For Transaction With Id 168 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:57 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-1ea7"
+
+
+$$$$$$ Response Header For Transaction With Id 168 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 152 ******
+	web_url("forum.php_2",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=http://192.168.182.88/forum.php",
+		"Snapshot=t6.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=/static/image/common/switch_style.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/user_online.gif", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/arrwd.gif", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/notice.gif", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/js/ajax.js?G0S", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 152 Ended $$$$$$
+
+****** Request Header For Transaction With Id 169 ******
+GET /favicon.ico HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488917%09home.php%09spacecp; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1; HE44_2132_auth=5b7f2lPfdYo%2BQiDPCuN%2BG%2FxwfAyguk%2FvH5RO7PXOjQEpJKqlAdYxnteodR0tee4vLBxQm9%2Bmj%2BqI%2FCFMeB9H; HE44_2132_lastcheckfeed=2%7C1466488917; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466487543; HE44_2132_checkpm=1; HE44_2132_noticeTitle=1
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-15b6"
+
+
+$$$$$$ Request Header For Transaction With Id 169 Ended $$$$$$
+
+****** Response Header For Transaction With Id 169 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:57 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-15b6"
+
+
+$$$$$$ Response Header For Transaction With Id 169 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 152 ******
+	web_url("forum.php_2",
+		"URL=http://192.168.182.88/forum.php",
+		"Resource=0",
+		"RecContentType=text/html",
+		"Referer=http://192.168.182.88/forum.php",
+		"Snapshot=t6.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=/static/image/common/switch_style.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/user_online.gif", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/arrwd.gif", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/notice.gif", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/js/ajax.js?G0S", ENDITEM,
+		"Url=/favicon.ico", "Referer=", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 152 Ended $$$$$$
+
+****** Add Event For Transaction With Id 0 ****** (Location Flag : tFlagInsertBefore, Location ID : 152)
+	web_add_cookie("HE44_2132_noticeTitle=1; DOMAIN=192.168.182.88");
+
+
+$$$$$$ Add Event For Transaction With Id 0 Ended $$$$$$
+
+****** Request Header For Transaction With Id 170 ******
+GET /misc.php?mod=patch&action=ipnotice&_r=0.49128864272567696&inajax=1&ajaxtarget=ip_notice HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+X-Requested-With: XMLHttpRequest
+Referer: http://192.168.182.88/forum.php
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488917%09home.php%09spacecp; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1; HE44_2132_auth=5b7f2lPfdYo%2BQiDPCuN%2BG%2FxwfAyguk%2FvH5RO7PXOjQEpJKqlAdYxnteodR0tee4vLBxQm9%2Bmj%2BqI%2FCFMeB9H; HE44_2132_lastcheckfeed=2%7C1466488917; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466487543; HE44_2132_checkpm=1; HE44_2132_noticeTitle=1
+Connection: keep-alive
+
+
+$$$$$$ Request Header For Transaction With Id 170 Ended $$$$$$
+
+****** Response Header For Transaction With Id 170 ******
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:58 GMT
+Content-Type: text/xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: HE44_2132_lastact=1466488917%09misc.php%09patch; expires=Wed, 22-Jun-2016 06:01:57 GMT; path=/
+Expires: -1
+Cache-Control: no-store, private, post-check=0, pre-check=0, max-age=0
+Pragma: no-cache
+
+
+$$$$$$ Response Header For Transaction With Id 170 Ended $$$$$$
+
+****** Response Body For Transaction With Id 170 ******
+<?xml version="1.0" encoding="utf-8"?>
+<root><![CDATA[]]></root>
+$$$$$$ Response Body For Transaction With Id 170 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/forum.php
+Form: name= action=search.php?searchsubmit=yes
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Add Event For Transaction With Id 170 ****** (Location Flag : tFlagInsertEnd, Location ID : 170)
+	web_url("misc.php",
+		"URL=http://192.168.182.88/misc.php?mod=patch&action=ipnotice&_r=0.49128864272567696&inajax=1&ajaxtarget=ip_notice",
+		"Resource=0",
+		"RecContentType=text/xml",
+		"Referer=http://192.168.182.88/forum.php",
+		"Snapshot=t7.inf",
+		"Mode=HTML",
+		LAST);
+
+
+$$$$$$ Add Event For Transaction With Id 170 Ended $$$$$$
+
+****** Request Header For Transaction With Id 171 ******
+GET /static/image/common/ico_notice.png HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/data/cache/style_1_common.css?G0S
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488917%09misc.php%09patch; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1; HE44_2132_auth=5b7f2lPfdYo%2BQiDPCuN%2BG%2FxwfAyguk%2FvH5RO7PXOjQEpJKqlAdYxnteodR0tee4vLBxQm9%2Bmj%2BqI%2FCFMeB9H; HE44_2132_lastcheckfeed=2%7C1466488917; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466487543; HE44_2132_checkpm=1; HE44_2132_noticeTitle=1
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-9a0"
+
+
+$$$$$$ Request Header For Transaction With Id 171 Ended $$$$$$
+
+****** Response Header For Transaction With Id 171 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:58 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-9a0"
+
+
+$$$$$$ Response Header For Transaction With Id 171 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/misc.php?mod=patch&action=ipnotice&_r=0.49128864272567696&inajax=1&ajaxtarget=ip_notice
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 170 ******
+	web_url("misc.php",
+		"URL=http://192.168.182.88/misc.php?mod=patch&action=ipnotice&_r=0.49128864272567696&inajax=1&ajaxtarget=ip_notice",
+		"Resource=0",
+		"RecContentType=text/xml",
+		"Referer=http://192.168.182.88/forum.php",
+		"Snapshot=t7.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=/static/image/common/ico_notice.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 170 Ended $$$$$$
+
+****** Request Header For Transaction With Id 172 ******
+GET /static/image/common/close.gif HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: image/png,image/*;q=0.8,*/*;q=0.5
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://192.168.182.88/data/cache/style_1_common.css?G0S
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_sid=LfuwUu; HE44_2132_lastact=1466488917%09misc.php%09patch; HE44_2132_ulastactivity=1b99UEDN%2FrOgSJYOdUlEyJb%2Fe3iZfUDxg4o7L%2BZQkwDt1O%2FJYmzP; HE44_2132_nofavfid=1; tjpctrl=1466489351504; HE44_2132_onlineusernum=3; HE44_2132_sendmail=1; HE44_2132_auth=5b7f2lPfdYo%2BQiDPCuN%2BG%2FxwfAyguk%2FvH5RO7PXOjQEpJKqlAdYxnteodR0tee4vLBxQm9%2Bmj%2BqI%2FCFMeB9H; HE44_2132_lastcheckfeed=2%7C1466488917; HE44_2132_checkfollow=1; HE44_2132_lip=192.168.182.1%2C1466487543; HE44_2132_checkpm=1; HE44_2132_noticeTitle=1
+Connection: keep-alive
+If-Modified-Since: Tue, 21 Jun 2016 05:22:48 GMT
+If-None-Match: "5768cf28-63"
+
+
+$$$$$$ Request Header For Transaction With Id 172 Ended $$$$$$
+
+****** Response Header For Transaction With Id 172 ******
+HTTP/1.1 304 Not Modified
+Server: nginx/1.6.2
+Date: Tue, 21 Jun 2016 06:01:58 GMT
+Last-Modified: Tue, 21 Jun 2016 05:22:48 GMT
+Connection: keep-alive
+ETag: "5768cf28-63"
+
+
+$$$$$$ Response Header For Transaction With Id 172 Ended $$$$$$
+
+****** Start Log Message ******
+
+Start Frames Hierarchy Tree Dump
+/misc.php?mod=patch&action=ipnotice&_r=0.49128864272567696&inajax=1&ajaxtarget=ip_notice
+End Frames Hierarchy Tree Dump
+
+$$$$$$ End Log Message $$$$$$
+
+****** Replace Event For Transaction With Id 170 ******
+	web_url("misc.php",
+		"URL=http://192.168.182.88/misc.php?mod=patch&action=ipnotice&_r=0.49128864272567696&inajax=1&ajaxtarget=ip_notice",
+		"Resource=0",
+		"RecContentType=text/xml",
+		"Referer=http://192.168.182.88/forum.php",
+		"Snapshot=t7.inf",
+		"Mode=HTML",
+		EXTRARES,
+		"Url=/static/image/common/ico_notice.png", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		"Url=/static/image/common/close.gif", "Referer=http://192.168.182.88/data/cache/style_1_common.css?G0S", ENDITEM,
+		LAST);
+
+
+$$$$$$ Replace Event For Transaction With Id 170 Ended $$$$$$
+

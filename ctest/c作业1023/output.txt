@@ -1,0 +1,29 @@
+Virtual User Script started at : 2016-10-26 15:55:10
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 11.0.0 for Windows 7; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "D:\my\study\performance\LRtest-script\ctest\c作业1023\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action ActionGetMid.
+ActionGetMid.c(6): len是：5,中位数是：60
+ActionGetMid.c(7): len是：6,中位数是：55
+Ending action ActionGetMid.
+Starting action ActionGetFactorial.
+ActionGetFactorial.c(4): x是：5,阶乘是：120
+Ending action ActionGetFactorial.
+Starting action ActionFindData.
+ActionFindData.c(10): 三位数是：145,百位是：1,十位是：4,个位是：5
+Ending action ActionFindData.
+Starting action ActionGetPrimeSum.
+ActionGetPrimeSum.c(16): 素数：3
+ActionGetPrimeSum.c(16): 素数：5
+ActionGetPrimeSum.c(16): 素数：7
+ActionGetPrimeSum.c(4): 不大于9的所有素数和是：15
+Ending action ActionGetPrimeSum.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

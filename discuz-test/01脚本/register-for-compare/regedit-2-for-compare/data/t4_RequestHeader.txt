@@ -1,0 +1,9 @@
+GET /forum.php HTTP/1.1
+Host: 192.168.182.88
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: HE44_2132_saltkey=OIroZHI2; HE44_2132_lastvisit=1466483900; HE44_2132_ulastactivity=3138hCsnSz4CV7BngdwZRgS92bTfXScRYAgvscvdj4Objjk7H2o1; HE44_2132_nofavfid=1; HE44_2132_lastcheckfeed=2%7C1466492472; HE44_2132_editormode_e=1; HE44_2132_smile=1D1; HE44_2132_visitedfid=2; HE44_2132_sid=N64vvC; HE44_2132_lastact=1468198819%09home.php%09spacecp; HE44_2132_sendmail=1; HE44_2132_onlineusernum=1; HE44_2132_noticeTitle=1; tjpctrl=1468200620196
+Connection: keep-alive
+

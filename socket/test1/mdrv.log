@@ -1,0 +1,19 @@
+Virtual User Script started at : 2016-09-22 12:51:10
+Starting action vuser_init.
+vuser_init.c(6): lrs_startup(257)
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Action.
+Action.c(10): lrs_create_socket(socket0, TCP, ...)
+Action.c(13): Socket was successfully created 
+Action.c(18): Notify: Transaction "事务" started.
+Action.c(19): lrs_send(socket0, haha)
+Action.c(19): Error : Specified buffer haha doesn't exist. Error code : 9011.
+Action.c(19): Notify: Transaction "事务" ended with "Fail" status (Duration: 0.0361).
+Abort was called from an action.
+Ending Vuser...
+Starting action vuser_end.
+vuser_end.c(6): lrs_cleanup()
+Ending action vuser_end.
+Vuser Terminated.

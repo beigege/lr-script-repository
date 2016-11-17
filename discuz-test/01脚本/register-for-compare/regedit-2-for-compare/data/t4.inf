@@ -1,0 +1,17 @@
+[t4]
+FileName1=t4.htm
+URL1=http://192.168.182.88/forum.php
+Total=3
+RequestHeaderFile=t4_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t4_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_4.xml
+FileName2=t4_appcenter.gif
+URL2=http://addons.g-fox.cn/appcenter.gif?t=0&a=001&d=tab-install&r=0.9540980739836966&cid=full.firefox.com.cn
+FileName3=t4___utm.gif
+URL3=http://www.google-analytics.com/__utm.gif?utmwv=5.6.7&utms=2&utmn=734671847&utmhn=api.app.mozilla.com.cn&utmcs=UTF-8&utmsr=1366x768&utmvp=1123x551&utmsc=24-bit&utmul=zh-cn&utmje=0&utmfl=-&utmdt=%E7%81%AB%E7%8B%90%E5%BA%94%E7%94%A8%E4%B8%AD%E5%BF%83&utmhid=1940812525&utmr=-&utmp=%2Finner%2F&utmht=1468199006030&utmac=UA-2826582-7&utmcc=__utma%3D265356880.1632274347.1466129867.1467779062.1468198715.12%3B%2B__utmz%3D265356880.1466129867.1.1.utmcsr%3D(direct)%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)%3B&utmjid=&utmu=qBAAAAAAAAAAAAAAAAAAAAAE~
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=0

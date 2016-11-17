@@ -1,0 +1,23 @@
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Mon, 11 Jul 2016 01:00:13 GMT
+Content-Type: text/xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Set-Cookie: HE44_2132_lastact=1468198813%09member.php%09register; expires=Tue, 12-Jul-2016 01:00:13 GMT; path=/
+Set-Cookie: HE44_2132_sid=N64vvC; expires=Tue, 12-Jul-2016 01:00:13 GMT; path=/
+Set-Cookie: HE44_2132_ulastactivity=3138hCsnSz4CV7BngdwZRgS92bTfXScRYAgvscvdj4Objjk7H2o1; expires=Tue, 11-Jul-2017 01:00:13 GMT; path=/
+Set-Cookie: HE44_2132_auth=1ae7%2BF1v6iqfg7o06OWeAgraJSlHkKh7qUFmntydc6QMs1Z7avBcVJUf6BdrXMyp4vMfy0CrrGv5sbVkcCfkoA; path=/; httponly
+Set-Cookie: HE44_2132_loginuser=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: HE44_2132_activationauth=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: HE44_2132_pmnum=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: HE44_2132_creditnotice=0D0D2D0D0D0D0D0D0D14; path=/
+Set-Cookie: HE44_2132_creditbase=0D0D0D0D0D0D0D0D0; path=/
+Set-Cookie: HE44_2132_creditrule=%E6%AF%8F%E5%A4%A9%E7%99%BB%E5%BD%95; path=/
+Set-Cookie: HE44_2132_loginuser=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: HE44_2132_activationauth=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Set-Cookie: HE44_2132_invite_auth=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; path=/
+Expires: -1
+Cache-Control: no-store, private, post-check=0, pre-check=0, max-age=0
+Pragma: no-cache
+

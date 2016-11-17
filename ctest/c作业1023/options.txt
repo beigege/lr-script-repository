@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\my\study\performance\LRtest-script\ctest\c作业1023
+-ID:\Program Files (x86)\HP\LoadRunner\include
+-ed:\my\study\performance\lrtest-script\ctest\c作业1023\\logfile.log
+d:\my\study\performance\lrtest-script\ctest\c作业1023\\combined_c作业1023.c
+d:\my\study\performance\lrtest-script\ctest\c作业1023\\pre_cci.c

@@ -1,0 +1,16 @@
+Virtual User Script started at : 2016-09-22 13:06:56
+Starting action vuser_init.
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Action.
+def.h(11): Error: C interpreter run time error: def.h (11):  Error -- Unresolved symbol : CoCreateGuid.
+def.h(11): Notify: CCI trace: Action.c(14): guid_gen()
+.
+def.h(11): Notify: CCI trace: Compiled_code(0): Action()
+.
+Ending Vuser...
+Starting action vuser_end.
+vuser_end.c(12): lrs_cleanup()
+Ending action vuser_end.
+Vuser Terminated.

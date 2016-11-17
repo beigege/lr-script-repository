@@ -1,0 +1,10 @@
+[vuser_init]
+SnapshotIndex=I1_vuser_init
+[ActionGetPrimeSum]
+SnapshotIndex=I1_ActionGetPrimeSum
+[ActionFindData]
+SnapshotIndex=I1_ActionFindData
+[ActionGetFactorial]
+SnapshotIndex=I1_ActionGetFactorial
+[ActionGetMid]
+SnapshotIndex=I1_ActionGetMid

@@ -1,0 +1,289 @@
+1dff
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>立即注册 -  Discuz! Board -  Powered by Discuz!</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",Discuz! Board" />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://192.168.182.88/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?G0S" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'G0S', charset = 'utf-8', discuz_uid = '0', cookiepre = 'HE44_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|威望|,2|金钱|,3|贡献|', defaultstyle = '', REPORTURL = 'aHR0cDovLzE5Mi4xNjguMTgyLjg4L21lbWJlci5waHA/bW9kPXJlZ2lzdGVy', SITEURL = 'http://192.168.182.88/', JSPATH = 'static/js/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="static/js/common.js?G0S" type="text/javascript"></script>
+<meta name="application-name" content="Discuz! Board" />
+<meta name="msapplication-tooltip" content="Discuz! Board" />
+<meta name="msapplication-task" content="name=论坛;action-uri=http://192.168.182.88/forum.php;icon-uri=http://192.168.182.88/static/image/common/bbs.ico" />
+<link rel="stylesheet" id="css_widthauto" type="text/css" href='data/cache/style_1_widthauto.css?G0S' />
+<script type="text/javascript">HTMLNODE.className += ' widthauto'</script>
+</head>
+
+<body id="nv_member" class="pg_register" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://192.168.182.88/');">设为首页</a><a href="http://192.168.182.88/"  onclick="addFavorite(this.href, 'Discuz! Board');return false;">收藏本站</a></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到窄版" class="switchwidth">切换到窄版</a>
+</div>
+</div>
+</div>
+
+<div id="qmenu_menu" class="p_pop blk" style="display: none;">
+<div class="ptm pbw hm">
+请 <a href="javascript:;" class="xi2" onclick="lsSubmit()"><strong>登录</strong></a> 后使用快捷导航<br />没有帐号？<a href="member.php?mod=register" class="xi2 xw1">立即注册</a>
+</div>
+<div id="fjump_menu" class="btda"></div></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="Discuz! Board"><img src="static/image/common/logo.png" alt="Discuz! Board" border="0" /></a></h2><script src="static/js/logging.js?G0S" type="text/javascript"></script>
+<form method="post" autocomplete="off" id="lsform" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;infloat=yes&amp;lssubmit=yes" onsubmit="return lsSubmit();">
+<div class="fastlg cl">
+<span id="return_ls" style="display:none"></span>
+<div class="y pns">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<span class="ftid">
+<select name="fastloginfield" id="ls_fastloginfield" width="40" tabindex="900">
+<option value="username">用户名</option>
+<option value="email">Email</option>
+</select>
+</span>
+<script type="text/javascript">simulateSelect('ls_fastloginfield')</script>
+</td>
+<td><input type="text" name="username" id="ls_username" autocomplete="off" class="px vm" tabindex="901" /></td>
+<td class="fastlg_l"><label for="ls_cookietime"><input type="checkbox" name="cookietime" id="ls_cookietime" class="pc" value="2592000" tabindex="903" />自动登录</label></td>
+<td>&nbsp;<a href="javascript:;" onclick="showWindow('login', 'member.php?mod=logging&action=login&viewlostpw=1')">找回密码</a></td>
+</tr>
+<tr>
+<td><label for="ls_password" class="z psw_w">密码</label></td>
+<td><input type="password" name="password" id="ls_password" class="px vm" autocomplete="off" tabindex="902" /></td>
+<td class="fastlg_l"><button type="submit" class="pn vm" tabindex="904" style="width: 75px;"><em>登录</em></button></td>
+<td>&nbsp;<a href="member.php?mod=register" class="xi2 xw1">立即注册</a></td>
+</tr>
+</table>
+<input type="hidden" name="quickforward" value="yes" />
+<input type="hidden" name="handlekey" value="ls" />
+</div>
+</div>
+</form>
+
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu(0);})">快捷导航</a>
+<ul><li id="mn_forum" ><a href="forum.php" hidefocus="true" title="BBS"  >论坛<span>BBS</span></a></li></ul>
+</div>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+</div><div id="scbar" class="cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="9dc4a0c6" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="0" />
+<input type="hidden" name="srhlocality" value="member::register" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+
+<a href="search.php?mod=forum&amp;srchtxt=%E6%B4%BB%E5%8A%A8&amp;formhash=9dc4a0c6&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">活动</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E4%BA%A4%E5%8F%8B&amp;formhash=9dc4a0c6&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">交友</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=discuz&amp;formhash=9dc4a0c6&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">discuz</a>
+
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp">
+<script type="text/javascript">
+var strongpw = new Array();
+var pwlength = 6;
+</script>
+
+<script src="static/js/register.js?G0S" type="text/javascript"></script>
+
+<div id="ct" class="ptm wp cl">
+<div class="nfl" id="main_succeed" style="display: none">
+<div class="f_c altw">
+<div class="alert_right">
+<p id="succeedmessage"></p>
+<p id="succeedlocation" class="alert_btnleft"></p>
+<p cl
+ff8
+ass="alert_btnleft"><a id="succeedmessage_href">如果您的浏览器没有自动跳转，请点击此链接</a></p>
+</div>
+</div>
+</div>
+<div class="mn">
+
+<div class="bm" id="main_message">
+
+<div class="bm_h bbs" id="main_hnav">
+<span class="y">
+<a href="member.php?mod=logging&amp;action=login&amp;referer=http%3A%2F%2F192.168.182.88%2F.%2F" onclick="showWindow('login', this.href);return false;" class="xi2">已有帐号？现在登录</a>
+</span>
+<h3 id="layer_reginfo_t" class="xs2">
+立即注册</h3>
+</div>
+
+<p id="returnmessage4"></p>
+
+<form method="post" autocomplete="off" name="register" id="registerform" enctype="multipart/form-data" onsubmit="checksubmit();return false;" action="member.php?mod=register">
+<div id="layer_reg" class="bm_c">
+<input type="hidden" name="regsubmit" value="yes" />
+<input type="hidden" name="formhash" value="9dc4a0c6" />
+<input type="hidden" name="referer" value="http://192.168.182.88/./" />
+<input type="hidden" name="activationauth" value="" />
+<div class="mtw">
+<div id="reginfo_a">
+<div class="rfm">
+<table>
+<tr>
+<th><span class="rq">*</span><label for="hoboW6">用户名:</label></th>
+<td><input type="text" id="hoboW6" name="" class="px" tabindex="1" value="" autocomplete="off" size="25" maxlength="15" required /></td>
+<td class="tipcol"><i id="tip_hoboW6" class="p_tip">用户名由 3 到 15 个字符组成</i><kbd id="chk_hoboW6" class="p_chk"></kbd></td>
+</tr>
+</table>
+</div>
+
+<div class="rfm">
+<table>
+<tr>
+<th><span class="rq">*</span><label for="X23LFG">密码:</label></th>
+<td><input type="password" id="X23LFG" name="" size="25" tabindex="1" class="px" required /></td>
+<td class="tipcol"><i id="tip_X23LFG" class="p_tip">请填写密码, 最小长度为 6 个字符</i><kbd id="chk_X23LFG" class="p_chk"></kbd></td>
+</tr>
+</table>
+</div>
+
+<div class="rfm">
+<table>
+<tr>
+<th><span class="rq">*</span><label for="R7EJo7">确认密码:</label></th>
+<td><input type="password" id="R7EJo7" name="" size="25" tabindex="1" value="" class="px" required /></td>
+<td class="tipcol"><i id="tip_R7EJo7" class="p_tip">请再次输入密码</i><kbd id="chk_R7EJo7" class="p_chk"></kbd></td>
+</tr>
+</table>
+</div>
+
+<div class="rfm">
+<table>
+<tr>
+<th><span class="rq">*</span><label for="MVlBY0">Email:</label></th>
+<td><input type="text" id="MVlBY0" name="" autocomplete="off" size="25" tabindex="1" class="px" value="" required /><br /><em id="emailmore">&nbsp;</em></td>
+<td class="tipcol"><i id="tip_MVlBY0" class="p_tip">请输入正确的邮箱地址</i><kbd id="chk_MVlBY0" class="p_chk"></kbd></td>
+</tr>
+</table>
+</div>
+
+
+</div>
+
+</div>
+
+</div>
+
+<div id="layer_reginfo_b">
+<div class="rfm mbw bw0">
+<table width="100%">
+<tr>
+<th>&nbsp;</th>
+<td>
+<span id="reginfo_a_btn">
+<em>&nbsp;</em><button class="pn pnc" id="registerformsubmit" type="submit" name="regsubmit" value="true" tabindex="1"><strong>提交</strong></button>
+</span>
+</td>
+<td></td>
+</tr>
+</table>
+</div>
+</div>
+</form>
+</div>
+<div id="layer_regmessage"class="f_c blr nfl" style="display: none">
+<div class="c"><div class="alert_right">
+<div id="messageleft1"></div>
+<p class="alert_btnleft" id="messageright1"></p>
+</div>
+</div>
+
+<div id="layer_bbrule" style="display: none">
+<div class="c" style="width:700px;height:350px;overflow:auto"><br />
+<br />
+<br />
+</div>
+<p class="fsb pns cl hm">
+<button class="pn pnc" onclick="$('agreebbrule').checked = true;hideMenu('fwin_dialog', 'dialog');"><span>同意</span></button>
+<button class="pn" onclick="location.href='http://192.168.182.88/'"><span>不同意</span></button>
+</p>
+</div>
+
+<script type="text/javascript">
+var ignoreEmail = false;
+addFormEvent('registerform', 0);
+function showBBRule() {
+showDialog($('layer_bbrule').innerHTML, 'info', 'Discuz! Board 网站服务条款');
+$('fwin_dialog_close').style.display = 'none';
+}
+</script>
+
+</div></div>
+</div>	</div>
+<div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p>
+<a href="archiver/" >Archiver</a><span class="pipe">|</span><a href="
+510
+forum.php?mobile=yes" >手机版</a><span class="pipe">|</span><a href="forum.php?mod=misc&action=showdarkroom" >小黑屋</a><span class="pipe">|</span><strong><a href="http://www.comsenz.com/" target="_blank">Comsenz Inc.</a></strong>
+</p>
+<p class="xs0">
+GMT+8, 2016-6-21 13:38<span id="debuginfo">
+, Processed in 0.035354 second(s), 8 queries
+.
+</span>
+</p>
+</div>
+<div id="frt">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.2</em></p>
+<p class="xs0">&copy; 2001-2013 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></p>
+</div></div>
+<script src="home.php?mod=misc&ac=sendmail&rand=1466487500" type="text/javascript"></script>
+<div id="scrolltop">
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '|X3.2|0.6||0||0|7|1466487500||2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script></body>
+</html>
+
+0
+

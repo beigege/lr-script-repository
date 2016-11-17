@@ -1,0 +1,1 @@
+-usr "D:\my\study\performance\LRtest-script\javavuser\test_import_class\test_import_class.usr" -compile_only -out "D:\my\study\performance\LRtest-script\javavuser\test_import_class\" -drv_log_file "D:\my\study\performance\LRtest-script\javavuser\test_import_class\mdrv.log" -cfg "D:\my\study\performance\LRtest-script\javavuser\test_import_class\default.cfg" -product_name vugen

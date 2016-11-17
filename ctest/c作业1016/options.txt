@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\my\study\performance\LRtest-script\ctest\判断最大值
+-ID:\Program Files (x86)\HP\LoadRunner\include
+-ed:\my\study\performance\lrtest-script\ctest\判断最大值\\logfile.log
+d:\my\study\performance\lrtest-script\ctest\判断最大值\\combined_判断最大值.c
+d:\my\study\performance\lrtest-script\ctest\判断最大值\\pre_cci.c

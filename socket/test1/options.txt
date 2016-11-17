@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\my\study\performance\LRtest-script\socket\test1
+-ID:\Program Files (x86)\HP\LoadRunner\include
+-ed:\my\study\performance\lrtest-script\socket\test1\\logfile.log
+d:\my\study\performance\lrtest-script\socket\test1\\combined_test1.c
+d:\my\study\performance\lrtest-script\socket\test1\\pre_cci.c

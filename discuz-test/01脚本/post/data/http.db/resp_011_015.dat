@@ -1,0 +1,264 @@
+1f10
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>导读-我的帖子 -  Discuz! Board -  Powered by Discuz!</title>
+
+<meta name="keywords" content="" />
+<meta name="description" content=",Discuz! Board" />
+<meta name="generator" content="Discuz! X3.2" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://192.168.182.88/" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_common.css?G0S" /><link rel="stylesheet" type="text/css" href="data/cache/style_1_forum_guide.css?G0S" /><script type="text/javascript">var STYLEID = '1', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'G0S', charset = 'utf-8', discuz_uid = '2', cookiepre = 'HE44_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '1|威望|,2|金钱|,3|贡献|', defaultstyle = '', REPORTURL = 'aHR0cDovLzE5Mi4xNjguMTgyLjg4L2ZvcnVtLnBocD9tb2Q9Z3VpZGUmdmlldz1teQ==', SITEURL = 'http://192.168.182.88/', JSPATH = 'static/js/', CSSPATH = 'data/cache/style_', DYNAMICURL = '';</script>
+<script src="static/js/common.js?G0S" type="text/javascript"></script>
+<meta name="application-name" content="Discuz! Board" />
+<meta name="msapplication-tooltip" content="Discuz! Board" />
+<meta name="msapplication-task" content="name=论坛;action-uri=http://192.168.182.88/forum.php;icon-uri=http://192.168.182.88/static/image/common/bbs.ico" />
+<link rel="archives" title="Discuz! Board" href="http://192.168.182.88/archiver/" />
+<link rel="stylesheet" id="css_widthauto" type="text/css" href='data/cache/style_1_widthauto.css?G0S' />
+<script type="text/javascript">HTMLNODE.className += ' widthauto'</script>
+<script src="static/js/forum.js?G0S" type="text/javascript"></script>
+</head>
+
+<body id="nv_forum" class="pg_guide" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+<div id="toptb" class="cl">
+<div class="wp">
+<div class="z"><a href="javascript:;"  onclick="setHomepage('http://192.168.182.88/');">设为首页</a><a href="http://192.168.182.88/"  onclick="addFavorite(this.href, 'Discuz! Board');return false;">收藏本站</a></div>
+<div class="y">
+<a id="switchblind" href="javascript:;" onclick="toggleBlind(this)" title="开启辅助访问" class="switchblind">开启辅助访问</a>
+<a href="javascript:;" id="switchwidth" onclick="widthauto(this)" title="切换到窄版" class="switchwidth">切换到窄版</a>
+<a id="sslct" href="javascript:;" onmouseover="delayShow(this, function() {showMenu({'ctrlid':'sslct','pos':'34!'})});">切换风格</a></div>
+</div>
+</div>
+
+<ul id="myprompt_menu" class="p_pop" style="display: none;">
+<li><a href="home.php?mod=space&amp;do=pm" id="pm_ntc" style="background-repeat: no-repeat; background-position: 0 50%;"><em class="prompt_news_0"></em>消息</a></li>
+<li><a href="home.php?mod=follow&amp;do=follower"><em class="prompt_follower_0"></em>新听众</a></li>
+<li><a href="home.php?mod=space&amp;do=notice&amp;view=system"><em class="notice_system"></em>系统提醒(<span class="rq">1</span>)</a></li>
+<li class="ignore_noticeli"><a href="javascript:;" onclick="setcookie('ignore_notice', 1);hideMenu('myprompt_menu')" title="暂不提醒"><em class="ignore_notice"></em></a></li>
+</ul>
+<div id="sslct_menu" class="cl p_pop" style="display: none;">
+<span class="sslct_btn" onclick="extstyle('')" title="默认"><i></i></span><span class="sslct_btn" onclick="extstyle('./template/default/style/t1')" title="红"><i style='background:#BA350F'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t2')" title="青"><i style='background:#429296'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t3')" title="橙"><i style='background:#FE9500'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t4')" title="紫"><i style='background:#9934B7'></i></span>
+<span class="sslct_btn" onclick="extstyle('./template/default/style/t5')" title="蓝"><i style='background:#0053B9'></i></span>
+</div>
+<ul id="myitem_menu" class="p_pop" style="display: none;">
+<li><a href="forum.php?mod=guide&amp;view=my">帖子</a></li>
+<li><a href="home.php?mod=space&amp;do=favorite&amp;view=me">收藏</a></li>
+<li><a href="home.php?mod=space&amp;do=friend">好友</a></li>
+</ul>
+<div id="qmenu_menu" class="p_pop " style="display: none;">
+<ul class="cl nav"><li><a href="home.php?mod=magic" style="background-image:url(http://192.168.182.88/static/image/feed/magic_b.png) !important">道具</a></li>
+<li><a href="home.php?mod=medal" style="background-image:url(http://192.168.182.88/static/image/feed/medal_b.png) !important">勋章</a></li>
+<li><a href="home.php?mod=task" style="background-image:url(http://192.168.182.88/static/image/feed/task_b.png) !important">任务</a></li>
+</ul>
+<div id="fjump_menu" class="btda"></div></div><div id="hd">
+<div class="wp">
+<div class="hdc cl"><h2><a href="./" title="Discuz! Board"><img src="static/image/common/logo.png" alt="Discuz! Board" border="0" /></a></h2><div id="um">
+<div class="avt y"><a href="home.php?mod=space&amp;uid=2"><img src="http://192.168.182.88/uc_server/avatar.php?uid=2&size=small" /></a></div>
+<p>
+<strong class="vwmy"><a href="home.php?mod=space&amp;uid=2" target="_blank" title="访问我的空间">9108001</a></strong>
+<span class="pipe">|</span><a href="javascript:;" id="myitem" class="showmenu" onmouseover="showMenu({'ctrlid':'myitem'});">我的</a>
+<span class="pipe">|</span><a href="home.php?mod=spacecp">设置</a>
+<span class="pipe">|</span><a href="home.php?mod=space&amp;do=pm" id="pm_ntc">消息</a>
+<span class="pipe">|</span><a href="home.php?mod=space&amp;do=notice" id="myprompt" class="a showmenu new" onmouseover="showMenu({'ctrlid':'myprompt'});">提醒(1)</a><span id="myprompt_check"></span>
+<script language="javascript">delayShow($('myprompt'), function() {showMenu({'ctrlid':'myprompt','duration':3})});</script><span class="pipe">|</span><a href="member.php?mod=logging&amp;action=logout&amp;formhash=2c378799">退出</a>
+</p>
+<p>
+<a href="home.php?mod=spacecp&amp;ac=credit&amp;showcredit=1" id="extcreditmenu" onmouseover="delayShow(this, showCreditmenu);" class="showmenu">积分: 2</a>
+<span class="pipe">|</span><a href="home.php?mod=spacecp&amp;ac=usergroup" id="g_upmine" class="showmenu" onmouseover="delayShow(this, showUpgradeinfo)">用户组: 新手上路</a>
+</p>
+</div>
+</div>
+
+<div id="nv">
+<a href="javascript:;" id="qmenu" onmouseover="delayShow(this, function () {showMenu({'ctrlid':'qmenu','pos':'34!','ctrlclass':'a','duration':2});showForummenu();})">快捷导航</a>
+<ul><li class="a" id="mn_forum" ><a href="forum.php" hidefocus="true" title="BBS"  >论坛<span>BBS</span></a></li></ul>
+</div>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div><div id="mu" class="cl">
+</div><div id="scbar" class="cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="2c378799" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="" />
+<input type="hidden" name="srhlocality" value="forum::guide" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" va
+ff8
+lue="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+
+<a href="search.php?mod=forum&amp;srchtxt=%E6%B4%BB%E5%8A%A8&amp;formhash=2c378799&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">活动</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%E4%BA%A4%E5%8F%8B&amp;formhash=2c378799&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">交友</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=discuz&amp;formhash=2c378799&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">discuz</a>
+
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+</div>
+</div>
+
+
+<div id="wp" class="wp">
+<style type="text/css">
+.xl2 { background: url(static/image/common/vline.png) repeat-y 50% 0; }
+.xl2 li { width: 49.9%; }
+.xl2 li em { padding-right: 10px; }
+.xl2 .xl2_r em { padding-right: 0; }
+.xl2 .xl2_r i { padding-left: 10px; }
+</style>
+<div id="pt" class="bm cl">
+<div class="z">
+<a href="./" class="nvhm" title="首页">Discuz! Board</a> <em>&rsaquo;</em> <a href="forum.php?mod=guide&view=my">我的帖子</a></div>
+</div>
+<div class="boardnav">
+<div id="ct" class="wp cl">
+<div class="mn">
+<div class="bm bml pbn">
+<div class="bm_h cl">
+<h1 class="xs2">
+我的帖子</h1>
+</div>
+</div>
+<div id="pgt" class="bm bw0 pgs cl">
+<a onclick="showWindow('nav', this.href, 'get', 0)" href="forum.php?mod=misc&amp;action=nav"><img src="static/image/common/pn_post.png" alt="发新帖" /></a>
+</div>
+<ul id="thread_types" class="ttp bm cl">
+<li ><a href="forum.php?mod=guide&amp;view=hot">最新热门</a></li>
+<li ><a href="forum.php?mod=guide&amp;view=digest">最新精华</a></li>
+<li ><a href="forum.php?mod=guide&amp;view=new">最新回复</a></li>
+<li ><a href="forum.php?mod=guide&amp;view=newthread">最新发表</a></li>
+<li ><a href="forum.php?mod=guide&amp;view=sofa">抢沙发</a></li>
+<li class="xw1 a"><a id="filter_special" href="forum.php?mod=guide&amp;view=my" onmouseover="showMenu(this.id)">我的帖子</a></li>
+</ul>
+<div id="threadlist" class="tl bm bmw" style="position: relative;">
+<div class="th">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<th colspan="2">
+标题
+&nbsp;&nbsp;&nbsp;
+<a href="forum.php?mod=guide&amp;view=my&amp;type=thread" >主题</a><span class="pipe">|</span>
+<a href="forum.php?mod=guide&amp;view=my&amp;type=reply" >回复</a><span class="pipe">|</span>
+<a href="forum.php?mod=guide&amp;view=my&amp;type=postcomment" >点评</a><span class="pipe">|</span>
+<a href="#" onclick="var displayvalue = $('searchbody').style.display == 'none' ? '' : 'none';$('searchbody').style.display=displayvalue; return false;">筛选</a>
+</th>
+<td class="by">版块/群组</td>
+<td class="by">作者</td>
+<td class="num">回复/查看</td>
+<td class="by">最后发表</td>
+</tr>
+<tbody class="bw0_all" id="searchbody" style="display: none">
+<tr>
+<th colspan="6">&nbsp;
+<form method="get" action="forum.php">
+<input type="hidden" name="mod" value="guide">
+<input type="hidden" name="view" value="my">
+<input type="hidden" name="type" value="thread">
+状态:
+<select name="filter" id="filter">
+<option value="">全部</option><option value="common" >已发表</option>
+<option value="save" >草稿</option>
+<option value="close" >关闭</option>
+<option value="aduit" >待审核</option>
+<option value="ignored" >已忽略</option>
+<option value="recyclebin" >回收站</option>
+</select>
+选择版�
+c3d
+��:
+<select name="fid" id="forumlist">
+<option value="0">全部</option>
+<optgroup label="--Discuz!"><option value="2">默认版块</option></optgroup></select>
+&nbsp; 关键字: <input type="text" id="searchmypost" class="px vm" name="searchkey" size="20" value="" >
+<button class="pn vm"><em>搜索</em></button>
+</form>
+</th>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="bm_c">
+<div id="forumnew" style="display:none"></div>
+<table cellspacing="0" cellpadding="0">				<tbody class="bw0_all"><tr><th colspan="5"><p class="emp">暂时还没有帖子</p></th></tr></tbody>
+</table>
+</div>
+</div>
+<div class="bm bw0 pgs cl">
+<span class="pgb y"><a href="forum.php?mod=guide">导读首页</a></span>
+</div>
+</div>
+</div>
+</div>
+<div id="filter_special_menu" class="p_pop" style="display:none">
+<ul>
+<li><a href="home.php?mod=space&amp;do=poll&amp;view=me" target="_blank">投票</a></li>
+<li><a href="home.php?mod=space&amp;do=trade&amp;view=me" target="_blank">商品</a></li>
+<li><a href="home.php?mod=space&amp;do=reward&amp;view=me" target="_blank">悬赏</a></li>
+<li><a href="home.php?mod=space&amp;do=activity&amp;view=me" target="_blank">活动</a></li>
+</ul>
+</div>
+	</div>
+<div id="ft" class="wp cl">
+<div id="flk" class="y">
+<p>
+<a href="javascript:;"  onclick="showWindow('miscreport', 'misc.php?mod=report&url='+REPORTURL);return false;">举报</a><span class="pipe">|</span><a href="archiver/" >Archiver</a><span class="pipe">|</span><a href="forum.php?mobile=yes" >手机版</a><span class="pipe">|</span><a href="forum.php?mod=misc&action=showdarkroom" >小黑屋</a><span class="pipe">|</span><strong><a href="http://www.comsenz.com/" target="_blank">Comsenz Inc.</a></strong>
+</p>
+<p class="xs0">
+GMT+8, 2016-6-21 14:12<span id="debuginfo">
+, Processed in 0.071403 second(s), 11 queries
+.
+</span>
+</p>
+</div>
+<div id="frt">
+<p>Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.2</em></p>
+<p class="xs0">&copy; 2001-2013 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a></p>
+</div></div>
+<script type="text/javascript">noticeTitle();</script>
+<script src="static/js/html5notification.js?G0S" type="text/javascript"></script>
+<script type="text/javascript">
+var h5n = new Html5notification();
+if(h5n.issupport()) {
+h5n.shownotification('notice_system', 'http://192.168.182.88/home.php?mod=space&do=notice&view=system', 'http://192.168.182.88/uc_server/avatar.php?uid=2&size=small', '系统提醒 (1)', '有新的提醒，快去看看吧');
+}
+</script>
+<div id="scrolltop">
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '|X3.2|0.6||0||2|10|1466489546||2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script></body>
+</html>
+
+0
+
