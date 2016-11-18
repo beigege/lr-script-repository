@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Expires: Sun, 13 Nov 2016 03:24:20 GMT
+Date: Sun, 13 Nov 2016 03:22:20 GMT
+Server: Apache
+Accept-Ranges: bytes
+Content-Encoding: gzip
+Cache-Control: max-age=120
+X-UA-Compatible: IE=EmulateIE7
+Transfer-Encoding: chunked
+Content-Type: text/html
+Age: 125
+X-Via: 1.1 tongdianxin87:4 (Cdn Cache Server V2.0), 1.1 xiazai26:10 (Cdn Cache Server V2.0)
+Connection: keep-alive
+

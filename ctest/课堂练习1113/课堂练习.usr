@@ -23,11 +23,24 @@ RunType=cci
 LastModifyVer=11.0.0.0
 [TransactionsOrder]
 Order=""
+[ExtraFiles]
+globals.h=
 [Actions]
 vuser_init=vuser_init.c
 Action=Action.c
-ActionFile=ActionFile.c
 vuser_end=vuser_end.c
+[Recorded Actions]
+vuser_init=0
+Action=0
+vuser_end=0
+[Replayed Actions]
+vuser_init=1
+Action=1
+vuser_end=1
+[Modified Actions]
+vuser_init=0
+Action=1
+vuser_end=0
 [ProtocolsVersion]
 QTWeb=11.0.0.0
 [RunLogicFiles]
@@ -46,22 +59,5 @@ Default Profile=default.usp
 20=0
 21=0
 CurrentState=1
-VuserStateHistory= 0 65536 65537 65552
+VuserStateHistory= 0 65536 65552
 LastReplayStatus=1
-[ExtraFiles]
-globals.h=
-[Recorded Actions]
-vuser_init=0
-Action=0
-ActionFile=0
-vuser_end=0
-[Replayed Actions]
-vuser_init=1
-Action=1
-ActionFile=1
-vuser_end=1
-[Modified Actions]
-vuser_init=0
-Action=1
-ActionFile=1
-vuser_end=0

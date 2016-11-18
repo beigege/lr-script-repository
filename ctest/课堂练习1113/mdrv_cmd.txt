@@ -1,0 +1,1 @@
+-usr "C:\Users\Administrator\Desktop\¿ÎÌÃÁ·Ï°\¿ÎÌÃÁ·Ï°.usr" -compile_only -out "C:\Users\Administrator\Desktop\¿ÎÌÃÁ·Ï°\" -drv_log_file "C:\Users\Administrator\Desktop\¿ÎÌÃÁ·Ï°\mdrv.log" -cfg "C:\Users\Administrator\Desktop\¿ÎÌÃÁ·Ï°\default.cfg" -product_name vugen

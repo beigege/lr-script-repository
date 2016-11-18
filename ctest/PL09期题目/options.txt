@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Administrator\Desktop\PL09期
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ec:\users\administrator\desktop\pl09期\\logfile.log
+c:\users\administrator\desktop\pl09期\\combined_PL09期.c
+c:\users\administrator\desktop\pl09期\\pre_cci.c

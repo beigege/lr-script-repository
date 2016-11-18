@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Administrator\Desktop\作业3
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ec:\users\administrator\desktop\作业3\\logfile.log
+c:\users\administrator\desktop\作业3\\combined_作业3.c
+c:\users\administrator\desktop\作业3\\pre_cci.c
