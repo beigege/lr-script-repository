@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\my\study\performance\lr-script-repository\road-lr\newsbaidu
+-ID:\Program Files (x86)\HP\LoadRunner\include
+-ed:\my\study\performance\lr-script-repository\road-lr\newsbaidu\\logfile.log
+d:\my\study\performance\lr-script-repository\road-lr\newsbaidu\\combined_newsbaidu.c
+d:\my\study\performance\lr-script-repository\road-lr\newsbaidu\\pre_cci.c
