@@ -1,0 +1,11 @@
+[t44]
+FileName1=t44_update.html
+URL1=http://g-fox.cn/chinaedition/addons/cehomepage-ii/update.rdf?version=0.9.42&pt=
+Total=1
+ContentType=application/octet-stream
+SnapshotXmlFile=snapshot_44.xml
+RequestHeaderFile=t44_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t44_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

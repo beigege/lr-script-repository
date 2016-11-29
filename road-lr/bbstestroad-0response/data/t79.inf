@@ -1,0 +1,13 @@
+[t79]
+FileName1=t79.htm
+URL1=http://bbs.testroad.org/forum-15-2.html
+Total=2
+RequestHeaderFile=t79_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t79_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_8.xml
+FileName2=t79_MzAyMTQ4ODM=.html
+URL2=http://tcss.qq.com/heatmap/83/MzAyMTQ4ODM=.js?rand=1920234975
+[ProtocolInfo]
+ProtocolId=QTWeb

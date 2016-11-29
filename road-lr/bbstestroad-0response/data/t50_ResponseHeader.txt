@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Tue, 29 Nov 2016 06:55:07 GMT
+Server: Apache/2.2.19 (Win32) PHP/5.2.17
+X-Powered-By: PHP/5.2.17
+Set-Cookie: eFID_2132_lastact=1480402507%09misc.php%09secqaa; expires=Wed, 30-Nov-2016 06:55:07 GMT; path=/
+Set-Cookie: eFID_2132_stats_qc_reg=deleted; expires=Mon, 30-Nov-2015 06:55:06 GMT; path=/
+Set-Cookie: eFID_2132_cloudstatpost=deleted; expires=Mon, 30-Nov-2015 06:55:06 GMT; path=/
+Set-Cookie: eFID_2132_secqaa=4456.56f04990a39de94640; path=/
+Content-Length: 885
+Keep-Alive: timeout=5, max=96
+Connection: Keep-Alive
+Content-Type: text/html; charset=gbk
+

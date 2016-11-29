@@ -1,0 +1,11 @@
+[t45]
+FileName1=t45_mococn-ext-eol-99.9-fx.html
+URL1=http://download.firefox.com.cn/chinaedition/addons/eol/mococn-ext-eol-99.9-fx.xpi
+Total=1
+ContentType=application/x-xpinstall
+SnapshotXmlFile=snapshot_45.xml
+RequestHeaderFile=t45_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t45_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

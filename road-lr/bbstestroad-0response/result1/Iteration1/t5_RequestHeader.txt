@@ -1,0 +1,9 @@
+GET /pingd?dm=bbs.testroad.org&url=/forum-15-1.html&arg=-&rdm=bbs.testroad.org&rurl=/forum.php&adt=-&rarg=-&pvi=8882643722&si=s2980148912&ui=0&ty=0&fi=15&rt=forum&md=forumdisplay&pn=1&qq=000&r2=30214883&scr=1366x768&scl=24-bit&lg=zh-cn&jv=1&pf=Win32&tz=-8&fl=-&ct=-&ext=bc=0;adid=&r3=171 HTTP/1.1
+Referer: http://bbs.testroad.org/forum-15-1.html
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept-Encoding: gzip, deflate
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept: */*
+Connection: Keep-Alive
+Host: pingtcss.qq.com
+

@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Tue, 25 Oct 2016 09:22:03 GMT
+Fw-Global-Ttl: 300
+Content-Length: 2686
+Accept-Ranges: bytes
+Content-Type: application/octet-stream
+Last-Modified: Tue, 25 Oct 2016 06:19:42 GMT
+Connection: Keep-Alive
+Server: nginx/1.1.19
+Fw-Via: IMS MEM HIT from 123.125.101.67
+

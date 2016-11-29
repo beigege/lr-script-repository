@@ -1,0 +1,11 @@
+[t12]
+FileName1=t12_arw_l.gif
+URL1=http://bbs.testroad.org/static/image/common/arw_l.gif
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_12.xml
+RequestHeaderFile=t12_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t12_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

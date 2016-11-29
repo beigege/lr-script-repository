@@ -1,0 +1,10 @@
+if($('secqaa_qSSqlFDM')) {
+	var sectpl = seccheck_tpl['qSSqlFDM'] != '' ? seccheck_tpl['qSSqlFDM'].replace(/<hash>/g, 'codeqSSqlFDM') : '';
+	var sectplcode = sectpl != '' ? sectpl.split('<sec>') : Array('<br />',': ','<br />','');
+	var string = '<input name="secqaahash" type="hidden" value="qSSqlFDM" />' + sectplcode[0] + '验证问答' + sectplcode[1] + '<input name="secanswer" id="secqaaverify_qSSqlFDM" type="text" autocomplete="off" style="width:100px" class="txt px vm" onblur="checksec(\'qaa\', \'qSSqlFDM\')" />' +
+		' <a href="javascript:;" onclick="updatesecqaa(\'qSSqlFDM\');doane(event);" class="xi2">换一个</a>' +
+		'<span id="checksecqaaverify_qSSqlFDM"><img src="' + STATICURL + 'image/common/none.gif" width="16" height="16" class="vm" /></span>' +
+		sectplcode[2] + '52 - 10 = ?' + sectplcode[3];
+	evalscript(string);
+	$('secqaa_qSSqlFDM').innerHTML = string;
+}

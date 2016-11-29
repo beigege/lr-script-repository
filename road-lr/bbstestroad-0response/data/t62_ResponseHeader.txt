@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Content-Type: application/vnd.google.safebrowsing-update
+X-Content-Type-Options: nosniff
+Date: Tue, 29 Nov 2016 08:13:36 GMT
+Server: HTTP server (unknown)
+Content-Length: 7347
+X-XSS-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+

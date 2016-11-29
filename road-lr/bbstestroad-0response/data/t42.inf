@@ -1,0 +1,11 @@
+[t42]
+FileName1=t42_update.html
+URL1=http://g-fox.cn/chinaedition/addons/tabimprovelite/update.rdf?version=1.4
+Total=1
+ContentType=application/octet-stream
+SnapshotXmlFile=snapshot_42.xml
+RequestHeaderFile=t42_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t42_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

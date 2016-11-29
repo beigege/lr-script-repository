@@ -1,0 +1,11 @@
+GET /safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyOABAAkoSCAAQwrAPGNCzDyABKgQ1ReoC HTTP/1.1
+Host: safebrowsing-cache.google.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Cookie: NID=80=TYT-Aea5qbo6_8ccW5yqZ-SBjAQ5usMoUx4A08SdBZiBlHUHcCX6rr0Ih37IYzh84NgOzBrqNqhOx6qKtwoq7BBzvPyCaO7NLZg8eG1Ike-rwmKTlagaNMcNYX_u6oqs
+Connection: keep-alive
+Pragma: no-cache
+Cache-Control: no-cache
+

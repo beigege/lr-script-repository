@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RDF:RDF
+  xmlns:em="http://www.mozilla.org/2004/em-rdf#"
+  xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <RDF:Description about="urn:mozilla:extension:quicklaunch@mozillaonline.com">
+    <em:signature>MIGTMA0GCSqGSIb3DQEBDQUAA4GBAAifNa86XwZU+YRg6hWeC81iZjYPKucGyWrlcYwmLnwl7HHrlPGDZZd2mEwkjWlDe46hg/wfDsDFbAAUhwPAEuj+npl/J1oTrO2+EiDF/9ThfxaqcAErldP2oG7pbF2B7+jUAOSDD1gqP7wev7PNjLmRPqcqV4kLkzeq2bLzbOAW</em:signature>
+    <em:updates>
+      <RDF:Seq>
+        <RDF:li>
+          <RDF:Description>
+            <em:targetApplication>
+              <RDF:Description>
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                <em:maxVersion>28.*</em:maxVersion>
+                <em:minVersion>3.0a1</em:minVersion>
+                <em:updateHash>sha256:c89183721cc40dfd099809b9c232878fd037d65b4f567b17e472f84fc329628c</em:updateHash>
+                <em:updateLink>http://g-fox.cn/chinaedition/addons/quicklaunch/quicklaunch-0.15.xpi</em:updateLink>
+              </RDF:Description>
+            </em:targetApplication>
+            <em:version>0.15</em:version>
+          </RDF:Description>
+        </RDF:li>
+        <RDF:li>
+          <RDF:Description>
+            <em:targetApplication>
+              <RDF:Description>
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                <em:maxVersion>40.*</em:maxVersion>
+                <em:minVersion>29.0</em:minVersion>
+                <em:updateHash>sha256:83eb26d47f0e47c659abcae5a800fa536fa75cddde5f1f612bd6b349d8f25f68</em:updateHash>
+                <em:updateLink>https://addons.mozilla.org/firefox/downloads/file/333636/addon-1.1.6-fx.xpi?src=external-selfhostupdate</em:updateLink>
+              </RDF:Description>
+            </em:targetApplication>
+            <em:version>1.1.6</em:version>
+          </RDF:Description>
+        </RDF:li>
+      </RDF:Seq>
+    </em:updates>
+  </RDF:Description>
+</RDF:RDF>

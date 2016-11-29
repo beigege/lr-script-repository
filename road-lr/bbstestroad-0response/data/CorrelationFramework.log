@@ -1,0 +1,4 @@
+[2016/11/29 15:54:48] Full Trace: CorrelationFramework has initialized log functionality successfully.
+[2016/11/29 15:54:49] Full Trace: WebCorrelationScanner initialized
+[2016/11/29 15:54:49] Full Trace: CorrelationFramework has initialized Snapshot Scanners successfully.
+[2016/11/29 15:54:49] Full Trace: CorrelationFramework has initialized Post Filters Manager successfully.

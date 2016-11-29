@@ -1,0 +1,10 @@
+if($('secqaa_qSC0176n')) {
+	var sectpl = seccheck_tpl['qSC0176n'] != '' ? seccheck_tpl['qSC0176n'].replace(/<hash>/g, 'codeqSC0176n') : '';
+	var sectplcode = sectpl != '' ? sectpl.split('<sec>') : Array('<br />',': ','<br />','');
+	var string = '<input name="secqaahash" type="hidden" value="qSC0176n" />' + sectplcode[0] + '验证问答' + sectplcode[1] + '<input name="secanswer" id="secqaaverify_qSC0176n" type="text" autocomplete="off" style="width:100px" class="txt px vm" onblur="checksec(\'qaa\', \'qSC0176n\')" />' +
+		' <a href="javascript:;" onclick="updatesecqaa(\'qSC0176n\');doane(event);" class="xi2">换一个</a>' +
+		'<span id="checksecqaaverify_qSC0176n"><img src="' + STATICURL + 'image/common/none.gif" width="16" height="16" class="vm" /></span>' +
+		sectplcode[2] + '82 + 6 = ?' + sectplcode[3];
+	evalscript(string);
+	$('secqaa_qSC0176n').innerHTML = string;
+}

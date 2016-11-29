@@ -1,0 +1,11 @@
+[t18]
+FileName1=t18_editor.gif
+URL1=http://bbs.testroad.org/static/image/editor/editor.gif
+Total=1
+ContentType=image/gif
+SnapshotXmlFile=snapshot_18.xml
+RequestHeaderFile=t18_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t18_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

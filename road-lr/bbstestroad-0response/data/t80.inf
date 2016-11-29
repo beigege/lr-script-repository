@@ -1,0 +1,13 @@
+[t80]
+FileName1=t80.htm
+URL1=http://bbs.testroad.org/misc.php?mod=secqaa&action=update&idhash=qSSKSJiy&0.18308906530268654
+Total=1
+RequestHeaderFile=t80_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t80_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_9.xml
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

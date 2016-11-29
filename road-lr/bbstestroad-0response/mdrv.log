@@ -1,0 +1,40 @@
+Virtual User Script started at : 2016-11-29 18:42:45
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 11.0.0 for Windows 7; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "D:\my\study\performance\lr-script-repository\road-lr\bbstestroad-0response\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Action.
+Action.c(66): Downloading resource "http://i.firefoxchina.cn/bookmarks/updates-22.json" (specified by argument number 10)  	[MsgId: MMSG-26577]
+Action.c(66): Downloading resource "http://i.firefoxchina.cn/newtab/master-ii/quickdialdata-0.json" (specified by argument number 13)  	[MsgId: MMSG-26577]
+Action.c(66): Downloading resource "http://bbs.testroad.org/data/cache/common_extra.js?I6Q" (specified by argument number 16)  	[MsgId: MMSG-26577]
+Action.c(66): Downloading resource "http://tcss.qq.com/heatmap/83/MzAyMTQ4ODM=.js?rand=9279443356" (specified by argument number 19)  	[MsgId: MMSG-26577]
+Action.c(66): Downloading resource "http://static.youku.com/v1.0.0672/v/swf/loader.swf?VideoIDS=XNjg0MzgyOTEy&winType=BDskin&embedid=MTAzLjM3LjE0MC4xNwIxNzEwOTU3MjgCYmJzLnRlc3Ryb2FkLm9yZwIvZm9ydW0ucGhw&wd=&partnerid=0edbfd2e4fc91b72&vext=pid%253D0edbfd2e4fc91b72%2526emb%253DMTAzLjM3LjE0MC4xNwIxNzEwOTU3MjgCYmJzLnRlc3Ryb2FkLm9yZwIvZm9ydW0ucGhw%2526bc%253D%2526cna%253D%2526vvlogext%253Dpc_i%25253D14695999014221cq%252526pc_u%25253D-%252526rvpvid%25253D-%252526rycid%25253D-%252526yvft%25253D1480402445000%252526vsidc%25253D1%252526seid%25253D1480402445852GFR%252526vstp%25253D3%252526svstp%25253D3%2526type%253D0%2526embsig%253D1_1480409756_1082ed6f9901ecc4dfb4710a6191825b" (specified by argument number 22)  	[MsgId: MMSG-26577]
+Action.c(66): web_url("bbs.testroad.org") was successful, 119130 body bytes, 2217 header bytes, 261 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(83): web_url("pingd") was successful, 0 body bytes, 188 header bytes  	[MsgId: MMSG-26386]
+Action.c(92): Found resource "http://pub.idqqimg.com/qconn/widget/shareqq/css/widget.css" in HTML "http://connect.qq.com/widget/shareqq/widget.html?url=http%3A%2F%2Fbbs.testroad.org%2Fforum.php&desc=&title=&summary=&pics=&flash=&site=&style=101&width=96&height=24&showcount="  	[MsgId: MMSG-26659]
+Action.c(92): Found resource "http://pub.idqqimg.com/qconn/widget/shareqq/js/widget.js" in HTML "http://connect.qq.com/widget/shareqq/widget.html?url=http%3A%2F%2Fbbs.testroad.org%2Fforum.php&desc=&title=&summary=&pics=&flash=&site=&style=101&width=96&height=24&showcount="  	[MsgId: MMSG-26659]
+Action.c(92): web_url("widget.html") was successful, 1573 body bytes, 1160 header bytes  	[MsgId: MMSG-26386]
+Action.c(100): web_add_cookie was successful  	[MsgId: MMSG-26392]
+Action.c(102): web_add_cookie was successful  	[MsgId: MMSG-26392]
+Action.c(106): Downloading resource "http://tcss.qq.com/heatmap/83/MzAyMTQ4ODM=.js?rand=1176937836" (specified by argument number 10)  	[MsgId: MMSG-26577]
+Action.c(106): Downloading resource "http://bbs.testroad.org/data/cache/common_extra.js?I6Q" (specified by argument number 12)  	[MsgId: MMSG-26577]
+Action.c(106): web_url("forum-15-1.html") was successful, 41 body bytes, 708 header bytes  	[MsgId: MMSG-26386]
+Action.c(119): web_url("pingd_2") was successful, 0 body bytes, 188 header bytes  	[MsgId: MMSG-26386]
+Action.c(128): Resource "http://pub.idqqimg.com/qconn/widget/shareqq/css/widget.css" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(128): Resource "http://pub.idqqimg.com/qconn/widget/shareqq/js/widget.js" is in the cache already and will not be downloaded again  	[MsgId: MMSG-26655]
+Action.c(128): web_url("widget.html_2") was successful, 371 body bytes, 244 header bytes  	[MsgId: MMSG-26386]
+Action.c(136): web_url("misc.php") was successful, 0 body bytes, 199 header bytes  	[MsgId: MMSG-26386]
+Action.c(147): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(155): Downloading resource "http://bbs.testroad.org/data/cache/common_extra.js?I6Q" (specified by argument number 10)  	[MsgId: MMSG-26577]
+Action.c(155): Downloading resource "http://tcss.qq.com/heatmap/83/MzAyMTQ4ODM=.js?rand=1920234975" (specified by argument number 12)  	[MsgId: MMSG-26577]
+Action.c(155): Error -26377: No match found for the requested parameter "response0". Check whether the requested boundaries exist in the response data. Also, if the data you want to save exceeds 256 bytes, use web_set_max_html_param_len to increase the parameter size  	[MsgId: MERR-26377]
+Action.c(155): web_url("forum-15-2.html") highest severity level was "ERROR", 41 body bytes, 708 header bytes  	[MsgId: MMSG-26388]
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

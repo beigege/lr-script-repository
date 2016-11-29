@@ -1,0 +1,25 @@
+[t3]
+FileName2=t3_5_widget.js
+FileName5=t1_2_MzAyMTQ4ODM=.js
+FileName4=t1_3_quickdialdata-0.UNK
+FileName7=t1_0_v1.swf
+FileName6=t1_1_updates-22.UNK
+RequestBodyFile=t3_RequestBody.txt
+ContentType=text/html
+URL1=http://connect.qq.com/widget/shareqq/widget.html?url=http://bbs.testroad.org/forum.php&desc=&title=&summary=&pics=&flash=&site=&style=101&width=96&height=24&showcount=
+URL2=http://pub.idqqimg.com/qconn/widget/shareqq/js/widget.js
+URL3=http://pub.idqqimg.com/qconn/widget/shareqq/css/widget.css
+ResponseHeaderFile=t3_ResponseHeader.txt
+URL4=http://i.firefoxchina.cn/newtab/master-ii/quickdialdata-0.json
+URL5=http://tcss.qq.com/heatmap/83/MzAyMTQ4ODM=.js?rand=9279443356
+URL6=http://i.firefoxchina.cn/bookmarks/updates-22.json
+URL7=http://static.youku.com/v1.0.0672/v/swf/loader.swf?VideoIDS=XNjg0MzgyOTEy&winType=BDskin&embedid=MTAzLjM3LjE0MC4xNwIxNzEwOTU3MjgCYmJzLnRlc3Ryb2FkLm9yZwIvZm9ydW0ucGhw&wd=&partnerid=0edbfd2e4fc91b72&vext=pid%3D0edbfd2e4fc91b72%26emb%3DMTAzLjM3LjE0MC4xNwIxNzEwOTU3MjgCYmJzLnRlc3Ryb2FkLm9yZwIvZm9ydW0ucGhw%26bc%3D%26cna%3D%26vvlogext%3Dpc_i%253D14695999014221cq%2526pc_u%253D-%2526rvpvid%253D-%2526rycid%253D-%2526yvft%253D1480402445000%2526vsidc%253D1%2526seid%253D1480402445852GFR%2526vstp%253D3%2526svstp%253D3%26type%3D0%26embsig%3D1_1480409756_1082ed6f9901ecc4dfb4710a6191825b
+SnapshotXmlFile=snapshot_3.xml
+RequestHeaderFile=t3_RequestHeader.txt
+SaveSnapshotResources=1
+Total=7
+StepName=Url: widget.html
+FileName1=t3.html
+FileName3=t3_4_widget.css
+[AdditionalInfo]
+IsIgnorable=1

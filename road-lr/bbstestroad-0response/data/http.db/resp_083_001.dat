@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RDF:RDF
+  xmlns:em="http://www.mozilla.org/2004/em-rdf#"
+  xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <RDF:Description about="urn:mozilla:extension:cpmanager@mozillaonline.com">
+    <em:signature>MIGTMA0GCSqGSIb3DQEBDQUAA4GBAGmD5XQOsNLkPiPUFkr5q5Yipl4wxAVuhJMvWhAVlJ4o9I29rK2LO/m0WbUjHyQ3ndbZt8/i5uAuZ5Ad6l/pJeNKQQyn9chPX7uVE7c2GFPG0U0Dwk10WbUz1JRanZkCmGIW3DnqzPAYubKBH9e/cSC/JF1r2ItIvxx8U3TF0V5V</em:signature>
+    <em:updates>
+      <RDF:Seq>
+        <RDF:li>
+          <RDF:Description>
+            <em:targetApplication>
+              <RDF:Description>
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                <em:maxVersion>28.*</em:maxVersion>
+                <em:minVersion>20.0</em:minVersion>
+                <em:updateHash>sha256:b79267982a8865d94d0a9779a079412fa9facd308a4ab9753947b355314b26a9</em:updateHash>
+                <em:updateLink>http://g-fox.cn/chinaedition/addons/cpmanager/cpmanager-1.0.25.xpi</em:updateLink>
+              </RDF:Description>
+            </em:targetApplication>
+            <em:version>1.0.25</em:version>
+          </RDF:Description>
+        </RDF:li>
+        <RDF:li>
+          <RDF:Description>
+            <em:targetApplication>
+              <RDF:Description>
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                <em:maxVersion>47.*</em:maxVersion>
+                <em:minVersion>29.0</em:minVersion>
+                <em:updateHash>sha256:e60356fc0fafaf1f045f23453f00928cf9d9d4f635da2eec594b87965b43588e</em:updateHash>
+                <em:updateLink>http://g-fox.cn/chinaedition/addons/cpmanager-bsb/cpmanager-1.5.14-fx.xpi</em:updateLink>
+              </RDF:Description>
+            </em:targetApplication>
+            <em:version>1.5.14</em:version>
+          </RDF:Description>
+        </RDF:li>
+        <RDF:li>
+          <RDF:Description>
+            <em:targetApplication>
+              <RDF:Description>
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                <em:maxVersion>50.*</em:maxVersion>
+                <em:minVersion>38.0</em:minVersion>
+                <em:updateHash>sha256:410ed11423664589e9ccfc56929cdd164fa4f1a3101a4fcef91123e7626f5194</em:updateHash>
+                <em:updateLink>http://g-fox.cn/chinaedition/addons/cpmanager/cpmanager-2.50-fx.xpi</em:updateLink>
+              </RDF:Description>
+            </em:targetApplication>
+            <em:version>2.50</em:version>
+          </RDF:Description>
+        </RDF:li>
+      </RDF:Seq>
+    </em:updates>
+  </RDF:Description>
+</RDF:RDF>

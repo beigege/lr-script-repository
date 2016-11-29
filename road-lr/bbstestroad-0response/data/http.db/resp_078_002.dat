@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RDF:RDF
+  xmlns:em="http://www.mozilla.org/2004/em-rdf#"
+  xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <RDF:Description about="urn:mozilla:extension:cehomepage@mozillaonline.com">
+    <em:signature>MIGTMA0GCSqGSIb3DQEBDQUAA4GBAIy5+VSBQhdK2s1/SkHfBGScTMjMGfshSIBqZzxYnm8UskT7T439QsfLUJuR9rght11RZQM46pHWjbyFy4PRxjJZSwV9VVy4hUjbsekTErnzKit3zafdN1ZjbvA1c1eJ4vtTzzpf9Z/04x1YOGHmOwUMExxfNK8gJjB9w9gW82Ei</em:signature>
+    <em:updates>
+      <RDF:Seq>
+        <RDF:li>
+          <RDF:Description>
+            <em:targetApplication>
+              <RDF:Description>
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                <em:maxVersion>28.*</em:maxVersion>
+                <em:minVersion>4.0</em:minVersion>
+                <em:updateHash>sha256:ed211a5d48482d714cbf0b325b88434b9db91893c40a6df3b61f450575454487</em:updateHash>
+                <em:updateLink>http://g-fox.cn/chinaedition/addons/cehomepage-ii/cehomepage-0.9.42.xpi</em:updateLink>
+              </RDF:Description>
+            </em:targetApplication>
+            <em:version>0.9.42</em:version>
+          </RDF:Description>
+        </RDF:li>
+        <RDF:li>
+          <RDF:Description>
+            <em:targetApplication>
+              <RDF:Description>
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                <em:maxVersion>47.*</em:maxVersion>
+                <em:minVersion>24.0</em:minVersion>
+                <em:updateHash>sha256:8f7e14b0655b5fd1ca333654f3ff00b086dec106b0236b8f36cf77013165f373</em:updateHash>
+                <em:updateLink>http://g-fox.cn/chinaedition/addons/cehomepage-iii/cehomepage-0.10.47.3-fx.xpi</em:updateLink>
+              </RDF:Description>
+            </em:targetApplication>
+            <em:version>0.10.47.3</em:version>
+          </RDF:Description>
+        </RDF:li>
+        <RDF:li>
+          <RDF:Description>
+            <em:targetApplication>
+              <RDF:Description>
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                <em:maxVersion>50.*</em:maxVersion>
+                <em:minVersion>38.0</em:minVersion>
+                <em:updateHash>sha256:62b274f9b3db68fd0db0fd41dbb3ae99d65c7e17244d0da6424c2cb5d82b4591</em:updateHash>
+                <em:updateLink>http://g-fox.cn/chinaedition/addons/cehomepage-iii/cehomepage-1.50-fx.xpi</em:updateLink>
+              </RDF:Description>
+            </em:targetApplication>
+            <em:version>1.50</em:version>
+          </RDF:Description>
+        </RDF:li>
+      </RDF:Seq>
+    </em:updates>
+  </RDF:Description>
+</RDF:RDF>

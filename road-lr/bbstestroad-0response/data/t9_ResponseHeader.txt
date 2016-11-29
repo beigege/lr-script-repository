@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Tue, 29 Nov 2016 06:52:15 GMT
+Server: Apache/2.2.19 (Win32) PHP/5.2.17
+X-Powered-By: PHP/5.2.17
+Set-Cookie: eFID_2132_sid=SqlFDM; expires=Wed, 30-Nov-2016 06:52:15 GMT; path=/
+Set-Cookie: eFID_2132_lastact=1480402335%09forum.php%09forumdisplay; expires=Wed, 30-Nov-2016 06:52:15 GMT; path=/
+Set-Cookie: eFID_2132_stats_qc_reg=deleted; expires=Mon, 30-Nov-2015 06:52:14 GMT; path=/
+Set-Cookie: eFID_2132_cloudstatpost=deleted; expires=Mon, 30-Nov-2015 06:52:14 GMT; path=/
+Set-Cookie: eFID_2132_st_t=0%7C1480402335%7Cde2291559305748c4e0719bfcfdd909a; path=/
+Set-Cookie: eFID_2132_forum_lastvisit=D_15_1480402335; expires=Tue, 06-Dec-2016 06:52:15 GMT; path=/
+Set-Cookie: eFID_2132_visitedfid=15; expires=Thu, 29-Dec-2016 06:52:15 GMT; path=/
+Set-Cookie: eFID_2132_sid=SqlFDM; expires=Wed, 30-Nov-2016 06:52:15 GMT; path=/
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=gbk
+

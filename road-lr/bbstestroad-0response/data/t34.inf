@@ -1,0 +1,11 @@
+[t34]
+FileName1=t34_ChFnb29nLXBoaXNoLXNoYXZhcjgAQAJKDAgAEJ20HBjCtBwgAUoMCAAQ1q0cGPeuHCAB.html
+URL1=http://safebrowsing-cache.google.com/safebrowsing/rd/ChFnb29nLXBoaXNoLXNoYXZhcjgAQAJKDAgAEJ20HBjCtBwgAUoMCAAQ1q0cGPeuHCAB
+Total=1
+ContentType=application/vnd.google.safebrowsing-chunk
+SnapshotXmlFile=snapshot_34.xml
+RequestHeaderFile=t34_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t34_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

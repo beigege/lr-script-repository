@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RDF:RDF
+  xmlns:em="http://www.mozilla.org/2004/em-rdf#"
+  xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+>
+  <RDF:Description about="urn:mozilla:extension:share_all_cn@mozillaonline.com">
+    <em:signature>MIGTMA0GCSqGSIb3DQEBDQUAA4GBAK/Dw6bbpzEbjqWLV+OB0xKRDnfNmF49IfeZF6HUq27HhW13Xs/blZ4Qsx410kfEE/ryCj86x97MZ7RTbUiJ7AE0hqZbkm9rRkGytlJI+UOF75IBVD7Q9abEyGVOyArgZHd0mwV1t8FOkG9fk/uKeA0QITDHO4tciGowHGfyHyDK</em:signature>
+    <em:updates>
+      <RDF:Seq>
+        <RDF:li>
+          <RDF:Description>
+            <em:targetApplication>
+              <RDF:Description>
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                <em:maxVersion>28.*</em:maxVersion>
+                <em:minVersion>3.0</em:minVersion>
+                <em:updateHash>sha256:7dc58f1be5cc30a563b30c39dcc99bd724d9bf3b5f3d4fefe71db460d8ae6fff</em:updateHash>
+                <em:updateLink>http://g-fox.cn/chinaedition/addons/sharetool/sharetool-0.17.xpi</em:updateLink>
+              </RDF:Description>
+            </em:targetApplication>
+            <em:version>0.17</em:version>
+          </RDF:Description>
+        </RDF:li>
+        <RDF:li>
+          <RDF:Description>
+            <em:targetApplication>
+              <RDF:Description>
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                <em:maxVersion>47.*</em:maxVersion>
+                <em:minVersion>29.0</em:minVersion>
+                <em:updateHash>sha256:0246bf6c0cc7fc6ec7553e9180f1ea1f0bd28ee8520b394b79ccc63f6611b319</em:updateHash>
+                <em:updateLink>http://g-fox.cn/chinaedition/addons/sharetool/sharetool-0.21-fx.xpi</em:updateLink>
+              </RDF:Description>
+            </em:targetApplication>
+            <em:version>0.21</em:version>
+          </RDF:Description>
+        </RDF:li>
+      </RDF:Seq>
+    </em:updates>
+  </RDF:Description>
+</RDF:RDF>

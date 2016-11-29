@@ -1,0 +1,1412 @@
+11f40
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gbk" />
+<title>测试基础 -  Road_testing -  Powered by Discuz!</title>
+
+<meta name="keywords" content="测试基础" />
+<meta name="description" content="测试基础 ,Road_testing" />
+<meta name="generator" content="Discuz! X3.1" />
+<meta name="author" content="Discuz! Team and Comsenz UI Team" />
+<meta name="copyright" content="2001-2013 Comsenz Inc." />
+<meta name="MSSmartTagsPreventParsing" content="True" />
+<meta http-equiv="MSThemeCompatible" content="Yes" />
+<base href="http://bbs.testroad.org/" /><link rel="stylesheet" type="text/css" href="data/cache/style_2_common.css?I6Q" /><link rel="stylesheet" type="text/css" href="data/cache/style_2_forum_forumdisplay.css?I6Q" /><script type="text/javascript">var STYLEID = '2', STATICURL = 'static/', IMGDIR = 'static/image/common', VERHASH = 'I6Q', charset = 'gbk', discuz_uid = '0', cookiepre = 'eFID_2132_', cookiedomain = '', cookiepath = '/', showusercard = '1', attackevasive = '0', disallowfloat = 'newthread', creditnotice = '2|学分|', defaultstyle = '', REPORTURL = 'aHR0cDovL2Jicy50ZXN0cm9hZC5vcmcvZm9ydW0tMTUtMS5odG1s', SITEURL = 'http://bbs.testroad.org/', JSPATH = 'data/cache/', DYNAMICURL = '';</script>
+<script src="data/cache/common.js?I6Q" type="text/javascript"></script>
+<meta name="application-name" content="Road_testing" />
+<meta name="msapplication-tooltip" content="Road_testing" />
+<meta name="msapplication-task" content="name=门户;action-uri=http://bbs.testroad.org/portal.php;icon-uri=http://bbs.testroad.org/static/image/common/portal.ico" /><meta name="msapplication-task" content="name=论坛;action-uri=http://bbs.testroad.org/forum.php;icon-uri=http://bbs.testroad.org/static/image/common/bbs.ico" />
+<meta name="msapplication-task" content="name=;action-uri=http://bbs.testroad.org/group.php;icon-uri=http://bbs.testroad.org/static/image/common/group.ico" /><meta name="msapplication-task" content="name=;action-uri=http://bbs.testroad.org/home.php;icon-uri=http://bbs.testroad.org/static/image/common/home.ico" /><link rel="archives" title="Road_testing" href="http://bbs.testroad.org/archiver/" />
+<link rel="alternate" type="application/rss+xml" title="Road_testing - 论坛" href="http://bbs.testroad.org/forum.php?mod=rss&fid=15&amp;auth=0" />
+<link rel="stylesheet" id="css_widthauto" type="text/css" href="data/cache/style_2_widthauto.css?I6Q" />
+<script type="text/javascript">HTMLNODE.className += ' widthauto'</script>
+<script src="data/cache/forum.js?I6Q" type="text/javascript"></script>
+<!--[if IE 6]>
+  <script src="template/comeing_vision/comeing/js/png.js" type="text/javascript"></script>
+  <script type="text/javascript">
+  DD_belatedPNG.fix('.png,#coeming_hd h2 img,.nvhm,#pt .z em,.chart');
+  </script>
+  <![endif]-->
+</head>
+
+<body id="nv_forum" class="pg_forumdisplay" onkeydown="if(event.keyCode==27) return false;">
+<div id="append_parent"></div><div id="ajaxwaitid"></div>
+        <div class="comeing_toptb_area cl"></div>
+<div id="comeing_toptb" class="cl">
+            <div class="wp cl">
+<div class="z">
+                              <a href="javascript:;"  onclick="setHomepage('http://bs.testroad.org/');">设为首页</a>                              <span class="pipe">|</span><a href="http://bs.testroad.org/"  onclick="addFavorite(this.href, 'Road_testing');return false;">收藏本站</a>                                                  <script type="text/javascript">var _speedMark = new Date();</script><a href="plugin.php?id=kylefu_qrcode_login"><img src="./source/plugin/kylefu_qrcode_login/img/qrcode.png" align="absmiddle"></a>                    
+</div>
+<div class="y">
+        <script src="data/cache/logging.js?I6Q" type="text/javascript"></script>
+<form method="post" autocomplete="off" id="lsform" action="member.php?mod=logging&amp;action=login&amp;loginsubmit=yes&amp;infloat=yes&amp;lssubmit=yes" onsubmit="return lsSubmit();">
+<span id="return_ls" style="display:none"></span>
+<input type="hidden" name="fastloginfield" value="username">
+<input type="text" name="username" id="ls_username" autocomplete="off" class="comeing_lus" onChange="this.className='comeing_lip'" tabindex="901" />
+<input type="password" name="password" id="ls_password" class="comeing_lpa" autocomplete="off" onChange="this.className='comeing_lip'" tabindex="902" />
+<label for="ls_cookietime"><input type="checkbox" name="cookietime" id="ls_cookietime" class="pc" value="2592000" tabindex="903" />自动登录</label>
+&nbsp;<a href="javascript:;" onclick="showWindow('login', 'member.php?mod=logging&action=login&viewlostpw=1')">找回密码</a>
+<button type="submit" class="comeing_lbt" tabindex="904"><em>登录</em></button>
+<button type="button" class="comeing_lrg" onclick="window.location.href='member.php?mod=register'" ><em>注册</em></button>
+<input type="hidden" name="quickforward" value="yes" />
+<input type="hidden" name="handlekey" value="ls" />
+</form>
+</div>
+</div>
+</div>
+
+
+
+      <ul id="cuser_menu" class="p_pop"  style="display:none">
+                                    <li><a href="home.php?mod=space&do=friend" style="background-image:url(http://bs.testroad.org/friend_b.png) !important">好友</a></li>
+                                            <li><a href="forum.php?mod=guide&view=my" style="background-image:url(http://bs.testroad.org/thread_b.png) !important">帖子</a></li>
+                                            <li><a href="home.php?mod=space&do=favorite&view=me" style="background-image:url(http://bs.testroad.org/favorite_b.png) !important">收藏</a></li>
+                                                                            <li><a href="home.php?mod=task" style="background-image:url(http://bs.testroad.org/task_b.png) !important">任务</a></li>
+                                                                                            <li><a href="home.php?mod=space&do=album" style="background-image:url(http://bs.testroad.org/album_b.png) !important">相册</a></li>
+                                                                                                                            <li><a href="misc.php?mod=ranklist" style="background-image:url(http://bs.testroad.org/ranklist_b.png) !important">排行榜</a></li>
+                      </ul>
+      <ul id="cmn_menu" class="p_pop"  style="display:none">
+                                              </ul>
+      
+<div id="coeming_hd">
+            <div class="hdc cl">
+                <div class="wp"><h2><a href="./" title="Road_testing"><img src="template/comeing_vision/comeing/logo.png" alt="Road_testing" border="0" /></a></h2>
+</div> 
+            </div>       
+
+            <div id="comeing_fixed_nv">
+              <div class="wp">
+                <div id="comeing_nv">
+                  <div class="comeing_nv">
+                    <span class="y">
+                        <div id="scbar" class="cl">
+<form id="scbar_form" method="post" autocomplete="off" onsubmit="searchFocus($('scbar_txt'))" action="search.php?searchsubmit=yes" target="_blank">
+<input type="hidden" name="mod" id="scbar_mod" value="search" />
+<input type="hidden" name="formhash" value="5f454b74" />
+<input type="hidden" name="srchtype" value="title" />
+<input type="hidden" name="srhfid" value="15" />
+<input type="hidden" name="srhlocality" value="forum::forumdisplay" />
+<table cellspacing="0" cellpadding="0">
+<tr>
+<td class="scbar_icon_td"></td>
+<td class="scbar_txt_td"><input type="text" name="srchtxt" id="scbar_txt" value="请输入搜索内容" autocomplete="off" x-webkit-speech speech /></td>
+<td class="scbar_type_td"><a href="javascript:;" id="scbar_type" class="xg1" onclick="showMenu(this.id)" hidefocus="true">搜索</a></td>
+<td class="scbar_btn_td"><button type="submit" name="searchsubmit" id="scbar_btn" sc="1" class="pn pnc" value="true"><strong class="xi2">搜索</strong></button></td>
+<td class="scbar_hot_td">
+<div id="scbar_hot">
+<strong class="xw1">热搜: </strong>
+
+<a href="search.php?mod=forum&amp;srchtxt=%BB%EE%B6%AF&amp;formhash=5f454b74&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">活动</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=%BD%BB%D3%D1&amp;formhash=5f454b74&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">交友</a>
+
+
+
+<a href="search.php?mod=forum&amp;srchtxt=discuz&amp;formhash=5f454b74&amp;searchsubmit=true&amp;source=hotsearch" target="_blank" class="xi2" sc="1">discuz</a>
+
+</div>
+</td>
+</tr>
+</table>
+</form>
+</div>
+<ul id="scbar_type_menu" class="p_pop" style="display: none;"><li><a href="javascript:;" rel="curforum" fid="15" >本版</a></li><li><a href="javascript:;" rel="forum" class="curtype">帖子</a></li><li><a href="javascript:;" rel="user">用户</a></li></ul>
+<script type="text/javascript">
+initSearchmenu('scbar', '');
+</script>
+                    </span>
+                    <ul class="cl">
+                                                                                            <li id="mn_F62" ><a href="forum-62-1.html" hidefocus="true"  >学员通知</a></li>
+                                                                                                                      <li id="mn_N5bed" ><a href="http://www.testroad.org" hidefocus="true"  >首页</a></li>
+                                                                                                                      <li id="mn_Nda9d" ><a href="hux_wx-qr.html" hidefocus="true"  >微信公众平台</a></li>
+                                                                                                                      <li class="a" id="mn_forum" ><a href="forum.php" hidefocus="true" title="BBS"  >论坛<span>BBS</span></a></li>
+                                                                                                                      <li id="mn_F28" ><a href="forum-28-1.html" hidefocus="true"  >公开课</a></li>
+                                                                                                                      <li id="mn_F27" ><a href="forum-27-1.html" hidefocus="true"   style="font-weight: bold;">ROAD学员</a></li>
+                                                                                                                                                                    <li id="mn_N8933" ><a href="http://bbs.testroad.org/forum.php?mod=forumdisplay&fid=10" hidefocus="true"  >企业招聘</a></li>
+                                                                                                                                                                    <li id="mn_home" ><a href="home.php?mod=follow" hidefocus="true" title="Follow"  >公告<span>Follow</span></a></li>
+                                                                                                                                                                                                                                                                                                                                                            <li id="mn_N04c5" ><a href="http://www.testroad.net/news/?20_220.html" hidefocus="true"  >测试培训</a></li>
+                                                                                                                                                                                                                  <li id="mn_home_14" ><a href="home.php?mod=space&do=share" hidefocus="true" title="Share"  >分享<span>Share</span></a></li>
+                                                                                          </ul>
+                                        
+                  </div>
+        
+                </div>          
+              </div>
+            </div>
+        
+        <script src="template/comeing_vision/comeing/js/nv.js" type="text/javascript"></script>
+<div class="p_pop h_pop" id="mn_userapp_menu" style="display: none"></div>                
+                    </div>   
+  <div id="wp" class="wp">
+  <style id="diy_style" type="text/css"></style>
+<!--[diy=diynavtop]--><div id="diynavtop" class="area"></div><!--[/diy]-->
+<div id="pt" class="bm cl">
+<div class="z">
+<a href="./" class="nvhm" title="首页">Road_testing</a><em>&raquo;</em><a href="forum.php">论坛</a> <em>&rsaquo;</em> <a href="forum.php?gid=7">软件测试技术类</a><em>&rsaquo;</em> <a href="forum-15-1.html">测试基础</a></div>
+</div><div class="wp">
+<!--[diy=diy1]--><div id="diy1" class="area"></div><!--[/diy]-->
+</div>
+<div class="boardnav">
+<div id="ct" class="wp cl" style="margin-left:145px">
+<div id="sd_bdl" class="bdl" onmouseover="showMenu({'ctrlid':this.id, 'pos':'dz'});" style="width:130px;margin-left:-145px">
+<!--[diy=diyleftsidetop]--><div id="diyleftsidetop" class="area"></div><!--[/diy]-->
+
+<div class="tbn" id="forumleftside"><h2 class="bdl_h">版块导航</h2>
+<dl class="" id="lf_4">
+<dt><a href="javascript:;" hidefocus="true" onclick="leftside('lf_4')" title="通知公告">通知公告</a></dt><dd>
+<a href="forum-14-1.html" title="通知">通知</a>
+</dd>
+</dl>
+<dl class="" id="lf_43">
+<dt><a href="javascript:;" hidefocus="true" onclick="leftside('lf_43')" title="职业">职业</a></dt><dd>
+<a href="forum-5-1.html" title="职业规划">职业规划</a>
+</dd>
+<dd>
+<a href="forum-13-1.html" title="简历面试">简历面试</a>
+</dd>
+</dl>
+<dl class="" id="lf_6">
+<dt><a href="javascript:;" hidefocus="true" onclick="leftside('lf_6')" title="求职招聘">求职招聘</a></dt><dd>
+<a href="forum-10-1.html" title="企业招聘">企业招聘</a>
+</dd>
+</dl>
+<dl class="a" id="lf_7">
+<dt><a href="javascript:;" hidefocus="true" onclick="leftside('lf_7')" title="软件测试技术类">软件测试技术类</a></dt><dd class="bdl_a">
+<a href="forum-15-1.html" title="测试基础">测试基础</a>
+</dd>
+<dd>
+<a href="forum-18-1.html" title="手机测试">手机测试</a>
+</dd>
+<dd>
+<a href="forum-19-1.html" title="安全测试">安全测试</a>
+</dd>
+</dl>
+<dl class="" id="lf_17">
+<dt><a href="javascript:;" hidefocus="true" onclick="leftside('lf_17')" title="自动化测试">自动化测试</a></dt><dd>
+<a href="forum-38-1.html" title="QTP">QTP</a>
+</dd>
+<dd>
+<a href="forum-39-1.html" title="selenium">selenium</a>
+</dd>
+</dl>
+<dl class="" id="lf_42">
+<dt><a href="javascript:;" hidefocus="true" onclick="leftside('lf_42')" title="性能测试">性能测试</a></dt><dd>
+<a href="forum-16-1.html" title="性能测试">性能测试</a>
+</dd>
+<dd>
+<a href="forum-44-1.html" title="中间件">中间件</a>
+</dd>
+<dd>
+<a href="forum-45-1.html" title="数据库">数据库</a>
+</dd>
+</dl>
+<dl class="" id="lf_22">
+<dt><a href="javascript:;" hidefocus="true" onclick="leftside('lf_22')" title="技术英语角">技术英语角</a></dt><dd>
+<a href="forum-25-1.html" title="Autotest">Autotest</a>
+</dd>
+</dl>
+<dl class="" id="lf_53">
+<dt><a href="javascript:;" hidefocus="true" onclick="leftside('lf_53')" title="沙龙区域">沙龙区域</a></dt><dd>
+<a href="forum-28-1.html" title="网络公开课">网络公开课</a>
+</dd>
+<dd>
+<a href="forum-12-1.html" title="线下沙龙">线下沙龙</a>
+</dd>
+</dl>
+<dl class="" id="lf_8">
+<dt><a href="javascript:;" hidefocus="true" onclick="leftside('lf_8')" title="测试沙龙培训">测试沙龙培训</a></dt><dd>
+<a href="forum-63-1.html" title="LINUX">LINUX</a>
+</dd>
+<dd>
+<a href="forum-48-1.html" title="手机自动化">手机自动化</a>
+</dd>
+<dd>
+<a href="forum-49-1.html" title="功能测试培训专用">功能测试培训专用</a>
+</dd>
+</dl>
+<dl class="" id="lf_21">
+<dt><a href="javascript:;" hidefocus="true" onclick="leftside('lf_21')" title="闲聊区">闲聊区</a></dt><dd>
+<a href="forum-61-1.html" title="ROAD聚会">ROAD聚会</a>
+</dd>
+<dd>
+<a href="forum-26-1.html" title="欢乐多">欢乐多</a>
+</dd>
+</dl>
+<dl class="" id="lf_50">
+<dt><a href="javascript:;" hidefocus="true" onclick="leftside('lf_50')" title="特色栏目">特色栏目</a></dt><dd>
+<a href="forum-60-1.html" title="测试佳缘">测试佳缘</a>
+</dd>
+<dd>
+<a href="forum-52-1.html" title="我要做专家">我要做专家</a>
+</dd>
+</dl>
+<dl class="" id="lf_29">
+<dt><a href="javascript:;" hidefocus="true" onclick="leftside('lf_29')" title="一线测试管理联盟">一线测试管理联盟</a></dt><dd>
+<a href="forum-30-1.html" title="管理问题">管理问题</a>
+</dd>
+<dd>
+<a href="forum-32-1.html" title="一线联盟群专属天地">一线联盟群专属天地</a>
+</dd>
+</dl>
+<dl class="" id="lf_41">
+<dt><a href="javascript:;" hidefocus="true" onclick="leftside('lf_41')" title="ROAD内部论坛">ROAD内部论坛</a></dt></dl>
+<dl class="" id="lf_57">
+<dt><a href="javascript:;" hidefocus="true" onclick="leftside('lf_57')" title="ROAD资源分享">ROAD资源分享</a></dt><dd>
+<a href="forum-58-1.html" title="我要提问">我要提问</a>
+</dd>
+<dd>
+<a href="forum-59-1.html" title="资源分享">资源分享</a>
+</dd>
+</dl>
+</div>
+
+<!--[diy=diyleftsidebottom]--><div id="diyleftsidebottom" class="area"></div><!--[/diy]-->
+</div>
+
+<div class="mn">
+<div class="bm bml pbn">
+<div class="bm_h cl">
+<span class="y">
+<a href="home.php?mod=spacecp&amp;ac=favorite&amp;type=forum&amp;id=15&amp;handlekey=favoriteforum&amp;formhash=5f454b74" id="a_favorite" class="fa_fav" onclick="showWindow(this.id, this.href, 'get', 0);">收藏本版 <strong class="xi1" id="number_favorite"  style="display:none;">(<span id="number_favorite_num">0</span>)</strong></a>
+<span class="pipe">|</span><a href="forum.php?mod=rss&amp;fid=15&amp;auth=0" class="fa_rss" target="_blank" title="RSS">订阅</a>
+</span>
+<h1 class="xs2">
+<a href="forum-15-1.html">测试基础</a>
+<span class="xs1 xw0 i">今日: <strong class="xi1">37</strong><b class="ico_increase">&nbsp;</b><span class="pipe">|</span>主题: <strong class="xi1">528</strong><span class="pipe">|</span>排名: <strong class="xi1" title="上次排名:21">21</strong><b class="ico_increase">&nbsp;</b></span></h1>
+</div>
+</div>
+
+
+
+<div class="drag">
+<!--[diy=diy4]--><div id="diy4" class="area"></div><!--[/diy]-->
+</div>
+
+
+
+
+
+
+
+<div id="pgt" class="bm bw0 pgs cl">
+<span id="fd_page_top"><div class="pg"><strong>1</strong><a href="forum-15-2.html">2</a><a href="forum-15-3.html">3</a><a href="forum-15-4.html">4</a><a href="forum-15-5.html">5</a><a href="forum-15-6.html">6</a><a href="forum-15-7.html">7</a><a href="forum-15-8.html">8</a><a href="forum-15-9.html">9</a><a href="forum-15-10.html">10</a><a href="forum-15-27.html" class="last">... 27</a><label><input type="text" name="custompage" class="px" size="2" title="输入页码，按回车快速跳转" value="1" onkeydown="if(event.keyCode==13) {window.location='forum.php?mod=forumdisplay&fid=15&amp;page='+this.value;; doane(event);}" /><span title="共 27 页"> / 27 页</span></label><a href="forum-15-2.html" class="nxt">下一页</a></div></span>
+<span class="pgb y"  ><a href="forum.php">返&nbsp;回</a></span>
+<a href="javascript:;" id="newspecial" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&action=newthread&fid=15')" title="发新帖"><img src="static/image/common/pn_post.png" alt="发新帖" /></a></div>
+<div id="threadlist" class="tl bm bmw">
+<div class="th">
+<table cellspacing="0" cellpadding="0">
+<tr>
+<th colspan="2">
+<div class="tf">
+<span id="atarget" onclick="setatarget(1)" class="y" title="在新窗口中打开帖子">新窗</span>
+<a id="filter_special" href="javascript:;" class="showmenu xi2" onclick="showMenu(this.id)">全部主题</a>&nbsp;						
+<a href="forum.php?mod=forumdisplay&amp;fid=15&amp;filter=lastpost&amp;orderby=lastpost" class="xi2">最新</a>&nbsp;
+<a href="forum.php?mod=forumdisplay&amp;fid=15&amp;filter=heat&amp;orderby=heats" class="xi2">热门</a>&nbsp;
+<a href="forum.php?mod=forumdisplay&amp;fid=15&amp;filter=hot" class="xi2">热帖</a>&nbsp;
+<a href="forum.php?mod=forumdisplay&amp;fid=15&amp;filter=digest&amp;digest=1" class="xi2">精华</a>&nbsp;
+<a id="filter_dateline" href="javascript:;" class="showmenu xi2" onclick="showMenu(this.id)">更多</a>&nbsp;
+<span id="clearstickthread" style="display: none;">
+<span class="pipe">|</span>
+<a href="javascript:;" onclick="clearStickThread()" class="xi2" title="显示置顶">显示置顶</a>
+</span>
+</div>
+</th>
+<td class="by">作者</td>
+<td class="num">回复/查看</td>
+<td class="by">最后发表</td>
+</tr>
+</table>
+</div>
+<div class="bm_c">
+<script type="text/javascript">var lasttime = 1480409635;var listcolspan= '5';</script>
+<div id="forumnew" style="display:none"></div>
+<form method="post" autocomplete="off" name="moderate" id="moderate" action="forum.php?mod=topicadmin&amp;action=moderate&amp;fid=15&amp;infloat=yes&amp;nopost=yes">
+<input type="hidden" name="formhash" value="5f454b74" />
+<input type="hidden" name="listextra" value="page%3D1" />
+<table summary="forum_15" cellspacing="0" cellpadding="0" id="threadlisttableid">
+<tbody id="stickthread_2972">
+<tr>
+<td class="icn">
+<a href="thread-2972-1-1.html" title="全局置顶主题 - 新窗口打开" target="_blank">
+<img src="static/image/common/pin_3.gif" alt="全局置顶" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2972" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2972';CONTENT_ID='stickthread_2972';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+<a href="javascript:void(0);" onclick="hideStickThread('2972')" class="showhide y" title="隐藏置顶帖">隐藏置顶帖</a></em>
+ <a href="thread-2972-1-1.html" style="font-weight: bold;color: #2897C5;" onclick="atarget(this)" class="s xst">PL0 学生预习帖</a>
+ - [阅读权限 <span class="xw1">200</span>]<span class="tps">&nbsp;...<a href="thread-2972-2-1.html">2</a><a href="thread-2972-3-1.html">3</a><a href="thread-2972-4-1.html">4</a></span>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=1" c="1">admin</a></cite>
+<em><span>2015-6-16</span></em>
+</td>
+<td class="num"><a href="thread-2972-1-1.html" class="xi2">31</a><em>1591</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=%CB%CE%BD%A1" c="1">宋健</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2972&goto=lastpost#lastpost"><span title="2016-11-27 15:10">前天&nbsp;15:10</span></a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="stickthread_20">
+<tr>
+<td class="icn">
+<a href="thread-20-1-1.html" title="全局置顶主题 - 新窗口打开" target="_blank">
+<img src="static/image/common/pin_3.gif" alt="全局置顶" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_20" class="showcontent y" title="更多操作" onclick="CONTENT_TID='20';CONTENT_ID='stickthread_20';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+<a href="javascript:void(0);" onclick="hideStickThread('20')" class="showhide y" title="隐藏置顶帖">隐藏置顶帖</a></em>
+ <a href="thread-20-1-1.html" onclick="atarget(this)" class="s xst">ROAD 官方500人QQ群推荐</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=3" c="1">mike</a></cite>
+<em><span>2012-11-2</span></em>
+</td>
+<td class="num"><a href="thread-20-1-1.html" class="xi2">2</a><em>6305</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=karoro" c="1">karoro</a></cite>
+<em><a href="forum.php?mod=redirect&tid=20&goto=lastpost#lastpost">2016-11-19 11:42</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="stickthread_179">
+<tr>
+<td class="icn">
+<a href="thread-179-1-1.html" title="全局置顶主题 - 新窗口打开" target="_blank">
+<img src="static/image/common/pin_3.gif" alt="全局置顶" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_179" class="showcontent y" title="更多操作" onclick="CONTENT_TID='179';CONTENT_ID='stickthread_179';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+<a href="javascript:void(0);" onclick="hideStickThread('179')" class="showhide y" title="隐藏置顶帖">隐藏置顶帖</a></em>
+ <a href="thread-179-1-1.html" onclick="atarget(this)" class="s xst">用户积分和金钱通知</a>
+<img src="static/image/filetype/image_s.gif" alt="attach_img" title="图片附件" align="absmiddle" />
+<span class="tps">&nbsp;...<a href="thread-179-2-1.html">2</a></span>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=3" c="1">mike</a></cite>
+<em><span>2012-11-26</span></em>
+</td>
+<td class="num"><a href="thread-179-1-1.html" class="xi2">16</a><em>7585</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=karoro" c="1">karoro</a></cite>
+<em><a href="forum.php?mod=redirect&tid=179&goto=lastpost#lastpost">2016-11-19 11:41</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="stickthread_3197">
+<tr>
+<td class="icn">
+<a href="thread-3197-1-1.html" title="全局置顶主题 - 新窗口打开" target="_blank">
+<img src="static/image/common/pin_3.gif" alt="全局置顶" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_3197" class="showcontent y" title="更多操作" onclick="CONTENT_TID='3197';CONTENT_ID='stickthread_3197';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+<a href="javascript:void(0);" onclick="hideStickThread('3197')" class="showhide y" title="隐藏置顶帖">隐藏置顶帖</a></em>
+ <a href="thread-3197-1-1.html" onclick="atarget(this)" class="s xst">ML0、PL0、PL1教材链接</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=11840" c="1">zc@testroad.org</a></cite>
+<em><span>2016-4-27</span></em>
+</td>
+<td class="num"><a href="thread-3197-1-1.html" class="xi2">3</a><em>233</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=%BB%C6%D3%EE" c="1">黄宇</a></cite>
+<em><a href="forum.php?mod=redirect&tid=3197&goto=lastpost#lastpost">2016-8-3 18:26</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="stickthread_2974">
+<tr>
+<td class="icn">
+<a href="thread-2974-1-1.html" title="全局置顶主题 - 新窗口打开" target="_blank">
+<img src="static/image/common/pin_3.gif" alt="全局置顶" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2974" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2974';CONTENT_ID='stickthread_2974';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+<a href="javascript:void(0);" onclick="hideStickThread('2974')" class="showhide y" title="隐藏置顶帖">隐藏置顶帖</a></em>
+ <a href="thread-2974-1-1.html" style="font-weight: bold;color: #2897C5;" onclick="atarget(this)" class="s xst">ML0 学生预习帖</a>
+ - [阅读权限 <span class="xw1">200</span>]<img src="static/image/common/digest_1.gif" align="absmiddle" alt="digest" title="精华 1" />
+<span class="tps">&nbsp;...<a href="thread-2974-2-1.html">2</a><a href="thread-2974-3-1.html">3</a><a href="thread-2974-4-1.html">4</a><a href="thread-2974-5-1.html">5</a><a href="thread-2974-6-1.html">6</a>..<a href="thread-2974-22-1.html">22</a></span>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=1" c="1">admin</a></cite>
+<em><span>2015-6-16</span></em>
+</td>
+<td class="num"><a href="thread-2974-1-1.html" class="xi2">216</a><em>516</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=%BD%AA%C0%F6%D3%F1" c="1">姜丽玉</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2974&goto=lastpost#lastpost">2016-5-3 14:02</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="stickthread_2976">
+<tr>
+<td class="icn">
+<a href="thread-2976-1-1.html" title="全局置顶主题 - 新窗口打开" target="_blank">
+<img src="static/image/common/pin_3.gif" alt="全局置顶" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2976" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2976';CONTENT_ID='stickthread_2976';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+<a href="javascript:void(0);" onclick="hideStickThread('2976')" class="showhide y" title="隐藏置顶帖">隐藏置顶帖</a></em>
+ <a href="thread-2976-1-1.html" style="color: #2897C5;" onclick="atarget(this)" class="s xst">鲁德初中级L0 L1学生须知</a>
+<img src="static/image/common/digest_1.gif" align="absmiddle" alt="digest" title="精华 1" />
+<span class="tps">&nbsp;...<a href="thread-2976-2-1.html">2</a></span>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=1" c="1">admin</a></cite>
+<em><span>2015-6-19</span></em>
+</td>
+<td class="num"><a href="thread-2976-1-1.html" class="xi2">12</a><em>758</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=%CE%E2%C0%F6%D2%B6" c="1">吴丽叶</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2976&goto=lastpost#lastpost">2016-4-1 15:18</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="stickthread_2973">
+<tr>
+<td class="icn">
+<a href="thread-2973-1-1.html" title="全局置顶主题 - 新窗口打开" target="_blank">
+<img src="static/image/common/pin_3.gif" alt="全局置顶" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2973" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2973';CONTENT_ID='stickthread_2973';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+<a href="javascript:void(0);" onclick="hideStickThread('2973')" class="showhide y" title="隐藏置顶帖">隐藏置顶帖</a></em>
+ <a href="thread-2973-1-1.html" style="font-weight: bold;color: #2897C5;" onclick="atarget(this)" class="s xst">PL1 学生预习</a>
+ - [阅读权限 <span class="xw1">200</span>]<img src="static/image/common/digest_1.gif" align="absmiddle" alt="digest" title="精华 1" />
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=1" c="1">admin</a></cite>
+<em><span>2015-6-16</span></em>
+</td>
+<td class="num"><a href="thread-2973-1-1.html" class="xi2">2</a><em>623</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=%D5%D4%B5%A4" c="1">赵丹</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2973&goto=lastpost#lastpost">2016-3-19 10:58</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="stickthread_2612">
+<tr>
+<td class="icn">
+<a href="thread-2612-1-1.html" title="全局置顶主题 - 新窗口打开" target="_blank">
+<img src="static/image/common/pin_3.gif" alt="全局置顶" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2612" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2612';CONTENT_ID='stickthread_2612';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+<a href="javascript:void(0);" onclick="hideStickThread('2612')" class="showhide y" title="隐藏置顶帖">隐藏置顶帖</a></em>
+ <a href="thread-2612-1-1.html" style="color: #EE1B2E;background-color: #66FFFF;" onclick="atarget(this)" class="s xst">好消息！好消息！ROAD试听课视频下载</a>
+<img src="static/image/filetype/image_s.gif" alt="attach_img" title="图片附件" align="absmiddle" />
+<span class="tps">&nbsp;...<a href="thread-2612-2-1.html">2</a></span>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=94" c="1">wangyueyong</a></cite>
+<em><span>2014-1-22</span></em>
+</td>
+<td class="num"><a href="thread-2612-1-1.html" class="xi2">18</a><em>3838</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=%D6%A3%D0%A1%B4%BA" c="1">郑小春</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2612&goto=lastpost#lastpost">2015-12-8 14:48</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="stickthread_2490">
+<tr>
+<td class="icn">
+<a href="thread-2490-1-1.html" title="全局置顶主题 - 新窗口打开" target="_blank">
+<img src="static/image/common/pin_3.gif" alt="全局置顶" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2490" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2490';CONTENT_ID='stickthread_2490';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+<a href="javascript:void(0);" onclick="hideStickThread('2490')" class="showhide y" title="隐藏置顶帖">隐藏置顶帖</a></em>
+ <a href="thread-2490-1-1.html" onclick="atarget(this)" class="s xst">ROAD公开课视频集锦</a>
+<img src="static/image/filetype/common.gif" alt="attachment" title="附件" align="absmiddle" />
+<span class="tps">&nbsp;...<a href="thread-2490-2-1.html">2</a></span>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=3" c="1">mike</a></cite>
+<em><span>2013-12-11</span></em>
+</td>
+<td class="num"><a href="thread-2490-1-1.html" class="xi2">16</a><em>26728</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=%BD%AA%E6%C2%E6%C2" c="1">姜媛媛</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2490&goto=lastpost#lastpost">2015-9-25 22:55</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="stickthread_2504">
+<tr>
+<td class="icn">
+<a href="thread-2504-1-1.html" title="全局置顶主题 - 新窗口打开" target="_blank">
+<img src="static/image/common/pin_3.gif" alt="全局置顶" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2504" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2504';CONTENT_ID='stickthread_2504';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+<a href="javascript:void(0);" onclick="hideStickThread('2504')" class="showhide y" title="隐藏置顶帖">隐藏置顶帖</a></em>
+ <a href="thread-2504-1-1.html" style="font-weight: bold;font-style: italic;text-decoration: underline;color: #EE1B2E;" onclick="atarget(this)" class="s xst">2015-2016年度性能班L0 L1 L2课程安排（课后视频回放）</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=3" c="1">mike</a></cite>
+<em><span>2014-1-4</span></em>
+</td>
+<td class="num"><a href="thread-2504-1-1.html" class="xi2">2</a><em>4051</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=children009" c="1">children009</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2504&goto=lastpost#lastpost">2015-7-22 08:41</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="stickthread_915">
+<tr>
+<td class="icn">
+<a href="thread-915-1-1.html" title="全局置顶主题 - 新窗口打开" target="_blank">
+<img src="static/image/common/pin_3.gif" alt="全局置顶" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_915" class="showcontent y" title="更多操作" onclick="CONTENT_TID='915';CONTENT_ID='stickthread_915';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+<a href="javascript:void(0);" onclick="hideStickThread('915')" class="showhide y" title="隐藏置顶帖">隐藏置顶帖</a></em>
+ <a href="thread-915-1-1.html" onclick="atarget(this)" class="s xst">移动安卓手机测试班火热招生</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=3" c="1">mike</a></cite>
+<em><span>2013-4-18</span></em>
+</td>
+<td class="num"><a href="thread-915-1-1.html" class="xi2">1</a><em>4383</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=%D1%A6%CF%FE%C3%F7" c="1">薛晓明</a></cite>
+<em><a href="forum.php?mod=redirect&tid=915&goto=lastpost#lastpost">2015-7-19 19:11</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="stickthread_2611">
+<tr>
+<td class="icn">
+<a href="thread-2611-1-1.html" title="全局置顶主题 - 新窗口打开" target="_blank">
+<img src="static/image/common/pin_3.gif" alt="全局置顶" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2611" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2611';CONTENT_ID='stickthread_2611';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+<a href="javascript:void(0);" onclick="hideStickThread('2611')" class="showhide y" title="隐藏置顶帖">隐藏置顶帖</a></em>
+ <a href="thread-2611-1-1.html" style="font-weight: bold;color: #2897C5;" onclick="atarget(this)" class="s xst">L1 5期 课程安排</a>
+<img src="static/image/filetype/common.gif" alt="attachment" title="附件" align="absmiddle" />
+<span class="tps">&nbsp;...<a href="thread-2611-2-1.html">2</a></span>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=1" c="1">admin</a></cite>
+<em><span>2014-1-21</span></em>
+</td>
+<td class="num"><a href="thread-2611-1-1.html" class="xi2">13</a><em>312</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=guoguo" c="1">guoguo</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2611&goto=lastpost#lastpost">2013-6-19 11:45</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="stickthread_42">
+<tr>
+<td class="icn">
+<a href="thread-42-1-1.html" title="全局置顶主题 - 新窗口打开" target="_blank">
+<img src="static/image/common/pin_3.gif" alt="全局置顶" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_42" class="showcontent y" title="更多操作" onclick="CONTENT_TID='42';CONTENT_ID='stickthread_42';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+<a href="javascript:void(0);" onclick="hideStickThread('42')" class="showhide y" title="隐藏置顶帖">隐藏置顶帖</a></em>
+ <a href="thread-42-1-1.html" onclick="atarget(this)" class="s xst">学员天地的访问公告</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=3" c="1">mike</a></cite>
+<em><span>2012-11-5</span></em>
+</td>
+<td class="num"><a href="thread-42-1-1.html" class="xi2">2</a><em>5143</em></td>
+<td class="by">
+<cite>匿名</cite>
+<em><a href="forum.php?mod=redirect&tid=42&goto=lastpost#lastpost">2013-1-5 14:20</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="stickthread_18">
+<tr>
+<td class="icn">
+<a href="thread-18-1-1.html" title="全局置顶主题 - 新窗口打开" target="_blank">
+<img src="static/image/common/pin_3.gif" alt="全局置顶" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_18" class="showcontent y" title="更多操作" onclick="CONTENT_TID='18';CONTENT_ID='stickthread_18';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+<a href="javascript:void(0);" onclick="hideStickThread('18')" class="showhide y" title="隐藏置顶帖">隐藏置顶帖</a></em>
+ <a href="thread-18-1-1.html" style="color: #2B65B7;" onclick="atarget(this)" class="s xst">关于发广告帖子的通知</a>
+<span class="tps">&nbsp;...<a href="thread-18-2-1.html">2</a></span>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=3" c="1">mike</a></cite>
+<em><span>2012-11-2</span></em>
+</td>
+<td class="num"><a href="thread-18-1-1.html" class="xi2">13</a><em>8120</em></td>
+<td class="by">
+<cite>匿名</cite>
+<em><a href="forum.php?mod=redirect&tid=18&goto=lastpost#lastpost">2012-12-13 22:38</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="separatorline">
+<tr class="ts">
+<td>&nbsp;</td>
+<th><a href="javascript:;" onclick="checkForumnew_btn('15')" title="查看更新" class="forumrefresh">版块主题</a></th><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td>
+</tr>
+</tbody>
+<script type="text/javascript">hideStickThread();</script>
+<tbody id="normalthread_2239">
+<tr>
+<td class="icn">
+<a href="thread-2239-1-1.html" title="新窗口打开" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2239" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2239';CONTENT_ID='normalthread_2239';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+ <a href="thread-2239-1-1.html" onclick="atarget(this)" class="s xst">功能和性能测试经验谈</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=593" c="1">潜龙</a></cite>
+<em><span>2013-7-19</span></em>
+</td>
+<td class="num"><a href="thread-2239-1-1.html" class="xi2">1</a><em>1261</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=%B3%C2%B7%BD%B3%AC" c="1">陈方超</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2239&goto=lastpost#lastpost"><span title="2016-11-28 21:05">昨天&nbsp;21:05</span></a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="normalthread_2401">
+<tr>
+<td class="icn">
+<a href="thread-2401-1-1.html" title="新窗口打开" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2401" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2401';CONTENT_ID='normalthread_2401';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+ <a href="thread-2401-1-1.html" onclick="atarget(this)" class="s xst">自动化测试经验的悖论</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=9225" c="1">暗夜的吉他</a></cite>
+<em><span>2013-9-2</span></em>
+</td>
+<td class="num"><a href="thread-2401-1-1.html" class="xi2">1</a><em>1159</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=%B3%C2%B7%BD%B3%AC" c="1">陈方超</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2401&goto=lastpost#lastpost"><span title="2016-11-28 21:05">昨天&nbsp;21:05</span></a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="normalthread_2226">
+<tr>
+<td class="icn">
+<a href="thread-2226-1-1.html" title="新窗口打开" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2226" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2226';CONTENT_ID='normalthread_2226';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+ <a href="thread-2226-1-1.html" onclick="atarget(this)" class="s xst">国产软件产品易用性何去何从</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=593" c="1">潜龙</a></cite>
+<em><span>2013-7-18</span></em>
+</td>
+<td class="num"><a href="thread-2226-1-1.html" class="xi2">1</a><em>1037</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=%B3%C2%B7%BD%B3%AC" c="1">陈方超</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2226&goto=lastpost#lastpost"><span title="2016-11-28 21:02">昨天&nbsp;21:02</span></a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="normalthread_2283">
+<tr>
+<td class="icn">
+<a href="thread-2283-1-1.html" title="新窗口打开" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2283" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2283';CONTENT_ID='normalthread_2283';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+ <a href="thread-2283-1-1.html" onclick="atarget(this)" class="s xst">一个老测试员对测试理解</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=9225" c="1">暗夜的吉他</a></cite>
+<em><span>2013-8-18</span></em>
+</td>
+<td class="num"><a href="thread-2283-1-1.html" class="xi2">2</a><em>985</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=karoro" c="1">karoro</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2283&goto=lastpost#lastpost">2016-11-19 11:44</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="normalthread_2236">
+<tr>
+<td class="icn">
+<a href="thread-2236-1-1.html" title="新窗口打开" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2236" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2236';CONTENT_ID='normalthread_2236';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+ <a href="thread-2236-1-1.html" onclick="atarget(this)" class="s xst">软件测试工具比较</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=593" c="1">潜龙</a></cite>
+<em><span>2013-7-18</span></em>
+</td>
+<td class="num"><a href="thread-2236-1-1.html" class="xi2">1</a><em>1130</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=%D0%ED%D0%A1%B1%F3" c="1">许小斌</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2236&goto=lastpost#lastpost">2016-11-9 22:53</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="normalthread_2183">
+<tr>
+<td class="icn">
+<a href="thread-2183-1-1.html" title="新窗口打开" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2183" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2183';CONTENT_ID='normalthread_2183';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+ <a href="thread-2183-1-1.html" onclick="atarget(this)" class="s xst">在设计和执行测试用例的时候的几点心得和经验</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=593" c="1">潜龙</a></cite>
+<em><span>2013-7-15</span></em>
+</td>
+<td class="num"><a href="thread-2183-1-1.html" class="xi2">5</a><em>1743</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=c19985" c="1">c19985</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2183&goto=lastpost#lastpost">2016-11-8 16:03</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="normalthread_2289">
+<tr>
+<td class="icn">
+<a href="thread-2289-1-1.html" title="新窗口打开" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2289" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2289';CONTENT_ID='normalthread_2289';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+ <a href="thread-2289-1-1.html" onclick="atarget(this)" class="s xst">扫盲————内存泄漏的有关知识</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=9225" c="1">暗夜的吉他</a></cite>
+<em><span>2013-8-18</span></em>
+</td>
+<td class="num"><a href="thread-2289-1-1.html" class="xi2">2</a><em>1201</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=c19985" c="1">c19985</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2289&goto=lastpost#lastpost">2016-11-8 15:58</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="normalthread_124">
+<tr>
+<td class="icn">
+<a href="thread-124-1-1.html" title="新窗口打开" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_124" class="showcontent y" title="更多操作" onclick="CONTENT_TID='124';CONTENT_ID='normalthread_124';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+ <a href="thread-124-1-1.html" onclick="atarget(this)" class="s xst">测试方案设计</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=3" c="1">mike</a></cite>
+<em><span>2012-11-15</span></em>
+</td>
+<td class="num"><a href="thread-124-1-1.html" class="xi2">4</a><em>2835</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=c19985" c="1">c19985</a></cite>
+<em><a href="forum.php?mod=redirect&tid=124&goto=lastpost#lastpost">2016-11-8 15:57</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="normalthread_2284">
+<tr>
+<td class="icn">
+<a href="thread-2284-1-1.html" title="新窗口打开" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2284" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2284';CONTENT_ID='normalthread_2284';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+ <a href="thread-2284-1-1.html" onclick="atarget(this)" class="s xst">什么样的测试人员是好的测试人员</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=9225" c="1">暗夜的吉他</a></cite>
+<em><span>2013-8-18</span></em>
+</td>
+<td class="num"><a href="thread-2284-1-1.html" class="xi2">1</a><em>1091</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=%D6%EC%D1%E0" c="1">朱燕</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2284&goto=lastpost#lastpost">2016-6-29 20:05</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="normalthread_2235">
+<tr>
+<td class="icn">
+<a href="thread-2235-1-1.html" title="新窗口打开" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2235" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2235';CONTENT_ID='normalthread_2235';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+ <a href="thread-2235-1-1.html" onclick="atarget(this)" class="s xst">性能测试指标介绍</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=593" c="1">潜龙</a></cite>
+<em><span>2013-7-18</span></em>
+</td>
+<td class="num"><a href="thread-2235-1-1.html" class="xi2">2</a><em>1162</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=%B4%DE%BC%CE" c="1">崔嘉</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2235&goto=lastpost#lastpost">2016-6-28 18:43</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="normalthread_2229">
+<tr>
+<td class="icn">
+<a href="thread-2229-1-1.html" title="新窗口打开" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2229" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2229';CONTENT_ID='normalthread_2229';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+ <a href="thread-2229-1-1.html" onclick="atarget(this)" class="s xst">详解:网站安全保护方法</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=593" c="1">潜龙</a></cite>
+<em><span>2013-7-18</span></em>
+</td>
+<td class="num"><a href="thread-2229-1-1.html" class="xi2">1</a><em>1070</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=%B4%DE%BC%CE" c="1">崔嘉</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2229&goto=lastpost#lastpost">2016-6-28 18:41</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="normalthread_2258">
+<tr>
+<td class="icn">
+<a href="thread-2258-1-1.html" title="新窗口打开" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2258" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2258';CONTENT_ID='normalthread_2258';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+ <a href="thread-2258-1-1.html" onclick="atarget(this)" class="s xst">51TESTING培训资料分享</a>
+<span class="tps">&nbsp;...<a href="thread-2258-2-1.html">2</a></span>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=9230" c="1">road前行</a></cite>
+<em><span>2013-8-1</span></em>
+</td>
+<td class="num"><a href="thread-2258-1-1.html" class="xi2">11</a><em>2237</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=%D6%EC%B8%DF%BE%D9" c="1">朱高举</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2258&goto=lastpost#lastpost">2016-6-8 00:24</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="normalthread_2286">
+<tr>
+<td class="icn">
+<a href="thread-2286-1-1.html" title="新窗口打开" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2286" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2286';CONTENT_ID='normalthread_2286';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+ <a href="thread-2286-1-1.html" onclick="atarget(this)" class="s xst">软件测试组织与方法</a>
+<img src="static/image/filetype/image_s.gif" alt="attach_img" title="图片附件" align="absmiddle" />
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=9225" c="1">暗夜的吉他</a></cite>
+<em><span>2013-8-18</span></em>
+</td>
+<td class="num"><a href="thread-2286-1-1.html" class="xi2">2</a><em>1232</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=%CD%F2%D3%D0%D2%FD%C1%A64645" c="1">万有引力4645</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2286&goto=lastpost#lastpost">2016-4-8 10:57</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="normalthread_2285">
+<tr>
+<td class="icn">
+<a href="thread-2285-1-1.html" title="新窗口打开" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2285" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2285';CONTENT_ID='normalthread_2285';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+ <a href="thread-2285-1-1.html" onclick="atarget(this)" class="s xst">谈谈"如何书写测试报告"</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=9225" c="1">暗夜的吉他</a></cite>
+<em><span>2013-8-18</span></em>
+</td>
+<td class="num"><a href="thread-2285-1-1.html" class="xi2">2</a><em>1177</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=GGGGGGGBong" c="1">GGGGGGGBong</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2285&goto=lastpost#lastpost">2016-2-18 15:32</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="normalthread_2290">
+<tr>
+<td class="icn">
+<a href="thread-2290-1-1.html" title="新窗口打开" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2290" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2290';CONTENT_ID='normalthread_2290';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+ <a href="thread-2290-1-1.html" onclick="atarget(this)" class="s xst">软件回归测试及其实践</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=9225" c="1">暗夜的吉他</a></cite>
+<em><span>2013-8-18</span></em>
+</td>
+<td class="num"><a href="thread-2290-1-1.html" class="xi2">2</a><em>1214</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=%C9%EA%D1%DE%C7%D9" c="1">申艳琴</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2290&goto=lastpost#lastpost">2015-8-26 15:59</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="normalthread_2687">
+<tr>
+<td class="icn">
+<a href="thread-2687-1-1.html" title="新窗口打开" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2687" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2687';CONTENT_ID='normalthread_2687';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+ <a href="thread-2687-1-1.html" onclick="atarget(this)" class="s xst">手工测试怎么做回归测试？</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=10324" c="1">清清</a></cite>
+<em><span>2014-3-20</span></em>
+</td>
+<td class="num"><a href="thread-2687-1-1.html" class="xi2">2</a><em>534</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=nice_idea" c="1">nice_idea</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2687&goto=lastpost#lastpost">2014-9-1 15:18</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="normalthread_2241">
+<tr>
+<td class="icn">
+<a href="thread-2241-1-1.html" title="新窗口打开" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_2241" class="showcontent y" title="更多操作" onclick="CONTENT_TID='2241';CONTENT_ID='normalthread_2241';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+ <a href="thread-2241-1-1.html" onclick="atarget(this)" class="s xst">Test Complete的性能记录方法</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=593" c="1">潜龙</a></cite>
+<em><span>2013-7-19</span></em>
+</td>
+<td class="num"><a href="thread-2241-1-1.html" class="xi2">1</a><em>1725</em></td>
+<td class="by">
+<cite><a href="home.php?mod=space&username=zpchanel" c="1">zpchanel</a></cite>
+<em><a href="forum.php?mod=redirect&tid=2241&goto=lastpost#lastpost">2014-3-13 21:59</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="normalthread_106">
+<tr>
+<td class="icn">
+<a href="thread-106-1-1.html" title="新窗口打开" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_106" class="showcontent y" title="更多操作" onclick="CONTENT_TID='106';CONTENT_ID='normalthread_106';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+ <a href="thread-106-1-1.html" onclick="atarget(this)" class="s xst">[分享]基础测试用例的作用</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=33" c="1">chenkunlong</a></cite>
+<em><span>2012-11-13</span></em>
+</td>
+<td class="num"><a href="thread-106-1-1.html" class="xi2">9</a><em>4865</em></td>
+<td class="by">
+<cite>匿名</cite>
+<em><a href="forum.php?mod=redirect&tid=106&goto=lastpost#lastpost">2013-12-4 21:21</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="normalthread_177">
+<tr>
+<td class="icn">
+<a href="thread-177-1-1.html" title="新窗口打开" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_177" class="showcontent y" title="更多操作" onclick="CONTENT_TID='177';CONTENT_ID='normalthread_177';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+ <a href="thread-177-1-1.html" onclick="atarget(this)" class="s xst">软件测试——等价类划分法用例设计：河北师范大学软件学院魏娜娣老师主讲</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=3" c="1">mike</a></cite>
+<em><span>2012-11-26</span></em>
+</td>
+<td class="num"><a href="thread-177-1-1.html" class="xi2">1</a><em>3323</em></td>
+<td class="by">
+<cite>匿名</cite>
+<em><a href="forum.php?mod=redirect&tid=177&goto=lastpost#lastpost">2013-12-4 19:41</a></em>
+</td>
+</tr>
+</tbody>
+<tbody id="normalthread_186">
+<tr>
+<td class="icn">
+<a href="thread-186-1-1.html" title="新窗口打开" target="_blank">
+<img src="static/image/common/folder_common.gif" />
+</a>
+</td>
+<th class="common">
+<a href="javascript:;" id="content_186" class="showcontent y" title="更多操作" onclick="CONTENT_TID='186';CONTENT_ID='normalthread_186';showMenu({'ctrlid':this.id,'menuid':'content_menu'})"></a>
+ <a href="thread-186-1-1.html" onclick="atarget(this)" class="s xst">测试用例设计</a>
+</th>
+<td class="by">
+<cite>
+<a href="home.php?mod=space&amp;uid=3" c="1">mike</a></cite>
+<em><span>2012-11-27</span></em>
+</td>
+<td class="num"><a href="thread-186-1-1.html" class="xi2">1</a><em>3074</em></td>
+<td class="by">
+<cite>匿名</cite>
+<em><a href="forum.php?mod=redirect&tid=186&goto=lastpost#lastpost">2013-12-2 22:56</a></em>
+</td>
+</tr>
+</tbody>
+</table><!-- end of table "forum_G[fid]" branch 1/3 -->
+</form>
+</div>
+</div>
+
+<div id="filter_special_menu" class="p_pop" style="display:none" change="location.href='forum.php?mod=forumdisplay&fid=15&filter='+$('filter_special').value">
+<ul>
+<li><a href="forum-15-1.html">全部主题</a></li>
+<li><a href="forum.php?mod=forumdisplay&amp;fid=15&amp;filter=specialtype&amp;specialtype=poll">投票</a></li><li><a href="forum.php?mod=forumdisplay&amp;fid=15&amp;filter=specialtype&amp;specialtype=trade">商品</a></li><li><a href="forum.php?mod=forumdisplay&amp;fid=15&amp;filter=specialtype&amp;specialtype=reward">悬赏</a></li><li><a href="forum.php?mod=forumdisplay&amp;fid=15&amp;filter=specialtype&amp;specialtype=activity">活动</a></li><li><a href="forum.php?mod=forumdisplay&amp;fid=15&amp;filter=specialtype&amp;specialtype=debate">辩论</a></li></ul>
+</div>
+<div id="filter_reward_menu" class="p_pop" style="display:none" change="forum.php?mod=forumdisplay&amp;fid=15&amp;filter=specialtype&amp;specialtype=reward&amp;rewardtype='+$('filter_reward').value">
+<ul>
+<li><a href="forum.php?mod=forumdisplay&amp;fid=15&amp;filter=specialtype&amp;specialtype=reward">全部悬赏</a></li>
+<li><a href="forum.php?mod=forumdisplay&amp;fid=15&amp;filter=specialtype&amp;specialtype=reward&amp;rewardtype=1">进行中</a></li><li><a href="forum.php?mod=forumdisplay&amp;fid=15&amp;filter=specialtype&amp;specialtype=reward&amp;rewardtype=2">已解决</a></li></ul>
+</div>
+<div id="filter_dateline_menu" class="p_pop" style="display:none">
+<ul class="pop_moremenu">
+<li>排序: 
+<a href="forum.php?mod=forumdisplay&amp;fid=15&amp;filter=author&amp;orderby=dateline" >发帖时间</a><span class="pipe">|</span>
+<a href="forum.php?mod=forumdisplay&amp;fid=15&amp;filter=reply&amp;orderby=replies" >回复/查看</a><span class="pipe">|</span>
+<a href="forum.php?mod=forumdisplay&amp;fid=15&amp;filter=reply&amp;orderby=views" >查看</a>
+</li>
+<li>时间: 
+<a href="forum.php?mod=forumdisplay&amp;fid=15&amp;orderby=lastpost&amp;filter=dateline" class="xw1">全部时间</a><span class="pipe">|</span>
+<a href="forum.php?mod=forumdisplay&amp;fid=15&amp;orderby=lastpost&amp;filter=dateline&amp;dateline=86400" >一天</a><span class="pipe">|</span>
+<a href="forum.php?mod=forumdisplay&amp;fid=15&amp;orderby=lastpost&amp;filter=dateline&amp;dateline=172800" >两天</a><span class="pipe">|</span>
+<a href="forum.php?mod=forumdisplay&amp;fid=15&amp;orderby=lastpost&amp;filter=dateline&amp;dateline=604800" >一周</a><span class="pipe">|</span>
+<a href="forum.php?mod=forumdisplay&amp;fid=15&amp;orderby=lastpost&amp;filter=dateline&amp;dateline=2592000" >一个月</a><span class="pipe">|</span>
+<a href="forum.php?mod=forumdisplay&amp;fid=15&amp;orderby=lastpost&amp;filter=dateline&amp;dateline=7948800" >三个月</a>
+</li>
+</ul>
+</div>
+<div id="filter_orderby_menu" class="p_pop" style="display:none">
+<ul>
+<li><a href="forum-15-1.html">默认排序</a></li>
+<li><a href="forum.php?mod=forumdisplay&amp;fid=15&amp;filter=author&amp;orderby=dateline">发帖时间</a></li>
+<li><a href="forum.php?mod=forumdisplay&amp;fid=15&amp;filter=reply&amp;orderby=replies">回复/查看</a></li>
+<li><a href="forum.php?mod=forumdisplay&amp;fid=15&amp;filter=reply&amp;orderby=views">查看</a></li>
+<li><a href="forum.php?mod=forumdisplay&amp;fid=15&amp;filter=lastpost&amp;orderby=lastpost">最后发表</a></li>
+<li><a href="forum.php?mod=forumdisplay&amp;fid=15&amp;filter=heat&amp;orderby=heats">热门</a></li>
+</ul>
+</div>
+<a class="bm_h" href="javascript:;" rel="forum.php?mod=forumdisplay&fid=15&page=2" curpage="1" id="autopbn" totalpage="27" picstyle="0" forumdefstyle="">下一页 &raquo;</a>
+<script src="data/cache/autoloadpage.js?I6Q" type="text/javascript"></script>
+<div class="bm bw0 pgs cl">
+<span id="fd_page_bottom"><div class="pg"><strong>1</strong><a href="forum-15-2.html">2</a><a href="forum-15-3.html">3</a><a href="forum-15-4.html">4</a><a href="forum-15-5.html">5</a><a href="forum-15-6.html">6</a><a href="forum-15-7.html">7</a><a href="forum-15-8.html">8</a><a href="forum-15-9.html">9</a><a href="forum-15-10.html">10</a><a href="forum-15-27.html" class="last">... 27</a><label><input type="text" name="custompage" class="px" size="2" title="输入页码，按回车快速跳转" value="1" onkeydown="if(event.keyCode==13) {window.location='forum.php?mod=forumdisplay&fid=15&amp;page='+this.value;; doane(event);}" /><span title="共 27 页"> / 27 页</span></label><a href="forum-15-2.html" class="nxt">下一页</a></div></span>
+<span  class="pgb y"><a href="forum.php">返&nbsp;回</a></span>
+<a href="javascript:;" id="newspecialtmp" onmouseover="$('newspecial').id = 'newspecialtmp';this.id = 'newspecial';showMenu({'ctrlid':this.id})" onclick="showWindow('newthread', 'forum.php?mod=post&action=newthread&fid=15')" title="发新帖"><img src="static/image/common/pn_post.png" alt="发新帖" /></a></div>
+<!--[diy=diyfastposttop]--><div id="diyfastposttop" class="area"></div><!--[/diy]-->
+<script type="text/javascript">
+var postminchars = parseInt('10');
+var postmaxchars = parseInt('10000');
+var disablepostctrl = parseInt('0');
+var fid = parseInt('15');
+</script>
+<div id="f_pst" class="bm">
+<div class="bm_h">
+<h2>快速发帖</h2>
+</div>
+<div class="bm_c">
+<form method="post" autocomplete="off" id="fastpostform" action="forum.php?mod=post&amp;action=newthread&amp;fid=15&amp;topicsubmit=yes&amp;infloat=yes&amp;handlekey=fastnewpost" onSubmit="return fastpostvalidate(this)">
+
+<div id="fastpostreturn" style="margin:-5px 0 5px"></div>
+
+<div class="pbt cl">
+<input type="text" id="subject" name="subject" class="px" value="" onkeyup="strLenCalc(this, 'checklen', 80);" tabindex="11" style="width: 25em" />
+<span>还可输入 <strong id="checklen">80</strong> 个字符</span>
+</div>
+
+<div class="cl">
+<div id="fastsmiliesdiv" class="y"><div id="fastsmiliesdiv_data"><div id="fastsmilies"></div></div></div><div class="hasfsl" id="fastposteditor">
+<div class="tedt">
+<div class="bar">
+<span class="y">
+<a href="forum.php?mod=post&amp;action=newthread&amp;fid=15" onclick="switchAdvanceMode(this.href);doane(event);">高级模式</a>
+</span><script src="data/cache/seditor.js?I6Q" type="text/javascript"></script>
+<div class="fpd">
+<a href="javascript:;" title="文字加粗" class="fbld">B</a>
+<a href="javascript:;" title="设置文字颜色" class="fclr" id="fastpostforecolor">Color</a>
+<a id="fastpostimg" href="javascript:;" title="图片" class="fmg">Image</a>
+<a id="fastposturl" href="javascript:;" title="添加链接" class="flnk">Link</a>
+<a id="fastpostquote" href="javascript:;" title="引用" class="fqt">Quote</a>
+<a id="fastpostcode" href="javascript:;" title="代码" class="fcd">Code</a>
+<a href="javascript:;" class="fsml" id="fastpostsml">Smilies</a>
+</div></div>
+<div class="area">
+<div class="pt hm">
+您需要登录后才可以发帖 <a href="member.php?mod=logging&amp;action=login" onclick="showWindow('login', this.href)" class="xi2">登录</a> | <a href="member.php?mod=register" class="xi2">立即注册</a>
+
+
+<a href="http://bbs.testroad.org/connect.php?mod=login&op=init&referer=forum.php%3Fmod%3Dforumdisplay%26fid%3D15%26page%3D1&statfrom=login" target="_top" rel="nofollow"><img src="static/image/common/qq_login.gif" class="vm" /></a>
+
+</div>
+</div>
+</div>
+</div>
+<div id="seccheck_fastpost">
+<div class="mtm"><span id="secqaa_qSSKSJiy"></span>		
+<script type="text/javascript" reload="1">updatesecqaa('qSSKSJiy', '<sec> <span id="sec<hash>" onclick="showMenu(this.id)"><sec></span><div id="sec<hash>_menu" class="p_pop p_opt" style="display:none"><sec></div>', 'forum::forumdisplay');</script>
+</div></div>
+
+<input type="hidden" name="formhash" value="5f454b74" />
+<input type="hidden" name="usesig" value="" />
+</div>
+
+
+<p class="ptm pnpost">
+<a href="home.php?mod=spacecp&amp;ac=credit&amp;op=rule&amp;fid=15" class="y" target="_blank">本版积分规则</a>
+<button type="submit" onmouseover="checkpostrule('seccheck_fastpost', 'ac=newthread');this.onmouseover=null" name="topicsubmit" id="fastpostsubmit" value="topicsubmit" tabindex="13" class="pn pnc"><strong>发表帖子</strong></button>
+<label><input type="checkbox" name="adddynamic" class="pc" value="1"  />转播给听众</label>
+</p>
+</form>
+</div>
+</div>
+<!--[diy=diyforumdisplaybottom]--><div id="diyforumdisplaybottom" class="area"></div><!--[/diy]-->
+</div>
+
+</div>
+</div>
+<script type="text/javascript">document.onkeyup = function(e){keyPageScroll(e, 0, 1, 'forum.php?mod=forumdisplay&fid=15&filter=&orderby=lastpost&', 1);}</script>
+<script type="text/javascript">checkForumnew_handle = setTimeout(function () {checkForumnew(15, lasttime);}, checkForumtimeout);</script>
+<div class="wp mtn">
+<!--[diy=diy3]--><div id="diy3" class="area"></div><!--[/diy]-->
+</div>
+<script>fixed_top_nv();</script></div>
+<div class="focus" id="sitefocus">
+<div class="bm">
+<div class="bm_h cl">
+<a href="javascript:;" onclick="setcookie('nofocus_forum', 1, 0*3600);$('sitefocus').style.display='none'" class="y" title="关闭">关闭</a>
+<h2>
+站长推荐<span id="focus_ctrl" class="fctrl"><img src="static/image/common/pic_nv_prev.gif" alt="上一条" title="上一条" id="focusprev" class="cur1" onclick="showfocus('prev');" /> <em><span id="focuscur"></span>/3</em> <img src="static/image/common/pic_nv_next.gif" alt="下一条" title="下一条" id="focusnext" class="cur1" onclick="showfocus('next')" /></span>
+</h2>
+</div>
+<div class="bm_c" id="focus_con">
+</div>
+</div>
+</div><div class="bm_c" style="display: none" id="focus_0">
+<dl class="xld cl bbda">
+<dt><a href="http://www.testroad.org/news/?20_220.html" class="xi2" target="_blank">性能测试你会吗？薪资你够了吗？</a></dt>
+<dd>1、很多人每天机械地重复着功能测试工作，不知道下一步该如何发展；
+2、有些人虽然从测试工程师做到了测试经理的职位，依然感觉前途渺茫，对自己的技术没有信心，怕有一天被新生代所取代；
+3、由于企业不重视测试人员的培养，另加个人自学道路的艰难，使得测试之路显得荆棘密布。
+
+    该如何突破个人目前的职业发展瓶颈呢？ROAD培训推出技能突破和强化性能测试课程，能够让大家的技能得以提升，职业发展规划更加清晰，使您前（钱）途更加光明！</dd>
+</dl>
+<p class="ptn cl"><a href="http://www.testroad.org/news/?20_220.html" class="xi2 y" target="_blank">查看 &raquo;</a></p>
+</div><div class="bm_c" style="display: none" id="focus_1">
+<dl class="xld cl bbda">
+<dt><a href="http://bbs.testroad.org/thread-2712-1-1.html" class="xi2" target="_blank">上海诺西-美工妹子 征有</a></dt>
+<dd class="m"><a href="http://bbs.testroad.org/thread-2712-1-1.html" target="_blank"><img src="/data/attachment/forum/201404/01/103413ruyxfuf5ky15z535.jpg" alt="上海诺西-美工妹子 征有" /></a></dd>
+<dd>   赶紧来发帖和照片来征集自己的未来男友吧～
+   ROAD 免费帮你推广。。。</dd>
+</dl>
+<p class="ptn cl"><a href="http://bbs.testroad.org/thread-2712-1-1.html" class="xi2 y" target="_blank">查看 &raquo;</a></p>
+</div><div class="bm_c" style="display: none" id="focus_2">
+<dl class="xld cl bbda">
+<dt><a href="http://pan.baidu.com/s/12BAl4" class="xi2" target="_blank">Loadrunner分析简单吗？</a></dt>
+<dd>很多时候我们都是从自学LR ，会录制会做报告后就觉得 会性能了，打错特错，为什么这么说 ？ 请看视频公开课 LR 报告如何闷人</dd>
+</dl>
+<p class="ptn cl"><a href="http://pan.baidu.com/s/12BAl4" class="xi2 y" target="_blank">查看 &raquo;</a></p>
+</div><script type="text/javascript">
+var focusnum = 3;
+if(focusnum < 2) {
+$('focus_ctrl').style.display = 'none';
+}
+if(!$('focuscur').innerHTML) {
+var randomnum = parseInt(Math.round(Math.random() * focusnum));
+$('focuscur').innerHTML = Math.max(1, randomnum);
+}
+showfocus();
+var focusautoshow = window.setInterval('showfocus(\'next\', 1);', 5000);
+</script>
+
+
+
+
+<script type="text/javascript">
+_attachEvent(window, 'load', getForbiddenFormula, document);
+function getForbiddenFormula() {
+var toGetForbiddenFormulaFIds = function () {
+ajaxget('plugin.php?id=cloudsearch&formhash=5f454b74');
+};
+var a = document.body.getElementsByTagName('a');
+for(var i = 0;i < a.length;i++){
+if(a[i].getAttribute('sc')) {
+a[i].setAttribute('mid', hash(a[i].href));
+a[i].onmousedown = function() {toGetForbiddenFormulaFIds();};
+}
+}
+var btn = document.body.getElementsByTagName('button');
+for(var i = 0;i < btn.length;i++){
+if(btn[i].getAttribute('sc')) {
+btn[i].setAttribute('mid', hash(btn[i].id));
+btn[i].onmousedown = function() {toGetForbiddenFormulaFIds();};
+}
+}
+}
+</script>
+
+<div id="ft" class="comeing_ft cl">
+<div class="wp cl">
+        <p>
+    <a href="http://wpa.qq.com/msgrd?V=3&amp;Uin=4008779565&amp;Site=Road_testing&amp;Menu=yes&amp;from=discuz" target="_blank" title="QQ"><img src="static/image/common/site_qq.jpg" alt="QQ" /></a><span class="pipe">|</span>    <a href="forum.php?mod=misc&action=showdarkroom" >小黑屋</a><span class="pipe">|</span><a href="forum.php?mobile=yes" >手机版</a><span class="pipe">|</span><a href="archiver/" >Archiver</a><span class="pipe">|</span>        <strong><a href="http://www.testroad.org/" target="_blank">Road_BBS</a></strong>
+    &nbsp;<a href="http://discuz.qq.com/service/security" target="_blank" title="防水墙保卫网站远离侵害"><img src="static/image/common/security.png"></a>    &nbsp;&nbsp;<span id="tcss"></span><script type="text/javascript" src="http://tcss.qq.com/ping.js?v=1I6Q" charset="utf-8"></script><script type="text/javascript" reload="1">pgvMain({"discuzParams":{"r2":"30214883","ui":0,"rt":"forum","md":"forumdisplay","fi":"15","pn":1,"qq":"000","logo":10},"extraParams":""});</script><script type="text/javascript">
+window._qzone_share_pick_cfg = {
+'url' : location.href,
+'desc' : '',/*默认分享理由(可选)*/
+'summary' : '',/*分享摘要(可选)*/
+'title' : '',/*分享标题(可选)*/
+'site' : '',/*分享来源 如：腾讯网(可选)*/
+'img_pick' : {
+'@style' : 103,
+'body' : {}
+}
+};
+</script>
+<script type="text/javascript" src="http://qzonestyle.gtimg.cn/qzone/app/qzshare/script/qzshare.plus.pick.js" async="true" charset="utf-8"></script>
+<script type="text/javascript">
+(function(){
+var p = {
+url:location.href, /*获取URL，可加上来自分享到QQ标识，方便统计*/
+desc:'', /*分享理由(风格应模拟用户对话),支持多分享语随机展现（使用|分隔）*/
+title:'', /*分享标题(可选)*/
+summary:'', /*分享摘要(可选)*/
+pics:'', /*分享图片(可选)*/
+flash: '', /*视频地址(可选)*/
+site:'', /*分享来源(可选) 如：QQ分享*/
+style:'101',
+width:96,
+height:24
+};
+var s = [];
+for(var i in p){
+s.push(i + '=' + encodeURIComponent(p[i]||''));
+}
+document.write(['<a class="qcShareQQDiv" href="http://connect.qq.com/widget/shareqq/index.html?',s.join('&'),'" target="_blank">分享到QQ</a>'].join(''));
+})();
+</script>
+<script src="http://connect.qq.com/widget/loader/loader.js" widget="shareqq" charset="utf-8"></script>
+
+<a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=c6b06fc4e01d09325fffdafec6a2c7099e4c017665bbdc39ee3ca3c76d3a9248"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="ROAD性能测试初级L0群" title="ROAD性能测试初级L0群"></a>    </p>
+    <p class="copy">
+    Copyright &copy; 2001-2013 <a href="http://www.comsenz.com" target="_blank">Comsenz Inc.</a> &nbsp; All Rights Reserved.
+    </p>
+    <p class="copy">Powered by <strong><a href="http://www.discuz.net" target="_blank">Discuz!</a></strong> <em>X3.1</em>( <a href="http://www.miitbeian.gov.cn/" target="_blank">上海鲁德企业管理咨询有限公司 沪ICP备12045271号</a> )</p>
+          </div>  
+</div>
+<div id="scrolltop">
+<span hidefocus="true"><a title="返回顶部" onclick="window.scrollTo('0','0')" class="scrolltopa" ><b>返回顶部</b></a></span>
+<span>
+<a href="forum.php" hidefocus="true" class="returnboard" title="返回版块"><b>返回版块</b></a>
+</span>
+</div>
+<script type="text/javascript">_attachEvent(window, 'scroll', function () { showTopLink(); });checkBlind();</script>
+			<div id="discuz_tips" style="display:none;"></div>
+			<script type="text/javascript">
+				var tipsinfo = '30214883|X3.1|0.6||0||0|7|1480409635|c99ee64b468721d3fb1bde05a8a11ebb|2';
+			</script>
+			<script src="http://discuz.gtimg.cn/cloud/scripts/discuz_tips.js?v=1" type="text/javascript" charset="UTF-8"></script></body>
+</html>
+
+0
+

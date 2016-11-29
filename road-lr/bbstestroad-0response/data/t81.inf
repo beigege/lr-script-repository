@@ -1,0 +1,13 @@
+[t81]
+FileName1=t81_forum.xml
+URL1=http://bbs.testroad.org/forum.php?mod=ajax&action=forumchecknew&fid=15&time=1480409641&inajax=yes
+Total=1
+ContentType=text/xml
+SnapshotXmlFile=snapshot_10.xml
+RequestHeaderFile=t81_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t81_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

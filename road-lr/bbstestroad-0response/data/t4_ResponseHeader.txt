@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Expires: Tue, 29 Nov 2016 08:35:05 GMT
+Date: Mon, 28 Nov 2016 08:35:05 GMT
+Server: nginx
+Content-Type: application/json; charset=utf-8
+Transfer-Encoding: chunked
+Cache-Control: max-age=86400
+Content-Encoding: gzip
+Age: 1
+X-Via: 1.1 wj31:3 (Cdn Cache Server V2.0), 1.1 zhwtxz29:2 (Cdn Cache Server V2.0), 1.1 gwt11:7 (Cdn Cache Server V2.0)
+Connection: keep-alive
+

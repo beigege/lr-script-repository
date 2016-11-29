@@ -1,0 +1,13 @@
+[t60]
+FileName1=t60.htm
+URL1=http://bbs.testroad.org/?WebShieldSessionVerify=81PgkeewGMDvl8KoBEYM
+Total=1
+RequestHeaderFile=t60_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t60_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_6.xml
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

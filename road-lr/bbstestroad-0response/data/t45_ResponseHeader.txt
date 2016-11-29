@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Expires: Tue, 29 Nov 2016 07:34:41 GMT
+Date: Mon, 28 Nov 2016 07:34:41 GMT
+Server: nginx/1.1.19
+Content-Type: application/x-xpinstall
+Content-Length: 4993
+Last-Modified: Fri, 19 Jun 2015 04:48:30 GMT
+Cache-Control: max-age=86400
+Accept-Ranges: bytes
+Age: 84072
+Via: 1.1 xiazai40:3 (Cdn Cache Server V2.0), 1.1 danwangtong87:2 (Cdn Cache Server V2.0)
+Connection: keep-alive
+

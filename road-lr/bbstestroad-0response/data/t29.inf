@@ -1,0 +1,11 @@
+[t29]
+FileName1=t29_ChNnb29nLW1hbHdhcmUtc2hhdmFyOABAAkoXCAAQxakPGIStDyABKgl0kwKUApADmgM.html
+URL1=http://safebrowsing-cache.google.com/safebrowsing/rd/ChNnb29nLW1hbHdhcmUtc2hhdmFyOABAAkoXCAAQxakPGIStDyABKgl0kwKUApADmgM
+Total=1
+ContentType=application/vnd.google.safebrowsing-chunk
+SnapshotXmlFile=snapshot_29.xml
+RequestHeaderFile=t29_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t29_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

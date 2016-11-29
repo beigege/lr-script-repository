@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Date: Tue, 29 Nov 2016 06:54:02 GMT
+Server: Apache/2.2.19 (Win32) PHP/5.2.17
+X-Powered-By: PHP/5.2.17
+Set-Cookie: eFID_2132_lastact=1480402442%09forum.php%09ajax; expires=Wed, 30-Nov-2016 06:54:02 GMT; path=/
+Expires: -1
+Cache-Control: no-store, private, post-check=0, pre-check=0, max-age=0
+Pragma: no-cache
+Content-Length: 64
+Keep-Alive: timeout=5, max=100
+Connection: Keep-Alive
+Content-Type: text/xml; charset=gbk
+

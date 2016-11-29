@@ -1,0 +1,10 @@
+if($('secqaa_qSSKSJiy')) {
+	var sectpl = seccheck_tpl['qSSKSJiy'] != '' ? seccheck_tpl['qSSKSJiy'].replace(/<hash>/g, 'codeqSSKSJiy') : '';
+	var sectplcode = sectpl != '' ? sectpl.split('<sec>') : Array('<br />',': ','<br />','');
+	var string = '<input name="secqaahash" type="hidden" value="qSSKSJiy" />' + sectplcode[0] + '验证问答' + sectplcode[1] + '<input name="secanswer" id="secqaaverify_qSSKSJiy" type="text" autocomplete="off" style="width:100px" class="txt px vm" onblur="checksec(\'qaa\', \'qSSKSJiy\')" />' +
+		' <a href="javascript:;" onclick="updatesecqaa(\'qSSKSJiy\');doane(event);" class="xi2">换一个</a>' +
+		'<span id="checksecqaaverify_qSSKSJiy"><img src="' + STATICURL + 'image/common/none.gif" width="16" height="16" class="vm" /></span>' +
+		sectplcode[2] + '83 - 10 = ?' + sectplcode[3];
+	evalscript(string);
+	$('secqaa_qSSKSJiy').innerHTML = string;
+}

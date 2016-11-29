@@ -1,0 +1,9 @@
+GET /widget/shareqq/widget.html?url=http%3A%2F%2Fbbs.testroad.org%2Fforum-15-1.html&desc=&title=&summary=&pics=&flash=&site=&style=101&width=96&height=24&showcount= HTTP/1.1
+Host: connect.qq.com
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: http://bbs.testroad.org/forum-15-1.html
+Connection: keep-alive
+

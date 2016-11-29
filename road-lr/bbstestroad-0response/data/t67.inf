@@ -1,0 +1,13 @@
+[t67]
+FileName1=t67.htm
+URL1=http://connect.qq.com/widget/shareqq/widget.html?url=http%3A%2F%2Fbs.testroad.org%2Fforum-15-2.html&desc=&title=&summary=&pics=&flash=&site=&style=101&width=96&height=24&showcount=
+Total=1
+RequestHeaderFile=t67_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t67_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_13.xml
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

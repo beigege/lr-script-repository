@@ -1,0 +1,11 @@
+GET /forum.php?mod=ajax&action=forumchecknew&fid=15&time=1480402335&inajax=yes HTTP/1.1
+Host: bbs.testroad.org
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: zh-cn,zh;q=0.8,en-us;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+X-Requested-With: XMLHttpRequest
+Referer: http://bbs.testroad.org/forum-15-1.html
+Cookie: eFID_2132_saltkey=V770O6lw; eFID_2132_lastvisit=1480398698; eFID_2132_sid=SqlFDM; eFID_2132_lastact=1480402442%09forum.php%09ajax; safedog-flow-item=A873C8689BFDF3640924F2B1CEB660B7; pgv_pvi=8882643722; pgv_info=ssi=s59232690; eFID_2132_sendmail=1; eFID_2132_st_t=0%7C1480402335%7Cde2291559305748c4e0719bfcfdd909a; eFID_2132_forum_lastvisit=D_15_1480402335; eFID_2132_visitedfid=15; eFID_2132_secqaa=4451.5b97f4f789712bcb47
+Connection: keep-alive
+

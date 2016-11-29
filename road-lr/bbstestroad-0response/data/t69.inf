@@ -1,0 +1,13 @@
+[t69]
+FileName1=t69_forum.xml
+URL1=http://bs.testroad.org/forum.php?mod=ajax&action=forumchecknew&fid=15&time=1480407114&inajax=yes
+Total=1
+ContentType=text/xml
+SnapshotXmlFile=snapshot_15.xml
+RequestHeaderFile=t69_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t69_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1

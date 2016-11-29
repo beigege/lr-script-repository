@@ -1,0 +1,15 @@
+[t48]
+FileName1=t48.htm
+URL1=http://bbs.testroad.org/forum-15-2.html
+Total=3
+RequestHeaderFile=t48_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t48_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_48.xml
+FileName2=t48_folder_common.gif
+URL2=http://bbs.testroad.org/static/image/common/folder_common.gif
+FileName3=t48_MzAyMTQ4ODM=.html
+URL3=http://tcss.qq.com/heatmap/83/MzAyMTQ4ODM=.js?rand=5487161732
+[ProtocolInfo]
+ProtocolId=QTWeb

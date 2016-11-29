@@ -1,0 +1,13 @@
+[t68]
+FileName1=t68.htm
+URL1=http://bs.testroad.org/misc.php?mod=secqaa&action=update&idhash=qSC0176n&0.698842955499312
+Total=1
+RequestHeaderFile=t68_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t68_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_14.xml
+[ProtocolInfo]
+ProtocolId=QTWeb
+[AdditionalInfo]
+IsIgnorable=1
