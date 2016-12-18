@@ -1,0 +1,16 @@
+Virtual User Script started at : 2016-12-17 12:56:00
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 11.0.0 for Windows 7; build 8859 (Aug 18 2010 20:14:31)  	[MsgId: MMSG-27143]
+Run Mode: HTML  	[MsgId: MMSG-26000]
+Run-Time Settings file: "D:\2016study\git-space\lr-script-repository\ctest\1217c考试\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Starting action Action.
+Action.c(11): 数组中所有元素的平方的和:35
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

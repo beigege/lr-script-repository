@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-ID:\2016study\git-space\lr-script-repository\ctest\1217cøº ‘
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ed:\2016study\git-space\lr-script-repository\ctest\1217cøº ‘\\logfile.log
+d:\2016study\git-space\lr-script-repository\ctest\1217cøº ‘\\combined_1217cøº ‘.c
+d:\2016study\git-space\lr-script-repository\ctest\1217cøº ‘\\pre_cci.c

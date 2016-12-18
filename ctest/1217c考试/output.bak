@@ -1,0 +1,3 @@
+Action.c (10): operands of = have illegal types `pointer to char' and `int'
+Action.c (67): warning: declaration of `getSquareSumstr' does not match previous declaration at Action.c (10)
+d:\\2016study\\git-space\\lr-script-repository\\ctest\\1217c\277\274\312\324\\\\combined_1217c\277\274\312\324.c (5): 1 errors, not writing pre_cci.ci
